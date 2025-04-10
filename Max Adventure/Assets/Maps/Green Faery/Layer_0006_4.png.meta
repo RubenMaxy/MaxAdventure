@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 61c1a4f1b28eb6a4397a61daa5c849d3
+guid: 86ebbdf5d3bc52f4b8c98cb5f7fb98f1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3112928427010784102
-    second: parallax-demon-woods-bg_0
+      213: -4913721107209408423
+    second: Layer_0006_4_0
+  - first:
+      213: -1305213797069370701
+    second: Layer_0006_4_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,30 +99,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: parallax-demon-woods-bg_0
+      name: Layer_0006_4_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 480
-        height: 272
+        y: 63
+        width: 902
+        height: 273
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +118,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a948ec0b618acc4d0800000000000000
-      internalID: -3112928427010784102
+      spriteID: 950b17fdfa4fecbb0800000000000000
+      internalID: -4913721107209408423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer_0006_4_1
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 63
+        width: 75
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bacdb587f2f2ede0800000000000000
+      internalID: -1305213797069370701
       vertices: []
       indices: 
       edges: []

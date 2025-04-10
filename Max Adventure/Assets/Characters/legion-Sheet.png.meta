@@ -1,0 +1,1651 @@
+fileFormatVersion: 2
+guid: 39e64814a71bc5947af792f2aabb829e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6828370869659918577
+    second: legion-Sheet_0
+  - first:
+      213: 7638390336117390449
+    second: legion-Sheet_1
+  - first:
+      213: 7711767885651981039
+    second: legion-Sheet_2
+  - first:
+      213: -2267829766377765693
+    second: legion-Sheet_3
+  - first:
+      213: -2441402455828203970
+    second: legion-Sheet_4
+  - first:
+      213: 5899932125104289449
+    second: legion-Sheet_5
+  - first:
+      213: -3536086134101901987
+    second: legion-Sheet_6
+  - first:
+      213: -4651201824850947209
+    second: legion-Sheet_7
+  - first:
+      213: 7624775862022477865
+    second: legion-Sheet_8
+  - first:
+      213: -469470408452388956
+    second: legion-Sheet_9
+  - first:
+      213: -5746620948148372607
+    second: legion-Sheet_10
+  - first:
+      213: 7484251035083965297
+    second: legion-Sheet_11
+  - first:
+      213: -2881821469057137371
+    second: legion-Sheet_12
+  - first:
+      213: 4860547978994486338
+    second: legion-Sheet_13
+  - first:
+      213: 2711648238947924825
+    second: legion-Sheet_14
+  - first:
+      213: 2320496481095363116
+    second: legion-Sheet_15
+  - first:
+      213: 550250685318935320
+    second: legion-Sheet_16
+  - first:
+      213: 4032885423014375754
+    second: legion-Sheet_17
+  - first:
+      213: -4977397412148208292
+    second: legion-Sheet_18
+  - first:
+      213: -1157676035750718084
+    second: legion-Sheet_19
+  - first:
+      213: -7807762563606193618
+    second: legion-Sheet_20
+  - first:
+      213: 7255673813368063846
+    second: legion-Sheet_21
+  - first:
+      213: -5063871571025784983
+    second: legion-Sheet_22
+  - first:
+      213: -7127690027249230781
+    second: legion-Sheet_23
+  - first:
+      213: -6354767548559003992
+    second: legion-Sheet_24
+  - first:
+      213: 1657192059542258891
+    second: legion-Sheet_25
+  - first:
+      213: 372053125424836621
+    second: legion-Sheet_26
+  - first:
+      213: -8988754036130646500
+    second: legion-Sheet_27
+  - first:
+      213: -8266805361497529739
+    second: legion-Sheet_28
+  - first:
+      213: 783552517707694649
+    second: legion-Sheet_29
+  - first:
+      213: 1533423659428768077
+    second: legion-Sheet_30
+  - first:
+      213: 7640619954152045074
+    second: legion-Sheet_31
+  - first:
+      213: -7415002001000451633
+    second: legion-Sheet_32
+  - first:
+      213: -3791158715657363258
+    second: legion-Sheet_33
+  - first:
+      213: -4743175403344553256
+    second: legion-Sheet_34
+  - first:
+      213: -2096227293738986409
+    second: legion-Sheet_35
+  - first:
+      213: 5903850121831352219
+    second: legion-Sheet_36
+  - first:
+      213: -2729294639887764792
+    second: legion-Sheet_37
+  - first:
+      213: 262298759388054272
+    second: legion-Sheet_38
+  - first:
+      213: 8116650754521110216
+    second: legion-Sheet_39
+  - first:
+      213: -4309988806662343775
+    second: legion-Sheet_40
+  - first:
+      213: -5864452795240335908
+    second: legion-Sheet_41
+  - first:
+      213: -812395604669640856
+    second: legion-Sheet_42
+  - first:
+      213: 2261312166663450139
+    second: legion-Sheet_43
+  - first:
+      213: 7017911010186037720
+    second: legion-Sheet_44
+  - first:
+      213: 7574786464428134218
+    second: legion-Sheet_45
+  - first:
+      213: -655367889787958399
+    second: legion-Sheet_46
+  - first:
+      213: 6457677790346919641
+    second: legion-Sheet_47
+  - first:
+      213: -748815602804178202
+    second: legion-Sheet_48
+  - first:
+      213: 5483139854728917350
+    second: legion-Sheet_49
+  - first:
+      213: 1597094856827060375
+    second: legion-Sheet_50
+  - first:
+      213: 6051125219497080019
+    second: legion-Sheet_51
+  - first:
+      213: 2231110515663790579
+    second: legion-Sheet_52
+  - first:
+      213: 4427803507942429609
+    second: legion-Sheet_53
+  - first:
+      213: -1067766600166152598
+    second: legion-Sheet_54
+  - first:
+      213: -3983137095371708450
+    second: legion-Sheet_55
+  - first:
+      213: -1579966291742647266
+    second: legion-Sheet_56
+  - first:
+      213: -772404552623071603
+    second: legion-Sheet_57
+  - first:
+      213: 4345241579576993976
+    second: legion-Sheet_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: legion-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 415
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f9b4f4fd0cc31a0800000000000000
+      internalID: -6828370869659918577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 415
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cbd007a83010a60800000000000000
+      internalID: 7638390336117390449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 415
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe23d868804b50b60800000000000000
+      internalID: 7711767885651981039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 415
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c40ffbc7dc0780e0800000000000000
+      internalID: -2267829766377765693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 414
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36f79ac6656e1ed0800000000000000
+      internalID: -2441402455828203970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 412
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6b1c33205c0e150800000000000000
+      internalID: 5899932125104289449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 412
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dfba1656c4deec0800000000000000
+      internalID: -3536086134101901987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 412
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7735c1b559c937fb0800000000000000
+      internalID: -4651201824850947209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 412
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92892dbaf35a0d960800000000000000
+      internalID: 7624775862022477865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 414
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a743af962b1c79f0800000000000000
+      internalID: -469470408452388956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 415
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b3ccec1b6ef30b0800000000000000
+      internalID: -5746620948148372607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 415
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1738704c9a66dd760800000000000000
+      internalID: 7484251035083965297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 415
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52541c674a6b108d0800000000000000
+      internalID: -2881821469057137371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 415
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c85b572a2247340800000000000000
+      internalID: 4860547978994486338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 415
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bfd46d4b5b1a520800000000000000
+      internalID: 2711648238947924825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 406
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2aab3a414f043020800000000000000
+      internalID: 2320496481095363116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 400
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813b9db3512e2a700800000000000000
+      internalID: 550250685318935320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 287
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a417f92dcefa7f730800000000000000
+      internalID: 4032885423014375754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 287
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d15fecc6bbceab0800000000000000
+      internalID: -4977397412148208292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 287
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75981477cb1fefe0800000000000000
+      internalID: -1157676035750718084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 287
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ad8a1d05145a390800000000000000
+      internalID: -7807762563606193618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 286
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66748eb14e451b460800000000000000
+      internalID: 7255673813368063846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 284
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f0fccb2a389b9b0800000000000000
+      internalID: -5063871571025784983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 284
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c17b03fab551d90800000000000000
+      internalID: -7127690027249230781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 284
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aee5f565945fc7a0800000000000000
+      internalID: -6354767548559003992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 285
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc44d91e5678ff610800000000000000
+      internalID: 1657192059542258891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 286
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00758aa85cc92500800000000000000
+      internalID: 372053125424836621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 286
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16f21f14d7814380800000000000000
+      internalID: -8988754036130646500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 286
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57225a8b258664d80800000000000000
+      internalID: -8266805361497529739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 286
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93284d80ddcbfda00800000000000000
+      internalID: 783552517707694649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 286
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d496e6e91b0d74510800000000000000
+      internalID: 1533423659428768077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 286
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a7ef6dd5fe80a60800000000000000
+      internalID: 7640619954152045074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 286
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1be8967fe981990800000000000000
+      internalID: -7415002001000451633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 282
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0ed1a0c39136bc0800000000000000
+      internalID: -3791158715657363258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 286
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da1740e91bdc2eb0800000000000000
+      internalID: -4743175403344553256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 286
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7549534f164b8e2e0800000000000000
+      internalID: -2096227293738986409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 285
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9787e6e760bee150800000000000000
+      internalID: 5903850121831352219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 284
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2bc164cf89f1ad0800000000000000
+      internalID: -2729294639887764792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 284
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003c95af45fd3a300800000000000000
+      internalID: 262298759388054272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 284
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6132d7bd224a070800000000000000
+      internalID: 8116650754521110216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 2974
+        y: 286
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a33bf00408df24c0800000000000000
+      internalID: -4309988806662343775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 287
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd537a101474d9ea0800000000000000
+      internalID: -5864452795240335908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 287
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fc396708ac9b4f0800000000000000
+      internalID: -812395604669640856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 287
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e6e344f6bc16f10800000000000000
+      internalID: 2261312166663450139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 3485
+        y: 287
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9017b91e0a46160800000000000000
+      internalID: 7017911010186037720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 159
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f0dad082c0f1960800000000000000
+      internalID: 7574786464428134218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 159
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bcdf3606aa7e6f0800000000000000
+      internalID: -655367889787958399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 159
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9debe8f6cb74e9950800000000000000
+      internalID: 6457677790346919641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 159
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e246983d2cab95f0800000000000000
+      internalID: -748815602804178202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 159
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66177ee95a6081c40800000000000000
+      internalID: 5483139854728917350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 159
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790c7cd7f450a2610800000000000000
+      internalID: 1597094856827060375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 31
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4f78fa35ae9f350800000000000000
+      internalID: 6051125219497080019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 30
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f167cc613f76fe10800000000000000
+      internalID: 2231110515663790579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 30
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3132ab4d7b27d30800000000000000
+      internalID: 4427803507942429609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 30
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66e1163fe78e21f0800000000000000
+      internalID: -1067766600166152598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 29
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed720b25aed09b8c0800000000000000
+      internalID: -3983137095371708450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 30
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c96975705d21ae0800000000000000
+      internalID: -1579966291742647266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 30
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ed10ad62ed745f0800000000000000
+      internalID: -772404552623071603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legion-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 31
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8a1fdc1366d4c30800000000000000
+      internalID: 4345241579576993976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      legion-Sheet_0: -6828370869659918577
+      legion-Sheet_1: 7638390336117390449
+      legion-Sheet_10: -5746620948148372607
+      legion-Sheet_11: 7484251035083965297
+      legion-Sheet_12: -2881821469057137371
+      legion-Sheet_13: 4860547978994486338
+      legion-Sheet_14: 2711648238947924825
+      legion-Sheet_15: 2320496481095363116
+      legion-Sheet_16: 550250685318935320
+      legion-Sheet_17: 4032885423014375754
+      legion-Sheet_18: -4977397412148208292
+      legion-Sheet_19: -1157676035750718084
+      legion-Sheet_2: 7711767885651981039
+      legion-Sheet_20: -7807762563606193618
+      legion-Sheet_21: 7255673813368063846
+      legion-Sheet_22: -5063871571025784983
+      legion-Sheet_23: -7127690027249230781
+      legion-Sheet_24: -6354767548559003992
+      legion-Sheet_25: 1657192059542258891
+      legion-Sheet_26: 372053125424836621
+      legion-Sheet_27: -8988754036130646500
+      legion-Sheet_28: -8266805361497529739
+      legion-Sheet_29: 783552517707694649
+      legion-Sheet_3: -2267829766377765693
+      legion-Sheet_30: 1533423659428768077
+      legion-Sheet_31: 7640619954152045074
+      legion-Sheet_32: -7415002001000451633
+      legion-Sheet_33: -3791158715657363258
+      legion-Sheet_34: -4743175403344553256
+      legion-Sheet_35: -2096227293738986409
+      legion-Sheet_36: 5903850121831352219
+      legion-Sheet_37: -2729294639887764792
+      legion-Sheet_38: 262298759388054272
+      legion-Sheet_39: 8116650754521110216
+      legion-Sheet_4: -2441402455828203970
+      legion-Sheet_40: -4309988806662343775
+      legion-Sheet_41: -5864452795240335908
+      legion-Sheet_42: -812395604669640856
+      legion-Sheet_43: 2261312166663450139
+      legion-Sheet_44: 7017911010186037720
+      legion-Sheet_45: 7574786464428134218
+      legion-Sheet_46: -655367889787958399
+      legion-Sheet_47: 6457677790346919641
+      legion-Sheet_48: -748815602804178202
+      legion-Sheet_49: 5483139854728917350
+      legion-Sheet_5: 5899932125104289449
+      legion-Sheet_50: 1597094856827060375
+      legion-Sheet_51: 6051125219497080019
+      legion-Sheet_52: 2231110515663790579
+      legion-Sheet_53: 4427803507942429609
+      legion-Sheet_54: -1067766600166152598
+      legion-Sheet_55: -3983137095371708450
+      legion-Sheet_56: -1579966291742647266
+      legion-Sheet_57: -772404552623071603
+      legion-Sheet_58: 4345241579576993976
+      legion-Sheet_6: -3536086134101901987
+      legion-Sheet_7: -4651201824850947209
+      legion-Sheet_8: 7624775862022477865
+      legion-Sheet_9: -469470408452388956
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

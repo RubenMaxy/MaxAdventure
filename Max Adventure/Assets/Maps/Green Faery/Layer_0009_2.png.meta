@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: acc9e472e8cb101489e652bd7efc9fd7
+guid: 40416a45a0d148147a61d340bd393c73
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4044950172800378670
-    second: parallax-demon-woods-close-trees_0
+      213: -8448498449716747009
+    second: Layer_0009_2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,30 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: parallax-demon-woods-close-trees_0
+      name: Layer_0009_2_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 592
-        height: 272
+        width: 928
+        height: 415
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e27ebe740cc822830800000000000000
-      internalID: 4044950172800378670
+      spriteID: ff4e13b0c67e0ca80800000000000000
+      internalID: -8448498449716747009
       vertices: []
       indices: 
       edges: []

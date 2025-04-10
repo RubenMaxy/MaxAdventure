@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: f0bc2625bdcb28045a8e5f169778cd65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5203279140036369439
+    second: buchet-Sheet_0
+  - first:
+      213: 6683326359612509510
+    second: buchet-Sheet_1
+  - first:
+      213: 1648429908359569218
+    second: buchet-Sheet_2
+  - first:
+      213: 1488458345278362575
+    second: buchet-Sheet_3
+  - first:
+      213: 4978920393838267511
+    second: buchet-Sheet_4
+  - first:
+      213: -7570383925953237518
+    second: buchet-Sheet_5
+  - first:
+      213: 1748855255187111727
+    second: buchet-Sheet_6
+  - first:
+      213: 4304636723958374261
+    second: buchet-Sheet_7
+  - first:
+      213: 591118307695306680
+    second: buchet-Sheet_8
+  - first:
+      213: 7134474479890686815
+    second: buchet-Sheet_9
+  - first:
+      213: -7348600869693612639
+    second: buchet-Sheet_10
+  - first:
+      213: 7077468020775064230
+    second: buchet-Sheet_11
+  - first:
+      213: 100147289478774036
+    second: buchet-Sheet_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: buchet-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 6
+        width: 232
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c51194fc2c53840800000000000000
+      internalID: 5203279140036369439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buchet-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 6
+        width: 207
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d45be0ae1ffbc50800000000000000
+      internalID: 6683326359612509510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buchet-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 292
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fd6e4944660e610800000000000000
+      internalID: 1648429908359569218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buchet-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 6
+        width: 201
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc358459af018a410800000000000000
+      internalID: 1488458345278362575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buchet-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 6
+        width: 201
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c8daff7bda81540800000000000000
+      internalID: 4978920393838267511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buchet-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 6
+        width: 201
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdea30dde790f690800000000000000
+      internalID: -7570383925953237518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buchet-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 6
+        width: 309
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fb009b69e254810800000000000000
+      internalID: 1748855255187111727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buchet-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 251
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fd3a22b442dbb30800000000000000
+      internalID: 4304636723958374261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buchet-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 6
+        width: 304
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7a86e08f2143800800000000000000
+      internalID: 591118307695306680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buchet-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 6
+        width: 304
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5369f84dbeb20360800000000000000
+      internalID: 7134474479890686815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buchet-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 6
+        width: 314
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad19cd8176840a90800000000000000
+      internalID: -7348600869693612639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buchet-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 6
+        width: 318
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a21c77baa7383260800000000000000
+      internalID: 7077468020775064230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buchet-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 6
+        width: 308
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41db99edd6bc36100800000000000000
+      internalID: 100147289478774036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      buchet-Sheet_0: 5203279140036369439
+      buchet-Sheet_1: 6683326359612509510
+      buchet-Sheet_10: -7348600869693612639
+      buchet-Sheet_11: 7077468020775064230
+      buchet-Sheet_12: 100147289478774036
+      buchet-Sheet_2: 1648429908359569218
+      buchet-Sheet_3: 1488458345278362575
+      buchet-Sheet_4: 4978920393838267511
+      buchet-Sheet_5: -7570383925953237518
+      buchet-Sheet_6: 1748855255187111727
+      buchet-Sheet_7: 4304636723958374261
+      buchet-Sheet_8: 591118307695306680
+      buchet-Sheet_9: 7134474479890686815
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

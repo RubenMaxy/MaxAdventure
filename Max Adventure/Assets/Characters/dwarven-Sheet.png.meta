@@ -1,0 +1,3263 @@
+fileFormatVersion: 2
+guid: 0a7dbe95e02e5764186628320c0bc882
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6153090425265475363
+    second: dwarven-Sheet_0
+  - first:
+      213: -3969271831894929844
+    second: dwarven-Sheet_1
+  - first:
+      213: -8607277016488771142
+    second: dwarven-Sheet_2
+  - first:
+      213: 4340877213249178306
+    second: dwarven-Sheet_3
+  - first:
+      213: -6597561163168623110
+    second: dwarven-Sheet_4
+  - first:
+      213: -5712279900952311053
+    second: dwarven-Sheet_5
+  - first:
+      213: 4615978022383501751
+    second: dwarven-Sheet_6
+  - first:
+      213: -8833158069396114554
+    second: dwarven-Sheet_7
+  - first:
+      213: -5776788886928364386
+    second: dwarven-Sheet_8
+  - first:
+      213: 3497037506925215468
+    second: dwarven-Sheet_9
+  - first:
+      213: -935248438742333475
+    second: dwarven-Sheet_10
+  - first:
+      213: -5698579075994762565
+    second: dwarven-Sheet_11
+  - first:
+      213: 4751072465296285454
+    second: dwarven-Sheet_12
+  - first:
+      213: 6089090728314157377
+    second: dwarven-Sheet_13
+  - first:
+      213: -2052606431310616558
+    second: dwarven-Sheet_14
+  - first:
+      213: -5122141698224055047
+    second: dwarven-Sheet_15
+  - first:
+      213: 530846246600736062
+    second: dwarven-Sheet_16
+  - first:
+      213: 3909865296134004799
+    second: dwarven-Sheet_17
+  - first:
+      213: -6703720519056524941
+    second: dwarven-Sheet_18
+  - first:
+      213: 2605960861695689087
+    second: dwarven-Sheet_19
+  - first:
+      213: 921235903759248139
+    second: dwarven-Sheet_20
+  - first:
+      213: -281546251337073676
+    second: dwarven-Sheet_21
+  - first:
+      213: -3105825765204161648
+    second: dwarven-Sheet_22
+  - first:
+      213: 5991353718226639865
+    second: dwarven-Sheet_23
+  - first:
+      213: -8834128986143364463
+    second: dwarven-Sheet_24
+  - first:
+      213: -2798370171158378391
+    second: dwarven-Sheet_25
+  - first:
+      213: 9045839624636542814
+    second: dwarven-Sheet_26
+  - first:
+      213: 5836784291771525686
+    second: dwarven-Sheet_27
+  - first:
+      213: -5319681245676615314
+    second: dwarven-Sheet_28
+  - first:
+      213: 210895809381088692
+    second: dwarven-Sheet_29
+  - first:
+      213: -8996192704082476373
+    second: dwarven-Sheet_30
+  - first:
+      213: 4007170481711468755
+    second: dwarven-Sheet_31
+  - first:
+      213: -3982625299277280771
+    second: dwarven-Sheet_32
+  - first:
+      213: -1563342124537922459
+    second: dwarven-Sheet_33
+  - first:
+      213: 7738666203379082180
+    second: dwarven-Sheet_34
+  - first:
+      213: 8095820255973785243
+    second: dwarven-Sheet_35
+  - first:
+      213: -6702681290733964293
+    second: dwarven-Sheet_36
+  - first:
+      213: 6448375386405742859
+    second: dwarven-Sheet_37
+  - first:
+      213: -267656985961347769
+    second: dwarven-Sheet_38
+  - first:
+      213: 7153410262724929447
+    second: dwarven-Sheet_39
+  - first:
+      213: 613347612431556370
+    second: dwarven-Sheet_40
+  - first:
+      213: -4356585810702127525
+    second: dwarven-Sheet_41
+  - first:
+      213: 6896624541552879393
+    second: dwarven-Sheet_42
+  - first:
+      213: 8752198934811584723
+    second: dwarven-Sheet_43
+  - first:
+      213: -3787151512698251407
+    second: dwarven-Sheet_44
+  - first:
+      213: 5077549598526937727
+    second: dwarven-Sheet_45
+  - first:
+      213: -110103967146941167
+    second: dwarven-Sheet_46
+  - first:
+      213: 1447212889966652301
+    second: dwarven-Sheet_47
+  - first:
+      213: 8811412816659932346
+    second: dwarven-Sheet_48
+  - first:
+      213: -3836280890728299658
+    second: dwarven-Sheet_49
+  - first:
+      213: -8882050569187002354
+    second: dwarven-Sheet_50
+  - first:
+      213: -2845518788391019353
+    second: dwarven-Sheet_51
+  - first:
+      213: 5701289935670355244
+    second: dwarven-Sheet_52
+  - first:
+      213: 1912221685496549463
+    second: dwarven-Sheet_53
+  - first:
+      213: -1921878243548828520
+    second: dwarven-Sheet_54
+  - first:
+      213: 3630212308326383273
+    second: dwarven-Sheet_55
+  - first:
+      213: -5651183065887810522
+    second: dwarven-Sheet_56
+  - first:
+      213: -8888776572141334992
+    second: dwarven-Sheet_57
+  - first:
+      213: 794925114349107456
+    second: dwarven-Sheet_58
+  - first:
+      213: 5830682176698575938
+    second: dwarven-Sheet_59
+  - first:
+      213: 7686374626391225334
+    second: dwarven-Sheet_60
+  - first:
+      213: 5065808868672121509
+    second: dwarven-Sheet_61
+  - first:
+      213: 8467135345478803995
+    second: dwarven-Sheet_62
+  - first:
+      213: 686940481751695679
+    second: dwarven-Sheet_63
+  - first:
+      213: 3194523801334055818
+    second: dwarven-Sheet_64
+  - first:
+      213: -6516974519215728670
+    second: dwarven-Sheet_65
+  - first:
+      213: 4211640838185059350
+    second: dwarven-Sheet_66
+  - first:
+      213: -2435492287671463319
+    second: dwarven-Sheet_67
+  - first:
+      213: -6845307929836433323
+    second: dwarven-Sheet_68
+  - first:
+      213: -3107151126947698128
+    second: dwarven-Sheet_69
+  - first:
+      213: -7426633912378343841
+    second: dwarven-Sheet_70
+  - first:
+      213: -5757892535559660721
+    second: dwarven-Sheet_71
+  - first:
+      213: -1505912203968032204
+    second: dwarven-Sheet_72
+  - first:
+      213: -7924797951555726277
+    second: dwarven-Sheet_73
+  - first:
+      213: -2529809988331344366
+    second: dwarven-Sheet_74
+  - first:
+      213: -5278128117859136793
+    second: dwarven-Sheet_75
+  - first:
+      213: -8170392367053400174
+    second: dwarven-Sheet_76
+  - first:
+      213: -8943066612670777368
+    second: dwarven-Sheet_77
+  - first:
+      213: 4633125041106433647
+    second: dwarven-Sheet_78
+  - first:
+      213: 2249508777722077516
+    second: dwarven-Sheet_79
+  - first:
+      213: 5331119809259360534
+    second: dwarven-Sheet_80
+  - first:
+      213: -7675945890253016344
+    second: dwarven-Sheet_81
+  - first:
+      213: -189793603253066197
+    second: dwarven-Sheet_82
+  - first:
+      213: 2728602388321216740
+    second: dwarven-Sheet_83
+  - first:
+      213: -8501102711906966035
+    second: dwarven-Sheet_84
+  - first:
+      213: -6922439794855619454
+    second: dwarven-Sheet_85
+  - first:
+      213: 4523027294443220144
+    second: dwarven-Sheet_86
+  - first:
+      213: -352605698553529201
+    second: dwarven-Sheet_87
+  - first:
+      213: 5211884423319134179
+    second: dwarven-Sheet_88
+  - first:
+      213: -7299323336735210397
+    second: dwarven-Sheet_89
+  - first:
+      213: 51130803731995552
+    second: dwarven-Sheet_90
+  - first:
+      213: -3134768030901756097
+    second: dwarven-Sheet_91
+  - first:
+      213: -820865942367552714
+    second: dwarven-Sheet_92
+  - first:
+      213: -3021376266559551599
+    second: dwarven-Sheet_93
+  - first:
+      213: 1570961032715920320
+    second: dwarven-Sheet_94
+  - first:
+      213: -3316652971797259939
+    second: dwarven-Sheet_95
+  - first:
+      213: -1573997389621594271
+    second: dwarven-Sheet_96
+  - first:
+      213: 3935543463025261957
+    second: dwarven-Sheet_97
+  - first:
+      213: 1590273721818327010
+    second: dwarven-Sheet_98
+  - first:
+      213: 8256364525876949012
+    second: dwarven-Sheet_99
+  - first:
+      213: -6225130178645274646
+    second: dwarven-Sheet_100
+  - first:
+      213: 5001389185667950230
+    second: dwarven-Sheet_101
+  - first:
+      213: 6813256776321783633
+    second: dwarven-Sheet_102
+  - first:
+      213: -8806437198540908720
+    second: dwarven-Sheet_103
+  - first:
+      213: 144685774129464697
+    second: dwarven-Sheet_104
+  - first:
+      213: 131329698722910355
+    second: dwarven-Sheet_105
+  - first:
+      213: 2317502047137897742
+    second: dwarven-Sheet_106
+  - first:
+      213: 8126557241504469160
+    second: dwarven-Sheet_107
+  - first:
+      213: -8503261706246434750
+    second: dwarven-Sheet_108
+  - first:
+      213: -9204901068064802649
+    second: dwarven-Sheet_109
+  - first:
+      213: -5527631663351030133
+    second: dwarven-Sheet_110
+  - first:
+      213: 4211732524051273251
+    second: dwarven-Sheet_111
+  - first:
+      213: -2466469575713761107
+    second: dwarven-Sheet_112
+  - first:
+      213: 181298016911049915
+    second: dwarven-Sheet_113
+  - first:
+      213: 5812059021245331647
+    second: dwarven-Sheet_114
+  - first:
+      213: 6926797023684871803
+    second: dwarven-Sheet_115
+  - first:
+      213: 2203233481771640612
+    second: dwarven-Sheet_116
+  - first:
+      213: -2461295843484451530
+    second: dwarven-Sheet_117
+  - first:
+      213: -938432145569842085
+    second: dwarven-Sheet_118
+  - first:
+      213: 4642186255603644424
+    second: dwarven-Sheet_119
+  - first:
+      213: 6954445843634532580
+    second: dwarven-Sheet_120
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dwarven-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 543
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f4ecc242b246550800000000000000
+      internalID: 6153090425265475363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 543
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e40fa8c405ae8c0800000000000000
+      internalID: -3969271831894929844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 543
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab18dc4282fcc8880800000000000000
+      internalID: -8607277016488771142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 543
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca0e4593d4ed3c30800000000000000
+      internalID: 4340877213249178306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 543
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5db65d311c074a0800000000000000
+      internalID: -6597561163168623110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 543
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa422ee1b7e9b0b0800000000000000
+      internalID: -5712279900952311053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 543
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1cd2b0e8f3f0040800000000000000
+      internalID: 4615978022383501751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 543
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683f4c439815a6580800000000000000
+      internalID: -8833158069396114554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 543
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ce5343d19b4dfa0800000000000000
+      internalID: -5776788886928364386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 542
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceebe7e9519f78030800000000000000
+      internalID: 3497037506925215468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 537
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7460800845503f0800000000000000
+      internalID: -935248438742333475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 531
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2cbd2d5849ae0b0800000000000000
+      internalID: -5698579075994762565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 517
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fdf142c333fe140800000000000000
+      internalID: 4751072465296285454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 543
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1493a4a81cbc08450800000000000000
+      internalID: 6089090728314157377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 543
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2186c0e635da383e0800000000000000
+      internalID: -2052606431310616558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 543
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc9324834f7ae8b0800000000000000
+      internalID: -5122141698224055047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 543
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d7cf649d1fd5700800000000000000
+      internalID: 530846246600736062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 539
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30e1bf75c1a24630800000000000000
+      internalID: 3909865296134004799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 543
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379732ca4b997f2a0800000000000000
+      internalID: -6703720519056524941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 543
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7141f3c89b3a2420800000000000000
+      internalID: 2605960861695689087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 415
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0be7ed6c23e8cc00800000000000000
+      internalID: 921235903759248139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 415
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbf5351d2fb71cf0800000000000000
+      internalID: -281546251337073676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 415
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b00c20ce3e5e4d0800000000000000
+      internalID: -3105825765204161648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 415
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb5d929670952350800000000000000
+      internalID: 5991353718226639865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 415
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a61f80e7ed66580800000000000000
+      internalID: -8834128986143364463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 415
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9684e0ed7213a29d0800000000000000
+      internalID: -2798370171158378391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 415
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f2d913637498d70800000000000000
+      internalID: 9045839624636542814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 415
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a2f95836c600150800000000000000
+      internalID: 5836784291771525686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 415
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6943298712bc26b0800000000000000
+      internalID: -5319681245676615314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 414
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd37ca0f904de200800000000000000
+      internalID: 210895809381088692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 409
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba20436466a172380800000000000000
+      internalID: -8996192704082476373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 403
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0d7dc72545c9730800000000000000
+      internalID: 4007170481711468755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 389
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df90813246fdab8c0800000000000000
+      internalID: -3982625299277280771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 415
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c3384ee94ed4ae0800000000000000
+      internalID: -1563342124537922459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 415
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c32bb729e3456b60800000000000000
+      internalID: 7738666203379082180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 415
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ebaba11a12a5070800000000000000
+      internalID: 8095820255973785243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 415
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3352fd0ea4bf2a0800000000000000
+      internalID: -6702681290733964293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 414
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09261dbf3b3d7950800000000000000
+      internalID: 6448375386405742859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 409
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7454f1ea367194cf0800000000000000
+      internalID: -267656985961347769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 403
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a76a5acbb4064360800000000000000
+      internalID: 7153410262724929447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 389
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f11d2676c038800800000000000000
+      internalID: 613347612431556370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 415
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ea79f894c4a83c0800000000000000
+      internalID: -4356585810702127525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 415
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127208c0b7bb5bf50800000000000000
+      internalID: 6896624541552879393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 415
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d82ff06f8e067970800000000000000
+      internalID: 8752198934811584723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 415
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177990fa3c5517bc0800000000000000
+      internalID: -3787151512698251407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 411
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a10a53574177640800000000000000
+      internalID: 5077549598526937727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 415
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11568d57605d87ef0800000000000000
+      internalID: -110103967146941167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 3476
+        y: 415
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b24dca478851410800000000000000
+      internalID: 1447212889966652301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 287
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4e65a954d684a70800000000000000
+      internalID: 8811412816659932346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 287
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6734589fadac2cac0800000000000000
+      internalID: -3836280890728299658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 287
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e087d82011e9cb480800000000000000
+      internalID: -8882050569187002354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acd048fcbfa288d0800000000000000
+      internalID: -2845518788391019353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 287
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2524216dfc0f1f40800000000000000
+      internalID: 5701289935670355244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 287
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75012d7dd73998a10800000000000000
+      internalID: 1912221685496549463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 287
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c68b78bed1455e0800000000000000
+      internalID: -1921878243548828520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 287
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae7b095cda116230800000000000000
+      internalID: 3630212308326383273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 287
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cdd0d51f6f291b0800000000000000
+      internalID: -5651183065887810522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 290
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e83b96dc8b4a480800000000000000
+      internalID: -8888776572141334992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 295
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009b0d70e24280b00800000000000000
+      internalID: 794925114349107456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 278
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ce1542c8ebae050800000000000000
+      internalID: 5830682176698575938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 277
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3ff90affc7baa60800000000000000
+      internalID: 7686374626391225334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 280
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aaa935835e5d4640800000000000000
+      internalID: 5065808868672121509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 290
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b122b646cbe418570800000000000000
+      internalID: 8467135345478803995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 295
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3145a48ab0888900800000000000000
+      internalID: 686940481751695679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 287
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a830c05d87a355c20800000000000000
+      internalID: 3194523801334055818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 286
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7dfd3043e0f85a0800000000000000
+      internalID: -6516974519215728670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 281
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6148c813701c27a30800000000000000
+      internalID: 4211640838185059350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 275
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962932c0ba4633ed0800000000000000
+      internalID: -2435492287671463319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 261
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5505fefa4b49001a0800000000000000
+      internalID: -6845307929836433323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 287
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ae3de238e21e4d0800000000000000
+      internalID: -3107151126947698128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 287
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5eb1dffdcb4fe890800000000000000
+      internalID: -7426633912378343841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 287
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bd71bde3bd710b0800000000000000
+      internalID: -5757892535559660721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 287
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4325f8344dce91be0800000000000000
+      internalID: -1505912203968032204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 283
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3417cc1046750290800000000000000
+      internalID: -7924797951555726277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 287
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e6648183f44ecd0800000000000000
+      internalID: -2529809988331344366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 3476
+        y: 287
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea4108017250c6b0800000000000000
+      internalID: -5278128117859136793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 159
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29718364e6fec9e80800000000000000
+      internalID: -8170392367053400174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 159
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e73a155c48d3e380800000000000000
+      internalID: -8943066612670777368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 159
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66bd137daa2c4040800000000000000
+      internalID: 4633125041106433647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 159
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c416f3f905cd73f10800000000000000
+      internalID: 2249508777722077516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 159
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611d3f59831fbf940800000000000000
+      internalID: 5331119809259360534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 159
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e27958b1ef897590800000000000000
+      internalID: -7675945890253016344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 159
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26a57139b7bd5df0800000000000000
+      internalID: -189793603253066197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 159
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e82b295a61fdd520800000000000000
+      internalID: 2728602388321216740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 159
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5eca1df14060a80800000000000000
+      internalID: -8501102711906966035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 159
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2845a98eead8eef90800000000000000
+      internalID: -6922439794855619454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 159
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc2faa3c5505ce30800000000000000
+      internalID: 4523027294443220144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 159
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c30ff3cfa4b1bf0800000000000000
+      internalID: -352605698553529201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 159
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef145ee445545840800000000000000
+      internalID: 5211884423319134179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 159
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364cd25491893ba90800000000000000
+      internalID: -7299323336735210397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 159
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab9681f137a5b000800000000000000
+      internalID: 51130803731995552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 159
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f99d8a5111f74d0800000000000000
+      internalID: -3134768030901756097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 159
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b37f846c2bb94f0800000000000000
+      internalID: -820865942367552714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 159
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1970ce22b4ae116d0800000000000000
+      internalID: -3021376266559551599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 159
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c363076cbc2dc510800000000000000
+      internalID: 1570961032715920320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 159
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59d7ccc1b1e8f1d0800000000000000
+      internalID: -3316652971797259939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 159
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167763aa6b9082ae0800000000000000
+      internalID: -1573997389621594271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 159
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d3bbf9debdd9630800000000000000
+      internalID: 3935543463025261957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 159
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7ae9c3689c11610800000000000000
+      internalID: 1590273721818327010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 159
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410380dcacf749270800000000000000
+      internalID: 8256364525876949012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 166
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefc84da515eb99a0800000000000000
+      internalID: -6225130178645274646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 159
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696e73347f0886540800000000000000
+      internalID: 5001389185667950230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 162
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157de2c90fc8d8e50800000000000000
+      internalID: 6813256776321783633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 155
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057de24c60049c580800000000000000
+      internalID: -8806437198540908720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 143
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9750a0be1f6020200800000000000000
+      internalID: 144685774129464697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 3476
+        y: 159
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39096d84aa392d100800000000000000
+      internalID: 131329698722910355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 31
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d15ed45db692020800000000000000
+      internalID: 2317502047137897742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 31
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a090ca31c457c070800000000000000
+      internalID: 8126557241504469160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 31
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240dff6c7885ef980800000000000000
+      internalID: -8503261706246434750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 31
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8326d8f3f914080800000000000000
+      internalID: -9204901068064802649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 31
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e92c0f948e943b0800000000000000
+      internalID: -5527631663351030133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 31
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32619097a64137a30800000000000000
+      internalID: 4211732524051273251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 31
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8d5422df655cdd0800000000000000
+      internalID: -2466469575713761107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 31
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb44778f599148200800000000000000
+      internalID: 181298016911049915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 31
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8beeed2e498a050800000000000000
+      internalID: 5812059021245331647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 31
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7648fb713de02060800000000000000
+      internalID: 6926797023684871803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 31
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427ee3ead25739e10800000000000000
+      internalID: 2203233481771640612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 31
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63db6f98878b7ddd0800000000000000
+      internalID: -2461295843484451530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 31
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c70858fe40af2f0800000000000000
+      internalID: -938432145569842085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 31
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808b47addcb5c6040800000000000000
+      internalID: 4642186255603644424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 31
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0378706a7238060800000000000000
+      internalID: 6954445843634532580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dwarven-Sheet_0: 6153090425265475363
+      dwarven-Sheet_1: -3969271831894929844
+      dwarven-Sheet_10: -935248438742333475
+      dwarven-Sheet_100: -6225130178645274646
+      dwarven-Sheet_101: 5001389185667950230
+      dwarven-Sheet_102: 6813256776321783633
+      dwarven-Sheet_103: -8806437198540908720
+      dwarven-Sheet_104: 144685774129464697
+      dwarven-Sheet_105: 131329698722910355
+      dwarven-Sheet_106: 2317502047137897742
+      dwarven-Sheet_107: 8126557241504469160
+      dwarven-Sheet_108: -8503261706246434750
+      dwarven-Sheet_109: -9204901068064802649
+      dwarven-Sheet_11: -5698579075994762565
+      dwarven-Sheet_110: -5527631663351030133
+      dwarven-Sheet_111: 4211732524051273251
+      dwarven-Sheet_112: -2466469575713761107
+      dwarven-Sheet_113: 181298016911049915
+      dwarven-Sheet_114: 5812059021245331647
+      dwarven-Sheet_115: 6926797023684871803
+      dwarven-Sheet_116: 2203233481771640612
+      dwarven-Sheet_117: -2461295843484451530
+      dwarven-Sheet_118: -938432145569842085
+      dwarven-Sheet_119: 4642186255603644424
+      dwarven-Sheet_12: 4751072465296285454
+      dwarven-Sheet_120: 6954445843634532580
+      dwarven-Sheet_13: 6089090728314157377
+      dwarven-Sheet_14: -2052606431310616558
+      dwarven-Sheet_15: -5122141698224055047
+      dwarven-Sheet_16: 530846246600736062
+      dwarven-Sheet_17: 3909865296134004799
+      dwarven-Sheet_18: -6703720519056524941
+      dwarven-Sheet_19: 2605960861695689087
+      dwarven-Sheet_2: -8607277016488771142
+      dwarven-Sheet_20: 921235903759248139
+      dwarven-Sheet_21: -281546251337073676
+      dwarven-Sheet_22: -3105825765204161648
+      dwarven-Sheet_23: 5991353718226639865
+      dwarven-Sheet_24: -8834128986143364463
+      dwarven-Sheet_25: -2798370171158378391
+      dwarven-Sheet_26: 9045839624636542814
+      dwarven-Sheet_27: 5836784291771525686
+      dwarven-Sheet_28: -5319681245676615314
+      dwarven-Sheet_29: 210895809381088692
+      dwarven-Sheet_3: 4340877213249178306
+      dwarven-Sheet_30: -8996192704082476373
+      dwarven-Sheet_31: 4007170481711468755
+      dwarven-Sheet_32: -3982625299277280771
+      dwarven-Sheet_33: -1563342124537922459
+      dwarven-Sheet_34: 7738666203379082180
+      dwarven-Sheet_35: 8095820255973785243
+      dwarven-Sheet_36: -6702681290733964293
+      dwarven-Sheet_37: 6448375386405742859
+      dwarven-Sheet_38: -267656985961347769
+      dwarven-Sheet_39: 7153410262724929447
+      dwarven-Sheet_4: -6597561163168623110
+      dwarven-Sheet_40: 613347612431556370
+      dwarven-Sheet_41: -4356585810702127525
+      dwarven-Sheet_42: 6896624541552879393
+      dwarven-Sheet_43: 8752198934811584723
+      dwarven-Sheet_44: -3787151512698251407
+      dwarven-Sheet_45: 5077549598526937727
+      dwarven-Sheet_46: -110103967146941167
+      dwarven-Sheet_47: 1447212889966652301
+      dwarven-Sheet_48: 8811412816659932346
+      dwarven-Sheet_49: -3836280890728299658
+      dwarven-Sheet_5: -5712279900952311053
+      dwarven-Sheet_50: -8882050569187002354
+      dwarven-Sheet_51: -2845518788391019353
+      dwarven-Sheet_52: 5701289935670355244
+      dwarven-Sheet_53: 1912221685496549463
+      dwarven-Sheet_54: -1921878243548828520
+      dwarven-Sheet_55: 3630212308326383273
+      dwarven-Sheet_56: -5651183065887810522
+      dwarven-Sheet_57: -8888776572141334992
+      dwarven-Sheet_58: 794925114349107456
+      dwarven-Sheet_59: 5830682176698575938
+      dwarven-Sheet_6: 4615978022383501751
+      dwarven-Sheet_60: 7686374626391225334
+      dwarven-Sheet_61: 5065808868672121509
+      dwarven-Sheet_62: 8467135345478803995
+      dwarven-Sheet_63: 686940481751695679
+      dwarven-Sheet_64: 3194523801334055818
+      dwarven-Sheet_65: -6516974519215728670
+      dwarven-Sheet_66: 4211640838185059350
+      dwarven-Sheet_67: -2435492287671463319
+      dwarven-Sheet_68: -6845307929836433323
+      dwarven-Sheet_69: -3107151126947698128
+      dwarven-Sheet_7: -8833158069396114554
+      dwarven-Sheet_70: -7426633912378343841
+      dwarven-Sheet_71: -5757892535559660721
+      dwarven-Sheet_72: -1505912203968032204
+      dwarven-Sheet_73: -7924797951555726277
+      dwarven-Sheet_74: -2529809988331344366
+      dwarven-Sheet_75: -5278128117859136793
+      dwarven-Sheet_76: -8170392367053400174
+      dwarven-Sheet_77: -8943066612670777368
+      dwarven-Sheet_78: 4633125041106433647
+      dwarven-Sheet_79: 2249508777722077516
+      dwarven-Sheet_8: -5776788886928364386
+      dwarven-Sheet_80: 5331119809259360534
+      dwarven-Sheet_81: -7675945890253016344
+      dwarven-Sheet_82: -189793603253066197
+      dwarven-Sheet_83: 2728602388321216740
+      dwarven-Sheet_84: -8501102711906966035
+      dwarven-Sheet_85: -6922439794855619454
+      dwarven-Sheet_86: 4523027294443220144
+      dwarven-Sheet_87: -352605698553529201
+      dwarven-Sheet_88: 5211884423319134179
+      dwarven-Sheet_89: -7299323336735210397
+      dwarven-Sheet_9: 3497037506925215468
+      dwarven-Sheet_90: 51130803731995552
+      dwarven-Sheet_91: -3134768030901756097
+      dwarven-Sheet_92: -820865942367552714
+      dwarven-Sheet_93: -3021376266559551599
+      dwarven-Sheet_94: 1570961032715920320
+      dwarven-Sheet_95: -3316652971797259939
+      dwarven-Sheet_96: -1573997389621594271
+      dwarven-Sheet_97: 3935543463025261957
+      dwarven-Sheet_98: 1590273721818327010
+      dwarven-Sheet_99: 8256364525876949012
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

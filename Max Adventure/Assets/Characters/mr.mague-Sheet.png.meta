@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: f860820b9b60e43459fc8da9750bac84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3288864620209662103
+    second: mr.mague-Sheet_0
+  - first:
+      213: -4436260172451030174
+    second: mr.mague-Sheet_1
+  - first:
+      213: 9068692975975370455
+    second: mr.mague-Sheet_2
+  - first:
+      213: -603155613087188133
+    second: mr.mague-Sheet_3
+  - first:
+      213: 5158161214167310563
+    second: mr.mague-Sheet_4
+  - first:
+      213: -5733188450117343381
+    second: mr.mague-Sheet_5
+  - first:
+      213: 8711152215638706139
+    second: mr.mague-Sheet_6
+  - first:
+      213: 3742938294678165338
+    second: mr.mague-Sheet_7
+  - first:
+      213: -2468539521951191861
+    second: mr.mague-Sheet_8
+  - first:
+      213: 7415823488519464438
+    second: mr.mague-Sheet_9
+  - first:
+      213: -1809794129506537132
+    second: mr.mague-Sheet_10
+  - first:
+      213: 6040008365303408883
+    second: mr.mague-Sheet_11
+  - first:
+      213: 1481808652562532202
+    second: mr.mague-Sheet_12
+  - first:
+      213: -4946133315399286312
+    second: mr.mague-Sheet_13
+  - first:
+      213: -3850663547455994096
+    second: mr.mague-Sheet_14
+  - first:
+      213: -682813849647424328
+    second: mr.mague-Sheet_15
+  - first:
+      213: -1576136922134058728
+    second: mr.mague-Sheet_16
+  - first:
+      213: 928807299877414772
+    second: mr.mague-Sheet_17
+  - first:
+      213: 3468707262044447425
+    second: mr.mague-Sheet_18
+  - first:
+      213: 9162584500215996887
+    second: mr.mague-Sheet_19
+  - first:
+      213: 2511331504932651857
+    second: mr.mague-Sheet_20
+  - first:
+      213: 7850720280704945514
+    second: mr.mague-Sheet_21
+  - first:
+      213: 2579870759970705156
+    second: mr.mague-Sheet_22
+  - first:
+      213: -3585027633021454153
+    second: mr.mague-Sheet_23
+  - first:
+      213: -4985954926539436798
+    second: mr.mague-Sheet_24
+  - first:
+      213: -2104164240336985997
+    second: mr.mague-Sheet_25
+  - first:
+      213: 2963610729748194098
+    second: mr.mague-Sheet_26
+  - first:
+      213: 7654680728715977782
+    second: mr.mague-Sheet_27
+  - first:
+      213: -853628795569099933
+    second: mr.mague-Sheet_28
+  - first:
+      213: -137276926551290543
+    second: mr.mague-Sheet_29
+  - first:
+      213: 8673563396395504507
+    second: mr.mague-Sheet_30
+  - first:
+      213: 1790153286665048543
+    second: mr.mague-Sheet_31
+  - first:
+      213: -1731712108702744186
+    second: mr.mague-Sheet_32
+  - first:
+      213: 2407667442877571219
+    second: mr.mague-Sheet_33
+  - first:
+      213: 2038759384397208741
+    second: mr.mague-Sheet_34
+  - first:
+      213: 5425615891511260512
+    second: mr.mague-Sheet_35
+  - first:
+      213: -5426520034529932780
+    second: mr.mague-Sheet_36
+  - first:
+      213: 2404515595284141203
+    second: mr.mague-Sheet_37
+  - first:
+      213: -2609574880886958263
+    second: mr.mague-Sheet_38
+  - first:
+      213: -2501788253596131433
+    second: mr.mague-Sheet_39
+  - first:
+      213: 975531281245837819
+    second: mr.mague-Sheet_40
+  - first:
+      213: 5439428916285193380
+    second: mr.mague-Sheet_41
+  - first:
+      213: 3053628408778333228
+    second: mr.mague-Sheet_42
+  - first:
+      213: -4601533616475857780
+    second: mr.mague-Sheet_43
+  - first:
+      213: -9025290524353547633
+    second: mr.mague-Sheet_44
+  - first:
+      213: -5349306329001980239
+    second: mr.mague-Sheet_45
+  - first:
+      213: -8011608272138055771
+    second: mr.mague-Sheet_46
+  - first:
+      213: 7675098475746458217
+    second: mr.mague-Sheet_47
+  - first:
+      213: -5783311362804637958
+    second: mr.mague-Sheet_48
+  - first:
+      213: -6495055311476499787
+    second: mr.mague-Sheet_49
+  - first:
+      213: -7352754086321794495
+    second: mr.mague-Sheet_50
+  - first:
+      213: 2048520737619959488
+    second: mr.mague-Sheet_51
+  - first:
+      213: -635590909348668764
+    second: mr.mague-Sheet_52
+  - first:
+      213: 2575715174661025519
+    second: mr.mague-Sheet_53
+  - first:
+      213: -9067248914314812901
+    second: mr.mague-Sheet_54
+  - first:
+      213: 7567504361112771430
+    second: mr.mague-Sheet_55
+  - first:
+      213: 466972932092485760
+    second: mr.mague-Sheet_56
+  - first:
+      213: 1302332044574995412
+    second: mr.mague-Sheet_57
+  - first:
+      213: -6274576093076143948
+    second: mr.mague-Sheet_58
+  - first:
+      213: 2144434077119249838
+    second: mr.mague-Sheet_59
+  - first:
+      213: -8955760937787048895
+    second: mr.mague-Sheet_60
+  - first:
+      213: 8579044762728998170
+    second: mr.mague-Sheet_61
+  - first:
+      213: -2336963854209679602
+    second: mr.mague-Sheet_62
+  - first:
+      213: 697046794427145773
+    second: mr.mague-Sheet_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mr.mague-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 335
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9679d069d0b9b52d0800000000000000
+      internalID: -3288864620209662103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 335
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bd7d1a0ec3f62c0800000000000000
+      internalID: -4436260172451030174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 335
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de8712b6387add70800000000000000
+      internalID: 9068692975975370455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 335
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bb7a16a2921a7f0800000000000000
+      internalID: -603155613087188133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 356
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0e3a09b48759740800000000000000
+      internalID: 5158161214167310563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 335
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b672268fa7f9f60b0800000000000000
+      internalID: -5733188450117343381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 366
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7808559ca34e870800000000000000
+      internalID: 8711152215638706139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 335
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a579f7e4c8691f330800000000000000
+      internalID: 3742938294678165338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 366
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc2618326cfdbdd0800000000000000
+      internalID: -2468539521951191861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 335
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5633e0c2c4ae660800000000000000
+      internalID: 7415823488519464438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 334
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451fc22f3d152e6e0800000000000000
+      internalID: -1809794129506537132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 335
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f82c4e5b9b62d350800000000000000
+      internalID: 6040008365303408883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 333
+        width: 88
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6707195e11709410800000000000000
+      internalID: 1481808652562532202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 333
+        width: 74
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d186e394fdcb5bb0800000000000000
+      internalID: -4946133315399286312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 331
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0170750c7e1bf8ac0800000000000000
+      internalID: -3850663547455994096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 340
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc5c04eb682686f0800000000000000
+      internalID: -682813849647424328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 235
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81962dee1df602ae0800000000000000
+      internalID: -1576136922134058728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 234
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477abf57159c3ec00800000000000000
+      internalID: 928807299877414772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 233
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c22af770e2532030800000000000000
+      internalID: 3468707262044447425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 233
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1efd7be0a082f70800000000000000
+      internalID: 9162584500215996887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 233
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15302c8b2ba0ad220800000000000000
+      internalID: 2511331504932651857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 232
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d8f5a108c53fc60800000000000000
+      internalID: 7850720280704945514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 235
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f887699ca8dc320800000000000000
+      internalID: 2579870759970705156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 232
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8fbcfac5c6f3ec0800000000000000
+      internalID: -3585027633021454153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 235
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d028939645ecab0800000000000000
+      internalID: -4985954926539436798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 232
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37062a195c18cc2e0800000000000000
+      internalID: -2104164240336985997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 235
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2336d2fb14cd02920800000000000000
+      internalID: 2963610729748194098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 232
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634e4280193ea3a60800000000000000
+      internalID: 7654680728715977782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 235
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b2f06122d4724f0800000000000000
+      internalID: -853628795569099933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 232
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d8d05dc5b481ef0800000000000000
+      internalID: -137276926551290543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 231
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b731cfa54ffae5870800000000000000
+      internalID: 8673563396395504507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 232
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd11b29fde6e7d810800000000000000
+      internalID: 1790153286665048543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 232
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681c78b1309b7f7e0800000000000000
+      internalID: -1731712108702744186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 232
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390adfd68c0c96120800000000000000
+      internalID: 2407667442877571219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 234
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac5d79bbd02b4c10800000000000000
+      internalID: 2038759384397208741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 241
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0653e3d38e8ab4b40800000000000000
+      internalID: 5425615891511260512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 232
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a8d4f87c021b4b0800000000000000
+      internalID: -5426520034529932780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 244
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3945cc9b13e8e5120800000000000000
+      internalID: 2404515595284141203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 232
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94753f1d87de8cbd0800000000000000
+      internalID: -2609574880886958263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 238
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f5821a6dcd74dd0800000000000000
+      internalID: -2501788253596131433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 233
+        width: 103
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf990fd1888c98d00800000000000000
+      internalID: 975531281245837819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 235
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acba20b7cbbc7b40800000000000000
+      internalID: 5439428916285193380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 235
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c1645ebdaa06a20800000000000000
+      internalID: 3053628408778333228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 235
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c10f74e811420c0800000000000000
+      internalID: -4601533616475857780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 135
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82353d061abfb280800000000000000
+      internalID: -9025290524353547633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 134
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be86115c3273c5b0800000000000000
+      internalID: -5349306329001980239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 134
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af41ab49bc01d090800000000000000
+      internalID: -8011608272138055771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 134
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a7207366d638a60800000000000000
+      internalID: 7675098475746458217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 135
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe9c82f4fc8dbfa0800000000000000
+      internalID: -5783311362804637958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 35
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5badde24b9decd5a0800000000000000
+      internalID: -6495055311476499787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 35
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142dcf37d15c5f990800000000000000
+      internalID: -7352754086321794495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 35
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cedbd0e1cecd6c10800000000000000
+      internalID: 2048520737619959488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 35
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa1ec97f6ded27f0800000000000000
+      internalID: -635590909348668764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 35
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feee04cfd47ceb320800000000000000
+      internalID: 2575715174661025519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 35
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12283c1729aa2280800000000000000
+      internalID: -9067248914314812901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 35
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b98504f1d250960800000000000000
+      internalID: 7567504361112771430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 35
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080681958650b7600800000000000000
+      internalID: 466972932092485760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 35
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d330803810d21210800000000000000
+      internalID: 1302332044574995412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 35
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0c908994a3ce8a0800000000000000
+      internalID: -6274576093076143948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 35
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead7fe27e6f82cd10800000000000000
+      internalID: 2144434077119249838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 35
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c32e170eeb6b380800000000000000
+      internalID: -8955760937787048895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 35
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1523aa02c3ee0770800000000000000
+      internalID: 8579044762728998170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 35
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f77e0a1cf619fd0800000000000000
+      internalID: -2336963854209679602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.mague-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 35
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e97adcd586ca900800000000000000
+      internalID: 697046794427145773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mr.mague-Sheet_0: -3288864620209662103
+      mr.mague-Sheet_1: -4436260172451030174
+      mr.mague-Sheet_10: -1809794129506537132
+      mr.mague-Sheet_11: 6040008365303408883
+      mr.mague-Sheet_12: 1481808652562532202
+      mr.mague-Sheet_13: -4946133315399286312
+      mr.mague-Sheet_14: -3850663547455994096
+      mr.mague-Sheet_15: -682813849647424328
+      mr.mague-Sheet_16: -1576136922134058728
+      mr.mague-Sheet_17: 928807299877414772
+      mr.mague-Sheet_18: 3468707262044447425
+      mr.mague-Sheet_19: 9162584500215996887
+      mr.mague-Sheet_2: 9068692975975370455
+      mr.mague-Sheet_20: 2511331504932651857
+      mr.mague-Sheet_21: 7850720280704945514
+      mr.mague-Sheet_22: 2579870759970705156
+      mr.mague-Sheet_23: -3585027633021454153
+      mr.mague-Sheet_24: -4985954926539436798
+      mr.mague-Sheet_25: -2104164240336985997
+      mr.mague-Sheet_26: 2963610729748194098
+      mr.mague-Sheet_27: 7654680728715977782
+      mr.mague-Sheet_28: -853628795569099933
+      mr.mague-Sheet_29: -137276926551290543
+      mr.mague-Sheet_3: -603155613087188133
+      mr.mague-Sheet_30: 8673563396395504507
+      mr.mague-Sheet_31: 1790153286665048543
+      mr.mague-Sheet_32: -1731712108702744186
+      mr.mague-Sheet_33: 2407667442877571219
+      mr.mague-Sheet_34: 2038759384397208741
+      mr.mague-Sheet_35: 5425615891511260512
+      mr.mague-Sheet_36: -5426520034529932780
+      mr.mague-Sheet_37: 2404515595284141203
+      mr.mague-Sheet_38: -2609574880886958263
+      mr.mague-Sheet_39: -2501788253596131433
+      mr.mague-Sheet_4: 5158161214167310563
+      mr.mague-Sheet_40: 975531281245837819
+      mr.mague-Sheet_41: 5439428916285193380
+      mr.mague-Sheet_42: 3053628408778333228
+      mr.mague-Sheet_43: -4601533616475857780
+      mr.mague-Sheet_44: -9025290524353547633
+      mr.mague-Sheet_45: -5349306329001980239
+      mr.mague-Sheet_46: -8011608272138055771
+      mr.mague-Sheet_47: 7675098475746458217
+      mr.mague-Sheet_48: -5783311362804637958
+      mr.mague-Sheet_49: -6495055311476499787
+      mr.mague-Sheet_5: -5733188450117343381
+      mr.mague-Sheet_50: -7352754086321794495
+      mr.mague-Sheet_51: 2048520737619959488
+      mr.mague-Sheet_52: -635590909348668764
+      mr.mague-Sheet_53: 2575715174661025519
+      mr.mague-Sheet_54: -9067248914314812901
+      mr.mague-Sheet_55: 7567504361112771430
+      mr.mague-Sheet_56: 466972932092485760
+      mr.mague-Sheet_57: 1302332044574995412
+      mr.mague-Sheet_58: -6274576093076143948
+      mr.mague-Sheet_59: 2144434077119249838
+      mr.mague-Sheet_6: 8711152215638706139
+      mr.mague-Sheet_60: -8955760937787048895
+      mr.mague-Sheet_61: 8579044762728998170
+      mr.mague-Sheet_62: -2336963854209679602
+      mr.mague-Sheet_63: 697046794427145773
+      mr.mague-Sheet_7: 3742938294678165338
+      mr.mague-Sheet_8: -2468539521951191861
+      mr.mague-Sheet_9: 7415823488519464438
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

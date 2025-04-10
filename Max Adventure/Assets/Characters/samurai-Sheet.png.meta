@@ -1,0 +1,4537 @@
+fileFormatVersion: 2
+guid: a4b0afb568b1f974ebd36260c17ed2ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3199680261989775893
+    second: samurai-Sheet_0
+  - first:
+      213: 8854408325758372575
+    second: samurai-Sheet_1
+  - first:
+      213: -2477068978498748864
+    second: samurai-Sheet_2
+  - first:
+      213: 5585435620176416880
+    second: samurai-Sheet_3
+  - first:
+      213: 5182163537209270135
+    second: samurai-Sheet_4
+  - first:
+      213: 5634713960528622121
+    second: samurai-Sheet_5
+  - first:
+      213: 5608306863643460108
+    second: samurai-Sheet_6
+  - first:
+      213: 3851877456423743474
+    second: samurai-Sheet_7
+  - first:
+      213: -3005999462793578732
+    second: samurai-Sheet_8
+  - first:
+      213: -6319488981871082030
+    second: samurai-Sheet_9
+  - first:
+      213: 5704475657024754583
+    second: samurai-Sheet_10
+  - first:
+      213: -72070258257741264
+    second: samurai-Sheet_11
+  - first:
+      213: 2014081038561315652
+    second: samurai-Sheet_12
+  - first:
+      213: 364947923136968584
+    second: samurai-Sheet_13
+  - first:
+      213: -2565234872533625303
+    second: samurai-Sheet_14
+  - first:
+      213: -2749354207840784262
+    second: samurai-Sheet_15
+  - first:
+      213: -7928566509038234206
+    second: samurai-Sheet_16
+  - first:
+      213: -4506008257982056533
+    second: samurai-Sheet_17
+  - first:
+      213: 5709750204186737546
+    second: samurai-Sheet_18
+  - first:
+      213: -6578056456641325597
+    second: samurai-Sheet_19
+  - first:
+      213: -6942818163105939575
+    second: samurai-Sheet_20
+  - first:
+      213: 704239993010752471
+    second: samurai-Sheet_21
+  - first:
+      213: -6565925232270188387
+    second: samurai-Sheet_22
+  - first:
+      213: 6629251096943724567
+    second: samurai-Sheet_23
+  - first:
+      213: -6049973125155171111
+    second: samurai-Sheet_24
+  - first:
+      213: 3404428337471693673
+    second: samurai-Sheet_25
+  - first:
+      213: 6505337938333183725
+    second: samurai-Sheet_26
+  - first:
+      213: 4376133452395539409
+    second: samurai-Sheet_27
+  - first:
+      213: 559484317689984634
+    second: samurai-Sheet_28
+  - first:
+      213: 4873797554962238444
+    second: samurai-Sheet_29
+  - first:
+      213: -5804031334170091892
+    second: samurai-Sheet_30
+  - first:
+      213: -3733247005292267804
+    second: samurai-Sheet_31
+  - first:
+      213: -4199062148912145128
+    second: samurai-Sheet_32
+  - first:
+      213: -4458515182122548916
+    second: samurai-Sheet_33
+  - first:
+      213: 8253522488677366152
+    second: samurai-Sheet_34
+  - first:
+      213: 3690249205371262024
+    second: samurai-Sheet_35
+  - first:
+      213: 6173671118675054899
+    second: samurai-Sheet_36
+  - first:
+      213: 7475976832967597420
+    second: samurai-Sheet_37
+  - first:
+      213: -3079127693936318847
+    second: samurai-Sheet_38
+  - first:
+      213: -6510790400856607861
+    second: samurai-Sheet_39
+  - first:
+      213: -1519275690897241413
+    second: samurai-Sheet_40
+  - first:
+      213: -2210615315359363319
+    second: samurai-Sheet_41
+  - first:
+      213: -8249360026722297563
+    second: samurai-Sheet_42
+  - first:
+      213: -2919584201294620606
+    second: samurai-Sheet_43
+  - first:
+      213: -4349461230062456560
+    second: samurai-Sheet_44
+  - first:
+      213: -822875643117382359
+    second: samurai-Sheet_45
+  - first:
+      213: 3811131312087527638
+    second: samurai-Sheet_46
+  - first:
+      213: 2842827821226459145
+    second: samurai-Sheet_47
+  - first:
+      213: -4141833959393806068
+    second: samurai-Sheet_48
+  - first:
+      213: 3676570451521271030
+    second: samurai-Sheet_49
+  - first:
+      213: 4880152493435183936
+    second: samurai-Sheet_50
+  - first:
+      213: 1164592631299576716
+    second: samurai-Sheet_51
+  - first:
+      213: -9073172757293645358
+    second: samurai-Sheet_52
+  - first:
+      213: 2141469350204259776
+    second: samurai-Sheet_53
+  - first:
+      213: -6558480071086935569
+    second: samurai-Sheet_54
+  - first:
+      213: 6514030125197831418
+    second: samurai-Sheet_55
+  - first:
+      213: 143273855894901069
+    second: samurai-Sheet_56
+  - first:
+      213: 3174898933378757839
+    second: samurai-Sheet_57
+  - first:
+      213: 2999703138524205310
+    second: samurai-Sheet_58
+  - first:
+      213: 2603196662601847505
+    second: samurai-Sheet_59
+  - first:
+      213: -2365071533336438371
+    second: samurai-Sheet_60
+  - first:
+      213: 5184600873550631691
+    second: samurai-Sheet_61
+  - first:
+      213: 6876612816329347283
+    second: samurai-Sheet_62
+  - first:
+      213: -8816085828073200090
+    second: samurai-Sheet_63
+  - first:
+      213: -4509283239043756351
+    second: samurai-Sheet_64
+  - first:
+      213: 6609581149573826562
+    second: samurai-Sheet_65
+  - first:
+      213: -2770890741139131478
+    second: samurai-Sheet_66
+  - first:
+      213: 4507028143914623051
+    second: samurai-Sheet_67
+  - first:
+      213: 8394968771360922061
+    second: samurai-Sheet_68
+  - first:
+      213: 5470774792235170110
+    second: samurai-Sheet_69
+  - first:
+      213: 5912519576844393244
+    second: samurai-Sheet_70
+  - first:
+      213: 1718825636164417433
+    second: samurai-Sheet_71
+  - first:
+      213: -6593934210402815720
+    second: samurai-Sheet_72
+  - first:
+      213: -3715573662173848619
+    second: samurai-Sheet_73
+  - first:
+      213: 8064414883467225216
+    second: samurai-Sheet_74
+  - first:
+      213: 5975805792328428703
+    second: samurai-Sheet_75
+  - first:
+      213: 1805283524737165030
+    second: samurai-Sheet_76
+  - first:
+      213: 3777249203675767714
+    second: samurai-Sheet_77
+  - first:
+      213: 1844417653438057464
+    second: samurai-Sheet_78
+  - first:
+      213: -475661524078395754
+    second: samurai-Sheet_79
+  - first:
+      213: 2178379514487481840
+    second: samurai-Sheet_80
+  - first:
+      213: -7191847630977461827
+    second: samurai-Sheet_81
+  - first:
+      213: 6512995825319577863
+    second: samurai-Sheet_82
+  - first:
+      213: -2184475498169940856
+    second: samurai-Sheet_83
+  - first:
+      213: 8562724038652376495
+    second: samurai-Sheet_84
+  - first:
+      213: 8339661883715733351
+    second: samurai-Sheet_85
+  - first:
+      213: -8659657516182606941
+    second: samurai-Sheet_86
+  - first:
+      213: -125620787969911225
+    second: samurai-Sheet_87
+  - first:
+      213: -7518077332450414132
+    second: samurai-Sheet_88
+  - first:
+      213: -2932089964640290229
+    second: samurai-Sheet_89
+  - first:
+      213: 3726980033438919821
+    second: samurai-Sheet_90
+  - first:
+      213: 8729601893806219981
+    second: samurai-Sheet_91
+  - first:
+      213: 944136007645837273
+    second: samurai-Sheet_92
+  - first:
+      213: 6637425211791952999
+    second: samurai-Sheet_93
+  - first:
+      213: -232933599383544364
+    second: samurai-Sheet_94
+  - first:
+      213: -4944556571189351708
+    second: samurai-Sheet_95
+  - first:
+      213: 8598189499653498281
+    second: samurai-Sheet_96
+  - first:
+      213: 7420223969825608347
+    second: samurai-Sheet_97
+  - first:
+      213: 4931942861861538879
+    second: samurai-Sheet_98
+  - first:
+      213: 2184602237865859598
+    second: samurai-Sheet_99
+  - first:
+      213: -3983442110374819120
+    second: samurai-Sheet_100
+  - first:
+      213: 4241722963464122848
+    second: samurai-Sheet_101
+  - first:
+      213: 4141014708650259659
+    second: samurai-Sheet_102
+  - first:
+      213: -8891190201710789758
+    second: samurai-Sheet_103
+  - first:
+      213: 6309355345417774252
+    second: samurai-Sheet_104
+  - first:
+      213: 7602266456014270946
+    second: samurai-Sheet_105
+  - first:
+      213: -2732593000139238435
+    second: samurai-Sheet_106
+  - first:
+      213: 1039777235399465119
+    second: samurai-Sheet_107
+  - first:
+      213: 8413616328141800464
+    second: samurai-Sheet_108
+  - first:
+      213: -2185444446166688497
+    second: samurai-Sheet_109
+  - first:
+      213: -6229051972919014112
+    second: samurai-Sheet_110
+  - first:
+      213: 7638467783516246366
+    second: samurai-Sheet_111
+  - first:
+      213: -3429676537462291850
+    second: samurai-Sheet_112
+  - first:
+      213: -7293521476302607443
+    second: samurai-Sheet_113
+  - first:
+      213: -8935311856107159082
+    second: samurai-Sheet_114
+  - first:
+      213: 8948534537916353551
+    second: samurai-Sheet_115
+  - first:
+      213: 1799380856777945808
+    second: samurai-Sheet_116
+  - first:
+      213: 5969398638085132045
+    second: samurai-Sheet_117
+  - first:
+      213: -7814655860131597740
+    second: samurai-Sheet_118
+  - first:
+      213: 27006813996841661
+    second: samurai-Sheet_119
+  - first:
+      213: 7454960519553431051
+    second: samurai-Sheet_120
+  - first:
+      213: 3485065340441340377
+    second: samurai-Sheet_121
+  - first:
+      213: 4173406332888881069
+    second: samurai-Sheet_122
+  - first:
+      213: 8657381901014208885
+    second: samurai-Sheet_123
+  - first:
+      213: -6904891285537132152
+    second: samurai-Sheet_124
+  - first:
+      213: 2621233665637828193
+    second: samurai-Sheet_125
+  - first:
+      213: -7093093637650900844
+    second: samurai-Sheet_126
+  - first:
+      213: 8559295379986974004
+    second: samurai-Sheet_127
+  - first:
+      213: -8386245009428202632
+    second: samurai-Sheet_128
+  - first:
+      213: -403675031907466873
+    second: samurai-Sheet_129
+  - first:
+      213: 4010897803974499321
+    second: samurai-Sheet_130
+  - first:
+      213: -4823873136250673084
+    second: samurai-Sheet_131
+  - first:
+      213: 4556543392754584240
+    second: samurai-Sheet_132
+  - first:
+      213: 4193135151317937748
+    second: samurai-Sheet_133
+  - first:
+      213: -3523137721189845427
+    second: samurai-Sheet_134
+  - first:
+      213: 7952421300428558991
+    second: samurai-Sheet_135
+  - first:
+      213: 1976013438162787665
+    second: samurai-Sheet_136
+  - first:
+      213: 5521022380061402127
+    second: samurai-Sheet_137
+  - first:
+      213: -2980782945553417430
+    second: samurai-Sheet_138
+  - first:
+      213: 2297925999184663328
+    second: samurai-Sheet_139
+  - first:
+      213: 4319510653503186419
+    second: samurai-Sheet_140
+  - first:
+      213: 2212803863418350089
+    second: samurai-Sheet_141
+  - first:
+      213: 993142772661085983
+    second: samurai-Sheet_142
+  - first:
+      213: -9208759470005257824
+    second: samurai-Sheet_143
+  - first:
+      213: -5007666907403969930
+    second: samurai-Sheet_144
+  - first:
+      213: 3353579999323686798
+    second: samurai-Sheet_145
+  - first:
+      213: 7446256254704228758
+    second: samurai-Sheet_146
+  - first:
+      213: -1723437229757363707
+    second: samurai-Sheet_147
+  - first:
+      213: -855380190350414452
+    second: samurai-Sheet_148
+  - first:
+      213: -2044446084390052069
+    second: samurai-Sheet_149
+  - first:
+      213: -227066517336957680
+    second: samurai-Sheet_150
+  - first:
+      213: -5474870604181982319
+    second: samurai-Sheet_151
+  - first:
+      213: 3277512323544244115
+    second: samurai-Sheet_152
+  - first:
+      213: -1139325735845834225
+    second: samurai-Sheet_153
+  - first:
+      213: 1950619833940793716
+    second: samurai-Sheet_154
+  - first:
+      213: -3739415501809986041
+    second: samurai-Sheet_155
+  - first:
+      213: 3116024998214959750
+    second: samurai-Sheet_156
+  - first:
+      213: 2809094078709992213
+    second: samurai-Sheet_157
+  - first:
+      213: 6301096547217817253
+    second: samurai-Sheet_158
+  - first:
+      213: 6859638558839813791
+    second: samurai-Sheet_159
+  - first:
+      213: -947028678888235971
+    second: samurai-Sheet_160
+  - first:
+      213: 7422911463805295975
+    second: samurai-Sheet_161
+  - first:
+      213: -8074379411267235946
+    second: samurai-Sheet_162
+  - first:
+      213: -4480713670629701220
+    second: samurai-Sheet_163
+  - first:
+      213: 6409192117614518858
+    second: samurai-Sheet_164
+  - first:
+      213: -4402219544033786409
+    second: samurai-Sheet_165
+  - first:
+      213: 5305364702586764317
+    second: samurai-Sheet_166
+  - first:
+      213: -8459071102443084117
+    second: samurai-Sheet_167
+  - first:
+      213: -1496564689019970462
+    second: samurai-Sheet_168
+  - first:
+      213: 8091016437066810043
+    second: samurai-Sheet_169
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: samurai-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 671
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51abab2ee3c876c20800000000000000
+      internalID: 3199680261989775893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 670
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdac619a57d21ea70800000000000000
+      internalID: 8854408325758372575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 657
+        width: 21
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e317c53eeaf9dd0800000000000000
+      internalID: -2477068978498748864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 671
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070dd688a14738d40800000000000000
+      internalID: 5585435620176416880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 671
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f1753e74ebae740800000000000000
+      internalID: 5182163537209270135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 671
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9223e3c3e76823e40800000000000000
+      internalID: 5634713960528622121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 650
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c028aded065b4dd40800000000000000
+      internalID: 5608306863643460108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 713
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffe874732e947530800000000000000
+      internalID: 3851877456423743474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 706
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4177c214a6b8846d0800000000000000
+      internalID: -3005999462793578732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 650
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d54499c04aac48a0800000000000000
+      internalID: -6319488981871082030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 690
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793d2dee26e5a2f40800000000000000
+      internalID: 5704475657024754583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 653
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a3da16b74fffef0800000000000000
+      internalID: -72070258257741264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 640
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b0c44980473fb10800000000000000
+      internalID: 2014081038561315652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 650
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8877818d33e801500800000000000000
+      internalID: 364947923136968584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 647
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92650318974766cd0800000000000000
+      internalID: -2565234872533625303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 645
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70bce72ae458d9d0800000000000000
+      internalID: -2749354207840784262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 543
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a597b274c218f190800000000000000
+      internalID: -7928566509038234206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 543
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7b00cfc517771c0800000000000000
+      internalID: -4506008257982056533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 543
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bb3c42f8b1d3f40800000000000000
+      internalID: 5709750204186737546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 543
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5dd65318c06b4a0800000000000000
+      internalID: -6578056456641325597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 543
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fb0ff4aa726af90800000000000000
+      internalID: -6942818163105939575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 542
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db870cda86f5c900800000000000000
+      internalID: 704239993010752471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 543
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90e2ccf9c521e4a0800000000000000
+      internalID: -6565925232270188387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 543
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7180338dfb4dffb50800000000000000
+      internalID: 6629251096943724567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 543
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4577e2f7d2a0ca0800000000000000
+      internalID: -6049973125155171111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 543
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96326461985fe3f20800000000000000
+      internalID: 3404428337471693673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 543
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deea83e536a974a50800000000000000
+      internalID: 6505337938333183725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 543
+        width: 77
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db6dbf60362bbc30800000000000000
+      internalID: 4376133452395539409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 543
+        width: 80
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76305dc500b3c700800000000000000
+      internalID: 559484317689984634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 552
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb01b2cd0533a340800000000000000
+      internalID: 4873797554962238444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 543
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e1e8da040f37fa0800000000000000
+      internalID: -5804031334170091892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 543
+        width: 77
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e673c6d0a7d03cc0800000000000000
+      internalID: -3733247005292267804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 543
+        width: 80
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d9d40293fe9b5c0800000000000000
+      internalID: -4199062148912145128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 552
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4146e7601c2022c0800000000000000
+      internalID: -4458515182122548916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 543
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889ff4379f66a8270800000000000000
+      internalID: 8253522488677366152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 543
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84452dab916663330800000000000000
+      internalID: 3690249205371262024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 415
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33117b44c294da550800000000000000
+      internalID: 6173671118675054899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 414
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d5516f15100c760800000000000000
+      internalID: 7475976832967597420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 401
+        width: 21
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186abd02dadb445d0800000000000000
+      internalID: -3079127693936318847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 402
+        width: 22
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b833be540a605a5a0800000000000000
+      internalID: -6510790400856607861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 402
+        width: 22
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba0f200fc27aeae0800000000000000
+      internalID: -1519275690897241413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 402
+        width: 22
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f87f045115251e0800000000000000
+      internalID: -2210615315359363319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 402
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52919ee33c2648d80800000000000000
+      internalID: -8249360026722297563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 402
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248ddf533ad8b77d0800000000000000
+      internalID: -2919584201294620606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 402
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0113bc14e0c93a3c0800000000000000
+      internalID: -4349461230062456560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 402
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925daad56fe8494f0800000000000000
+      internalID: -822875643117382359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 402
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d078517cbbd3e430800000000000000
+      internalID: 3811131312087527638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 402
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9000dc967d0c37720800000000000000
+      internalID: 2842827821226459145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 402
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09bea355ff3586c0800000000000000
+      internalID: -4141833959393806068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 402
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f47f9aa85dc50330800000000000000
+      internalID: 3676570451521271030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 402
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043e0fc26d8c9b340800000000000000
+      internalID: 4880152493435183936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 426
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8316a0f3d6792010800000000000000
+      internalID: 1164592631299576716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 402
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1c2cfe27d951280800000000000000
+      internalID: -9073172757293645358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 426
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdbf4c270708bd10800000000000000
+      internalID: 2141469350204259776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 402
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe17268af199bf4a0800000000000000
+      internalID: -6558480071086935569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 427
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc2c94d2eb766a50800000000000000
+      internalID: 6514030125197831418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 402
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41573610d20df100800000000000000
+      internalID: 143273855894901069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 428
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4bec132c18f0c20800000000000000
+      internalID: 3174898933378757839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 402
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef01c538c1611a920800000000000000
+      internalID: 2999703138524205310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 402
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d29dd28299602420800000000000000
+      internalID: 2603196662601847505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 352
+        width: 114
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99d71b98f39d2fd0800000000000000
+      internalID: -2365071533336438371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 402
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b035a2a760763f740800000000000000
+      internalID: 5184600873550631691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 402
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0953f2ce2ae6f50800000000000000
+      internalID: 6876612816329347283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 2974
+        y: 400
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626675426a8f6a580800000000000000
+      internalID: -8816085828073200090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 408
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce8c2909cecb61c0800000000000000
+      internalID: -4509283239043756351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 415
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20847765903f9bb50800000000000000
+      internalID: 6609581149573826562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 287
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3bbfe3d81db89d0800000000000000
+      internalID: -2770890741139131478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 286
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4028b6b73e2c8e30800000000000000
+      internalID: 4507028143914623051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 273
+        width: 21
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9177d7e9be08470800000000000000
+      internalID: 8394968771360922061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 287
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39b65920b81ceb40800000000000000
+      internalID: 5470774792235170110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 287
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b5a51ba3d7d0250800000000000000
+      internalID: 5912519576844393244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 323
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9973a623fce7ad710800000000000000
+      internalID: 1718825636164417433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 313
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811f4a495c3ad74a0800000000000000
+      internalID: -6593934210402815720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 300
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db9451b071af6cc0800000000000000
+      internalID: -3715573662173848619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 342
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088ef620c9e8aef60800000000000000
+      internalID: 8064414883467225216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 302
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c257af4b35ee250800000000000000
+      internalID: 5975805792328428703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 324
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6e2da0dc7ad0910800000000000000
+      internalID: 1805283524737165030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 311
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3a835532c7b6430800000000000000
+      internalID: 3777249203675767714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 319
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb82aa6510b89910800000000000000
+      internalID: 1844417653438057464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 309
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e7cff2d5c1669f0800000000000000
+      internalID: -475661524078395754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 323
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5a30b70a82b3e10800000000000000
+      internalID: 2178379514487481840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 309
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db19ad40fac613c90800000000000000
+      internalID: -7191847630977461827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 317
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70986cf123fc26a50800000000000000
+      internalID: 6512995825319577863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 341
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8844907bb1f2fa1e0800000000000000
+      internalID: -2184475498169940856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 345
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5b2995528e4d670800000000000000
+      internalID: 8562724038652376495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 326
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767cdbd3c4e6cb370800000000000000
+      internalID: 8339661883715733351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 318
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abe46fae57b2d780800000000000000
+      internalID: -8659657516182606941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 372
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74616a41f84b14ef0800000000000000
+      internalID: -125620787969911225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 323
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc17065af7c6aa790800000000000000
+      internalID: -7518077332450414132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 366
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ab02846bf1f47d0800000000000000
+      internalID: -2932089964640290229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 361
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ca9121894e8b330800000000000000
+      internalID: 3726980033438919821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 299
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2a5e6cba6c52970800000000000000
+      internalID: 8729601893806219981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 301
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7b26b52be3a1d00800000000000000
+      internalID: 944136007645837273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 319
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cc414401fdc1c50800000000000000
+      internalID: 6637425211791952999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 320
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd9d70202474ccf0800000000000000
+      internalID: -232933599383544364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 357
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea6f62fef7616bb0800000000000000
+      internalID: -4944556571189351708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 336
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a527567bc7e25770800000000000000
+      internalID: 8598189499653498281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 318
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b925b43f26ee9f660800000000000000
+      internalID: 7420223969825608347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 329
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cc7cdf6e7c17440800000000000000
+      internalID: 4931942861861538879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 345
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a948b2924415e10800000000000000
+      internalID: 2184602237865859598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 353
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dac6cb7188f7b8c0800000000000000
+      internalID: -3983442110374819120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 320
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e175e8cf80adda30800000000000000
+      internalID: 4241722963464122848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 324
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc434ceffe6d77930800000000000000
+      internalID: 4141014708650259659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 318
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b389c7e952c9480800000000000000
+      internalID: -8891190201710789758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 324
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4a65d12455f8750800000000000000
+      internalID: 6309355345417774252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 344
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1399e201da08960800000000000000
+      internalID: 7602266456014270946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 332
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd35bfee421e31ad0800000000000000
+      internalID: -2732593000139238435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 324
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98d589f2e70e6e00800000000000000
+      internalID: 1039777235399465119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 330
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0148153297b23c470800000000000000
+      internalID: 8413616328141800464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 349
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d52edeaddbba1e0800000000000000
+      internalID: -2185444446166688497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 340
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d47bacb36fd89a0800000000000000
+      internalID: -6229051972919014112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 275
+        width: 92
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5150c09af9410a60800000000000000
+      internalID: 7638467783516246366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 320
+        width: 82
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67281124c575760d0800000000000000
+      internalID: -3429676537462291850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 268
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabec4b2cd438ca90800000000000000
+      internalID: -7293521476302607443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 263
+        width: 72
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1856b45356ff380800000000000000
+      internalID: -8935311856107159082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 276
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c81d830c49f2c70800000000000000
+      internalID: 8948534537916353551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 321
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d233ef0b5fa8f810800000000000000
+      internalID: 1799380856777945808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 308
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fc3c12f6097d250800000000000000
+      internalID: 5969398638085132045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 266
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4527ee626e3cc8390800000000000000
+      internalID: -7814655860131597740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 283
+        width: 36
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbafbc2ed82ff5000800000000000000
+      internalID: 27006813996841661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 283
+        width: 36
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b063b8e2817557760800000000000000
+      internalID: 7454960519553431051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 297
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9280466707d5030800000000000000
+      internalID: 3485065340441340377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 291
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da71537b2faeae930800000000000000
+      internalID: 4173406332888881069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 309
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57119de58f2352870800000000000000
+      internalID: 8657381901014208885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 312
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8817ed0a5f5ec20a0800000000000000
+      internalID: -6904891285537132152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 311
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16643a9812e706420800000000000000
+      internalID: 2621233665637828193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 286
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4981c39dae4409d90800000000000000
+      internalID: -7093093637650900844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 289
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43504cb8cc9b8c670800000000000000
+      internalID: 8559295379986974004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 283
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bb3ad98921e9b80800000000000000
+      internalID: -8386245009428202632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 283
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781067e72bbd56af0800000000000000
+      internalID: -403675031907466873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 283
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb5b445d4299a730800000000000000
+      internalID: 4010897803974499321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 283
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448aa38c0f82e0db0800000000000000
+      internalID: -4823873136250673084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 283
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba4ac8f2181c3f30800000000000000
+      internalID: 4556543392754584240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 255
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e62853432013a30800000000000000
+      internalID: 4193135151317937748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 283
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4633b1b8ec4b1fc0800000000000000
+      internalID: -3523137721189845427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 283
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f825b4cf90dac5e60800000000000000
+      internalID: 7952421300428558991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 300
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d571da0c53c6b10800000000000000
+      internalID: 1976013438162787665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 283
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04aa806a9c9e9c40800000000000000
+      internalID: 5521022380061402127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 283
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bfeb134b122a6d0800000000000000
+      internalID: -2980782945553417430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 283
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0235985758fd3ef10800000000000000
+      internalID: 2297925999184663328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 301
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5a299bd0cf1fb30800000000000000
+      internalID: 4319510653503186419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 304
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90aa9acc36575be10800000000000000
+      internalID: 2212803863418350089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 293
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17e5bff61a58cd00800000000000000
+      internalID: 993142772661085983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 290
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a972585d0ae33080800000000000000
+      internalID: -9208759470005257824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 278
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a15beba71318ab0800000000000000
+      internalID: -5007666907403969930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 272
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e870b89cd3f4a8e20800000000000000
+      internalID: 3353579999323686798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 256
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6991d289c9a665760800000000000000
+      internalID: 7446256254704228758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 270
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a01af78fe1518e0800000000000000
+      internalID: -1723437229757363707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 258
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8de146bf341124f0800000000000000
+      internalID: -855380190350414452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 159
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f1e714e1ba0a3e0800000000000000
+      internalID: -2044446084390052069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 159
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ddebd943c49dcf0800000000000000
+      internalID: -227066517336957680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_151
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 159
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193318e413a5504b0800000000000000
+      internalID: -5474870604181982319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_152
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 159
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fd1dfd7101c7d20800000000000000
+      internalID: 3277512323544244115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_153
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 159
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02d277974d4030f0800000000000000
+      internalID: -1139325735845834225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_154
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 31
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4795fd5776ef11b10800000000000000
+      internalID: 1950619833940793716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_155
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 31
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706d603d96dea1cc0800000000000000
+      internalID: -3739415501809986041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_156
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 31
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68207d9f9385e3b20800000000000000
+      internalID: 3116024998214959750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_157
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 31
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b892e6e28ebf620800000000000000
+      internalID: 2809094078709992213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_158
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 31
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aebb50dcedf17750800000000000000
+      internalID: 6301096547217817253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_159
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 31
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f963833ece4523f50800000000000000
+      internalID: 6859638558839813791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_160
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 31
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c52c22f6a7bd2f0800000000000000
+      internalID: -947028678888235971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_161
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 31
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d1a47e5aa730760800000000000000
+      internalID: 7422911463805295975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_162
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 31
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f40b194ba02ff80800000000000000
+      internalID: -8074379411267235946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_163
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 31
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9941e908ae41d1c0800000000000000
+      internalID: -4480713670629701220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_164
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 31
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42a5ab064602f850800000000000000
+      internalID: 6409192117614518858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_165
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 31
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5859e06ac28e2c0800000000000000
+      internalID: -4402219544033786409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_166
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 31
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c7495861170a940800000000000000
+      internalID: 5305364702586764317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_167
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 31
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6ab1186a75b9a80800000000000000
+      internalID: -8459071102443084117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_168
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 31
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c529f28522b3be0800000000000000
+      internalID: -1496564689019970462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samurai-Sheet_169
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 31
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2c63bd490194070800000000000000
+      internalID: 8091016437066810043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      samurai-Sheet_0: 3199680261989775893
+      samurai-Sheet_1: 8854408325758372575
+      samurai-Sheet_10: 5704475657024754583
+      samurai-Sheet_100: -3983442110374819120
+      samurai-Sheet_101: 4241722963464122848
+      samurai-Sheet_102: 4141014708650259659
+      samurai-Sheet_103: -8891190201710789758
+      samurai-Sheet_104: 6309355345417774252
+      samurai-Sheet_105: 7602266456014270946
+      samurai-Sheet_106: -2732593000139238435
+      samurai-Sheet_107: 1039777235399465119
+      samurai-Sheet_108: 8413616328141800464
+      samurai-Sheet_109: -2185444446166688497
+      samurai-Sheet_11: -72070258257741264
+      samurai-Sheet_110: -6229051972919014112
+      samurai-Sheet_111: 7638467783516246366
+      samurai-Sheet_112: -3429676537462291850
+      samurai-Sheet_113: -7293521476302607443
+      samurai-Sheet_114: -8935311856107159082
+      samurai-Sheet_115: 8948534537916353551
+      samurai-Sheet_116: 1799380856777945808
+      samurai-Sheet_117: 5969398638085132045
+      samurai-Sheet_118: -7814655860131597740
+      samurai-Sheet_119: 27006813996841661
+      samurai-Sheet_12: 2014081038561315652
+      samurai-Sheet_120: 7454960519553431051
+      samurai-Sheet_121: 3485065340441340377
+      samurai-Sheet_122: 4173406332888881069
+      samurai-Sheet_123: 8657381901014208885
+      samurai-Sheet_124: -6904891285537132152
+      samurai-Sheet_125: 2621233665637828193
+      samurai-Sheet_126: -7093093637650900844
+      samurai-Sheet_127: 8559295379986974004
+      samurai-Sheet_128: -8386245009428202632
+      samurai-Sheet_129: -403675031907466873
+      samurai-Sheet_13: 364947923136968584
+      samurai-Sheet_130: 4010897803974499321
+      samurai-Sheet_131: -4823873136250673084
+      samurai-Sheet_132: 4556543392754584240
+      samurai-Sheet_133: 4193135151317937748
+      samurai-Sheet_134: -3523137721189845427
+      samurai-Sheet_135: 7952421300428558991
+      samurai-Sheet_136: 1976013438162787665
+      samurai-Sheet_137: 5521022380061402127
+      samurai-Sheet_138: -2980782945553417430
+      samurai-Sheet_139: 2297925999184663328
+      samurai-Sheet_14: -2565234872533625303
+      samurai-Sheet_140: 4319510653503186419
+      samurai-Sheet_141: 2212803863418350089
+      samurai-Sheet_142: 993142772661085983
+      samurai-Sheet_143: -9208759470005257824
+      samurai-Sheet_144: -5007666907403969930
+      samurai-Sheet_145: 3353579999323686798
+      samurai-Sheet_146: 7446256254704228758
+      samurai-Sheet_147: -1723437229757363707
+      samurai-Sheet_148: -855380190350414452
+      samurai-Sheet_149: -2044446084390052069
+      samurai-Sheet_15: -2749354207840784262
+      samurai-Sheet_150: -227066517336957680
+      samurai-Sheet_151: -5474870604181982319
+      samurai-Sheet_152: 3277512323544244115
+      samurai-Sheet_153: -1139325735845834225
+      samurai-Sheet_154: 1950619833940793716
+      samurai-Sheet_155: -3739415501809986041
+      samurai-Sheet_156: 3116024998214959750
+      samurai-Sheet_157: 2809094078709992213
+      samurai-Sheet_158: 6301096547217817253
+      samurai-Sheet_159: 6859638558839813791
+      samurai-Sheet_16: -7928566509038234206
+      samurai-Sheet_160: -947028678888235971
+      samurai-Sheet_161: 7422911463805295975
+      samurai-Sheet_162: -8074379411267235946
+      samurai-Sheet_163: -4480713670629701220
+      samurai-Sheet_164: 6409192117614518858
+      samurai-Sheet_165: -4402219544033786409
+      samurai-Sheet_166: 5305364702586764317
+      samurai-Sheet_167: -8459071102443084117
+      samurai-Sheet_168: -1496564689019970462
+      samurai-Sheet_169: 8091016437066810043
+      samurai-Sheet_17: -4506008257982056533
+      samurai-Sheet_18: 5709750204186737546
+      samurai-Sheet_19: -6578056456641325597
+      samurai-Sheet_2: -2477068978498748864
+      samurai-Sheet_20: -6942818163105939575
+      samurai-Sheet_21: 704239993010752471
+      samurai-Sheet_22: -6565925232270188387
+      samurai-Sheet_23: 6629251096943724567
+      samurai-Sheet_24: -6049973125155171111
+      samurai-Sheet_25: 3404428337471693673
+      samurai-Sheet_26: 6505337938333183725
+      samurai-Sheet_27: 4376133452395539409
+      samurai-Sheet_28: 559484317689984634
+      samurai-Sheet_29: 4873797554962238444
+      samurai-Sheet_3: 5585435620176416880
+      samurai-Sheet_30: -5804031334170091892
+      samurai-Sheet_31: -3733247005292267804
+      samurai-Sheet_32: -4199062148912145128
+      samurai-Sheet_33: -4458515182122548916
+      samurai-Sheet_34: 8253522488677366152
+      samurai-Sheet_35: 3690249205371262024
+      samurai-Sheet_36: 6173671118675054899
+      samurai-Sheet_37: 7475976832967597420
+      samurai-Sheet_38: -3079127693936318847
+      samurai-Sheet_39: -6510790400856607861
+      samurai-Sheet_4: 5182163537209270135
+      samurai-Sheet_40: -1519275690897241413
+      samurai-Sheet_41: -2210615315359363319
+      samurai-Sheet_42: -8249360026722297563
+      samurai-Sheet_43: -2919584201294620606
+      samurai-Sheet_44: -4349461230062456560
+      samurai-Sheet_45: -822875643117382359
+      samurai-Sheet_46: 3811131312087527638
+      samurai-Sheet_47: 2842827821226459145
+      samurai-Sheet_48: -4141833959393806068
+      samurai-Sheet_49: 3676570451521271030
+      samurai-Sheet_5: 5634713960528622121
+      samurai-Sheet_50: 4880152493435183936
+      samurai-Sheet_51: 1164592631299576716
+      samurai-Sheet_52: -9073172757293645358
+      samurai-Sheet_53: 2141469350204259776
+      samurai-Sheet_54: -6558480071086935569
+      samurai-Sheet_55: 6514030125197831418
+      samurai-Sheet_56: 143273855894901069
+      samurai-Sheet_57: 3174898933378757839
+      samurai-Sheet_58: 2999703138524205310
+      samurai-Sheet_59: 2603196662601847505
+      samurai-Sheet_6: 5608306863643460108
+      samurai-Sheet_60: -2365071533336438371
+      samurai-Sheet_61: 5184600873550631691
+      samurai-Sheet_62: 6876612816329347283
+      samurai-Sheet_63: -8816085828073200090
+      samurai-Sheet_64: -4509283239043756351
+      samurai-Sheet_65: 6609581149573826562
+      samurai-Sheet_66: -2770890741139131478
+      samurai-Sheet_67: 4507028143914623051
+      samurai-Sheet_68: 8394968771360922061
+      samurai-Sheet_69: 5470774792235170110
+      samurai-Sheet_7: 3851877456423743474
+      samurai-Sheet_70: 5912519576844393244
+      samurai-Sheet_71: 1718825636164417433
+      samurai-Sheet_72: -6593934210402815720
+      samurai-Sheet_73: -3715573662173848619
+      samurai-Sheet_74: 8064414883467225216
+      samurai-Sheet_75: 5975805792328428703
+      samurai-Sheet_76: 1805283524737165030
+      samurai-Sheet_77: 3777249203675767714
+      samurai-Sheet_78: 1844417653438057464
+      samurai-Sheet_79: -475661524078395754
+      samurai-Sheet_8: -3005999462793578732
+      samurai-Sheet_80: 2178379514487481840
+      samurai-Sheet_81: -7191847630977461827
+      samurai-Sheet_82: 6512995825319577863
+      samurai-Sheet_83: -2184475498169940856
+      samurai-Sheet_84: 8562724038652376495
+      samurai-Sheet_85: 8339661883715733351
+      samurai-Sheet_86: -8659657516182606941
+      samurai-Sheet_87: -125620787969911225
+      samurai-Sheet_88: -7518077332450414132
+      samurai-Sheet_89: -2932089964640290229
+      samurai-Sheet_9: -6319488981871082030
+      samurai-Sheet_90: 3726980033438919821
+      samurai-Sheet_91: 8729601893806219981
+      samurai-Sheet_92: 944136007645837273
+      samurai-Sheet_93: 6637425211791952999
+      samurai-Sheet_94: -232933599383544364
+      samurai-Sheet_95: -4944556571189351708
+      samurai-Sheet_96: 8598189499653498281
+      samurai-Sheet_97: 7420223969825608347
+      samurai-Sheet_98: 4931942861861538879
+      samurai-Sheet_99: 2184602237865859598
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

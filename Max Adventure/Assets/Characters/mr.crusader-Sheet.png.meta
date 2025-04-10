@@ -1,0 +1,1755 @@
+fileFormatVersion: 2
+guid: 153947a34ccd537419233905c04820fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6142005375417650964
+    second: mr.crusader-Sheet_0
+  - first:
+      213: 8265869940181305352
+    second: mr.crusader-Sheet_1
+  - first:
+      213: -1650578066849004962
+    second: mr.crusader-Sheet_2
+  - first:
+      213: 7083630677445882778
+    second: mr.crusader-Sheet_3
+  - first:
+      213: 390687100817991754
+    second: mr.crusader-Sheet_4
+  - first:
+      213: 82337323433553389
+    second: mr.crusader-Sheet_5
+  - first:
+      213: -6067027345940650802
+    second: mr.crusader-Sheet_6
+  - first:
+      213: 9004107223100318607
+    second: mr.crusader-Sheet_7
+  - first:
+      213: -3699595551970578710
+    second: mr.crusader-Sheet_8
+  - first:
+      213: 3860342468396920856
+    second: mr.crusader-Sheet_9
+  - first:
+      213: 2075761029113860547
+    second: mr.crusader-Sheet_10
+  - first:
+      213: -7468599788337598316
+    second: mr.crusader-Sheet_11
+  - first:
+      213: -2341007113804340462
+    second: mr.crusader-Sheet_12
+  - first:
+      213: 7722217230995795025
+    second: mr.crusader-Sheet_13
+  - first:
+      213: 3170919235925598744
+    second: mr.crusader-Sheet_14
+  - first:
+      213: -3294767445900645101
+    second: mr.crusader-Sheet_15
+  - first:
+      213: 6048445211240826290
+    second: mr.crusader-Sheet_16
+  - first:
+      213: 3055940609493254809
+    second: mr.crusader-Sheet_17
+  - first:
+      213: 7397650010831175959
+    second: mr.crusader-Sheet_18
+  - first:
+      213: 1723182514357680539
+    second: mr.crusader-Sheet_19
+  - first:
+      213: 8112393950666526697
+    second: mr.crusader-Sheet_20
+  - first:
+      213: -4988507900775821256
+    second: mr.crusader-Sheet_21
+  - first:
+      213: -1461759251286452490
+    second: mr.crusader-Sheet_22
+  - first:
+      213: 3736525344503586110
+    second: mr.crusader-Sheet_23
+  - first:
+      213: 7471495033461030680
+    second: mr.crusader-Sheet_24
+  - first:
+      213: 1620003033869819733
+    second: mr.crusader-Sheet_25
+  - first:
+      213: -4489769819877605619
+    second: mr.crusader-Sheet_26
+  - first:
+      213: -1588908552966155033
+    second: mr.crusader-Sheet_27
+  - first:
+      213: 9080131590057311586
+    second: mr.crusader-Sheet_28
+  - first:
+      213: -2619780065326431023
+    second: mr.crusader-Sheet_29
+  - first:
+      213: -612032368845990923
+    second: mr.crusader-Sheet_30
+  - first:
+      213: 795404443160492254
+    second: mr.crusader-Sheet_31
+  - first:
+      213: -7519766331096724410
+    second: mr.crusader-Sheet_32
+  - first:
+      213: 3691645796930419965
+    second: mr.crusader-Sheet_33
+  - first:
+      213: 9077332984611019492
+    second: mr.crusader-Sheet_34
+  - first:
+      213: 5624546122220766574
+    second: mr.crusader-Sheet_35
+  - first:
+      213: -7932214467479428768
+    second: mr.crusader-Sheet_36
+  - first:
+      213: -7735931493226252163
+    second: mr.crusader-Sheet_37
+  - first:
+      213: -7213577299484763646
+    second: mr.crusader-Sheet_38
+  - first:
+      213: 1629444624265572164
+    second: mr.crusader-Sheet_39
+  - first:
+      213: 8670195356310148736
+    second: mr.crusader-Sheet_40
+  - first:
+      213: -1555397392063195030
+    second: mr.crusader-Sheet_41
+  - first:
+      213: -6307323297567769691
+    second: mr.crusader-Sheet_42
+  - first:
+      213: 7654569215196028477
+    second: mr.crusader-Sheet_43
+  - first:
+      213: 8653797251111886718
+    second: mr.crusader-Sheet_44
+  - first:
+      213: 3854518514033955816
+    second: mr.crusader-Sheet_45
+  - first:
+      213: 1807556718870090728
+    second: mr.crusader-Sheet_46
+  - first:
+      213: 6231943579417877544
+    second: mr.crusader-Sheet_47
+  - first:
+      213: -2887642504166574646
+    second: mr.crusader-Sheet_48
+  - first:
+      213: 4179061996765274453
+    second: mr.crusader-Sheet_49
+  - first:
+      213: 683723857777999783
+    second: mr.crusader-Sheet_50
+  - first:
+      213: -3947870919601706120
+    second: mr.crusader-Sheet_51
+  - first:
+      213: -3625085222531543503
+    second: mr.crusader-Sheet_52
+  - first:
+      213: -8082977836886708772
+    second: mr.crusader-Sheet_53
+  - first:
+      213: 2243029999184060901
+    second: mr.crusader-Sheet_54
+  - first:
+      213: -342805861038379664
+    second: mr.crusader-Sheet_55
+  - first:
+      213: -6028498178150205625
+    second: mr.crusader-Sheet_56
+  - first:
+      213: 5837847285528786787
+    second: mr.crusader-Sheet_57
+  - first:
+      213: 1106040484716078683
+    second: mr.crusader-Sheet_58
+  - first:
+      213: -562374774081729291
+    second: mr.crusader-Sheet_59
+  - first:
+      213: 1872879760903784881
+    second: mr.crusader-Sheet_60
+  - first:
+      213: 955041755361282482
+    second: mr.crusader-Sheet_61
+  - first:
+      213: -8730829785411822905
+    second: mr.crusader-Sheet_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 235
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f0f42e859cc3550800000000000000
+      internalID: 6142005375417650964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 235
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80806188ae446b270800000000000000
+      internalID: 8265869940181305352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 235
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e520a6b4ef7f719e0800000000000000
+      internalID: -1650578066849004962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 235
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93b839029c1e4260800000000000000
+      internalID: 7083630677445882778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 235
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48659629dffb6500800000000000000
+      internalID: 390687100817991754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 235
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded63030c55842100800000000000000
+      internalID: 82337323433553389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 274
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec460aaf5c69dcba0800000000000000
+      internalID: -6067027345940650802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 235
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f836c6840d305fc70800000000000000
+      internalID: 9004107223100318607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 231
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeead20627568acc0800000000000000
+      internalID: -3699595551970578710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 230
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8103724a501b29530800000000000000
+      internalID: 3860342468396920856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 235
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c15eea78a59ecc10800000000000000
+      internalID: 2075761029113860547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 274
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490749610143a5890800000000000000
+      internalID: -7468599788337598316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 235
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213a705ee62138fd0800000000000000
+      internalID: -2341007113804340462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 230
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ca7e358a3da2b60800000000000000
+      internalID: 7722217230995795025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 229
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8126cccae3e510c20800000000000000
+      internalID: 3170919235925598744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 234
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d2291e672a642d0800000000000000
+      internalID: -3294767445900645101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 229
+        width: 84
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b50c63afd460f350800000000000000
+      internalID: 6048445211240826290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 218
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99249831bc1e86a20800000000000000
+      internalID: 3055940609493254809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 212
+        width: 117
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711c14c8d7bb9a660800000000000000
+      internalID: 7397650010831175959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 216
+        width: 104
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b993473fd59f9e710800000000000000
+      internalID: 1723182514357680539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 228
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef818b1153059070800000000000000
+      internalID: 8112393950666526697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 232
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83017079e7245cab0800000000000000
+      internalID: -4988507900775821256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 229
+        width: 84
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f61ee7a4b9c6bbe0800000000000000
+      internalID: -1461759251286452490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 212
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d516df00ecad330800000000000000
+      internalID: 3736525344503586110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 216
+        width: 104
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f3a82b52510b760800000000000000
+      internalID: 7471495033461030680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 228
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f9dd81d286b7610800000000000000
+      internalID: 1620003033869819733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 232
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ffceaf22221b1c0800000000000000
+      internalID: -4489769819877605619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 135
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e45fd7e61013f9e0800000000000000
+      internalID: -1588908552966155033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 135
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d3b23929b130e70800000000000000
+      internalID: 9080131590057311586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 135
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4819829eba4abd0800000000000000
+      internalID: -2619780065326431023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 135
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3d4ef9dcf9187f0800000000000000
+      internalID: -612032368845990923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 135
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed839577028d90b00800000000000000
+      internalID: 795404443160492254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 135
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c89010d5c64a790800000000000000
+      internalID: -7519766331096724410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 135
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcf99a0b4c5b3330800000000000000
+      internalID: 3691645796930419965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 135
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea1da7714a29fd70800000000000000
+      internalID: 9077332984611019492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 35
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6505c5e5e66e0e40800000000000000
+      internalID: 5624546122220766574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 35
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061acafe7fc1be190800000000000000
+      internalID: -7932214467479428768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 35
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78fd7b2b4374a490800000000000000
+      internalID: -7735931493226252163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 35
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a93605aa934eb90800000000000000
+      internalID: -7213577299484763646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 35
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fe48aa043fc9610800000000000000
+      internalID: 1629444624265572164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 35
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0869b1a6db8b25870800000000000000
+      internalID: 8670195356310148736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 35
+        width: 20
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a681181105e1a6ae0800000000000000
+      internalID: -1555397392063195030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 35
+        width: 20
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab7de4e0e2e778a0800000000000000
+      internalID: -6307323297567769691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 35
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e5664452e7a3a60800000000000000
+      internalID: 7654569215196028477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 35
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f96c600c6781870800000000000000
+      internalID: 8653797251111886718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 35
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e319299a200e7530800000000000000
+      internalID: 3854518514033955816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 35
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e35f9b424bb51910800000000000000
+      internalID: 1807556718870090728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 35
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c9a7fcaaf4c7650800000000000000
+      internalID: 6231943579417877544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 35
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5f4dc11780de7d0800000000000000
+      internalID: -2887642504166574646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 35
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55167839eb20ff930800000000000000
+      internalID: 4179061996765274453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 35
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af3153e9331d7900800000000000000
+      internalID: 683723857777999783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 74
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bab0ab0585639c0800000000000000
+      internalID: -3947870919601706120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 35
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e4d76523c11bdc0800000000000000
+      internalID: -3625085222531543503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 31
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd23099b7e73df80800000000000000
+      internalID: -8082977836886708772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 30
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e129e176e7d02f10800000000000000
+      internalID: 2243029999184060901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 3638
+        y: 35
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07da2e9b2eb1e3bf0800000000000000
+      internalID: -342805861038379664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 31
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747744ae8d8765ca0800000000000000
+      internalID: -6028498178150205625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 34
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367fbea0d23340150800000000000000
+      internalID: 5837847285528786787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 29
+        width: 84
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56e3b6f5f1795f00800000000000000
+      internalID: 1106040484716078683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 18
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcc7306f1b0238f0800000000000000
+      internalID: -562374774081729291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 12
+        width: 117
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b940b7383ecdf910800000000000000
+      internalID: 1872879760903784881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 16
+        width: 104
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b989fd9a6df04d00800000000000000
+      internalID: 955041755361282482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr.crusader-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 32
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cad02e619cd5d680800000000000000
+      internalID: -8730829785411822905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mr.crusader-Sheet_0: 6142005375417650964
+      mr.crusader-Sheet_1: 8265869940181305352
+      mr.crusader-Sheet_10: 2075761029113860547
+      mr.crusader-Sheet_11: -7468599788337598316
+      mr.crusader-Sheet_12: -2341007113804340462
+      mr.crusader-Sheet_13: 7722217230995795025
+      mr.crusader-Sheet_14: 3170919235925598744
+      mr.crusader-Sheet_15: -3294767445900645101
+      mr.crusader-Sheet_16: 6048445211240826290
+      mr.crusader-Sheet_17: 3055940609493254809
+      mr.crusader-Sheet_18: 7397650010831175959
+      mr.crusader-Sheet_19: 1723182514357680539
+      mr.crusader-Sheet_2: -1650578066849004962
+      mr.crusader-Sheet_20: 8112393950666526697
+      mr.crusader-Sheet_21: -4988507900775821256
+      mr.crusader-Sheet_22: -1461759251286452490
+      mr.crusader-Sheet_23: 3736525344503586110
+      mr.crusader-Sheet_24: 7471495033461030680
+      mr.crusader-Sheet_25: 1620003033869819733
+      mr.crusader-Sheet_26: -4489769819877605619
+      mr.crusader-Sheet_27: -1588908552966155033
+      mr.crusader-Sheet_28: 9080131590057311586
+      mr.crusader-Sheet_29: -2619780065326431023
+      mr.crusader-Sheet_3: 7083630677445882778
+      mr.crusader-Sheet_30: -612032368845990923
+      mr.crusader-Sheet_31: 795404443160492254
+      mr.crusader-Sheet_32: -7519766331096724410
+      mr.crusader-Sheet_33: 3691645796930419965
+      mr.crusader-Sheet_34: 9077332984611019492
+      mr.crusader-Sheet_35: 5624546122220766574
+      mr.crusader-Sheet_36: -7932214467479428768
+      mr.crusader-Sheet_37: -7735931493226252163
+      mr.crusader-Sheet_38: -7213577299484763646
+      mr.crusader-Sheet_39: 1629444624265572164
+      mr.crusader-Sheet_4: 390687100817991754
+      mr.crusader-Sheet_40: 8670195356310148736
+      mr.crusader-Sheet_41: -1555397392063195030
+      mr.crusader-Sheet_42: -6307323297567769691
+      mr.crusader-Sheet_43: 7654569215196028477
+      mr.crusader-Sheet_44: 8653797251111886718
+      mr.crusader-Sheet_45: 3854518514033955816
+      mr.crusader-Sheet_46: 1807556718870090728
+      mr.crusader-Sheet_47: 6231943579417877544
+      mr.crusader-Sheet_48: -2887642504166574646
+      mr.crusader-Sheet_49: 4179061996765274453
+      mr.crusader-Sheet_5: 82337323433553389
+      mr.crusader-Sheet_50: 683723857777999783
+      mr.crusader-Sheet_51: -3947870919601706120
+      mr.crusader-Sheet_52: -3625085222531543503
+      mr.crusader-Sheet_53: -8082977836886708772
+      mr.crusader-Sheet_54: 2243029999184060901
+      mr.crusader-Sheet_55: -342805861038379664
+      mr.crusader-Sheet_56: -6028498178150205625
+      mr.crusader-Sheet_57: 5837847285528786787
+      mr.crusader-Sheet_58: 1106040484716078683
+      mr.crusader-Sheet_59: -562374774081729291
+      mr.crusader-Sheet_6: -6067027345940650802
+      mr.crusader-Sheet_60: 1872879760903784881
+      mr.crusader-Sheet_61: 955041755361282482
+      mr.crusader-Sheet_62: -8730829785411822905
+      mr.crusader-Sheet_7: 9004107223100318607
+      mr.crusader-Sheet_8: -3699595551970578710
+      mr.crusader-Sheet_9: 3860342468396920856
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

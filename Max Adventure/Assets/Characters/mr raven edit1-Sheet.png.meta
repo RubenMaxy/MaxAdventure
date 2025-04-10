@@ -1,0 +1,3263 @@
+fileFormatVersion: 2
+guid: add88e42b5add154c89f5b1808ad60a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7363385527642985719
+    second: mr raven edit1-Sheet_0
+  - first:
+      213: -5743240245107778744
+    second: mr raven edit1-Sheet_1
+  - first:
+      213: 8278864329428109899
+    second: mr raven edit1-Sheet_2
+  - first:
+      213: 4504988016457734451
+    second: mr raven edit1-Sheet_3
+  - first:
+      213: -6033485388556452865
+    second: mr raven edit1-Sheet_4
+  - first:
+      213: -4288847819635071210
+    second: mr raven edit1-Sheet_5
+  - first:
+      213: -7524392564019657042
+    second: mr raven edit1-Sheet_6
+  - first:
+      213: -5274795687342651513
+    second: mr raven edit1-Sheet_7
+  - first:
+      213: 231806761305985822
+    second: mr raven edit1-Sheet_8
+  - first:
+      213: -5038887061204801825
+    second: mr raven edit1-Sheet_9
+  - first:
+      213: 5134961155304923425
+    second: mr raven edit1-Sheet_10
+  - first:
+      213: -6720282316257620602
+    second: mr raven edit1-Sheet_11
+  - first:
+      213: -7136931430185033490
+    second: mr raven edit1-Sheet_12
+  - first:
+      213: -1863839742834026381
+    second: mr raven edit1-Sheet_13
+  - first:
+      213: 8384630424708126918
+    second: mr raven edit1-Sheet_14
+  - first:
+      213: -9179454089728458665
+    second: mr raven edit1-Sheet_15
+  - first:
+      213: -3441442716042693086
+    second: mr raven edit1-Sheet_16
+  - first:
+      213: -9105113857237205540
+    second: mr raven edit1-Sheet_17
+  - first:
+      213: 6778647839602862161
+    second: mr raven edit1-Sheet_18
+  - first:
+      213: 3544237212858413623
+    second: mr raven edit1-Sheet_19
+  - first:
+      213: -1431270757256054430
+    second: mr raven edit1-Sheet_20
+  - first:
+      213: 1906132669324759773
+    second: mr raven edit1-Sheet_21
+  - first:
+      213: 5189832153223338427
+    second: mr raven edit1-Sheet_22
+  - first:
+      213: 4545260718448153502
+    second: mr raven edit1-Sheet_23
+  - first:
+      213: 5380001792706848579
+    second: mr raven edit1-Sheet_24
+  - first:
+      213: 2394501324759451638
+    second: mr raven edit1-Sheet_25
+  - first:
+      213: -6494404007269655023
+    second: mr raven edit1-Sheet_26
+  - first:
+      213: 1660240522990667864
+    second: mr raven edit1-Sheet_27
+  - first:
+      213: -3934901932446314622
+    second: mr raven edit1-Sheet_28
+  - first:
+      213: 1699793491233612755
+    second: mr raven edit1-Sheet_29
+  - first:
+      213: 8481562438419364728
+    second: mr raven edit1-Sheet_30
+  - first:
+      213: -6702614491219041245
+    second: mr raven edit1-Sheet_31
+  - first:
+      213: -8989412465594712069
+    second: mr raven edit1-Sheet_32
+  - first:
+      213: -6681751153739204672
+    second: mr raven edit1-Sheet_33
+  - first:
+      213: -4278899599521390350
+    second: mr raven edit1-Sheet_34
+  - first:
+      213: -3314215105218029368
+    second: mr raven edit1-Sheet_35
+  - first:
+      213: 6596115881115673838
+    second: mr raven edit1-Sheet_36
+  - first:
+      213: 8009378076564848413
+    second: mr raven edit1-Sheet_37
+  - first:
+      213: 8772955595900382752
+    second: mr raven edit1-Sheet_38
+  - first:
+      213: 3578284273464645315
+    second: mr raven edit1-Sheet_39
+  - first:
+      213: 8635062970197816626
+    second: mr raven edit1-Sheet_40
+  - first:
+      213: 1927799243723260828
+    second: mr raven edit1-Sheet_41
+  - first:
+      213: 7714840099541927519
+    second: mr raven edit1-Sheet_42
+  - first:
+      213: -7496415850516417052
+    second: mr raven edit1-Sheet_43
+  - first:
+      213: -775281216219164071
+    second: mr raven edit1-Sheet_44
+  - first:
+      213: 4494024508232632258
+    second: mr raven edit1-Sheet_45
+  - first:
+      213: 2578880811884193102
+    second: mr raven edit1-Sheet_46
+  - first:
+      213: 4631128605082643403
+    second: mr raven edit1-Sheet_47
+  - first:
+      213: -125148008064524157
+    second: mr raven edit1-Sheet_48
+  - first:
+      213: 2613318785426411808
+    second: mr raven edit1-Sheet_49
+  - first:
+      213: -8727598959624020195
+    second: mr raven edit1-Sheet_50
+  - first:
+      213: -3490978676101092642
+    second: mr raven edit1-Sheet_51
+  - first:
+      213: 6856762673397076241
+    second: mr raven edit1-Sheet_52
+  - first:
+      213: -8788630395720230290
+    second: mr raven edit1-Sheet_53
+  - first:
+      213: -2872448993075237556
+    second: mr raven edit1-Sheet_54
+  - first:
+      213: 3829979247773511878
+    second: mr raven edit1-Sheet_55
+  - first:
+      213: 8329226686273140648
+    second: mr raven edit1-Sheet_56
+  - first:
+      213: 4835328830606720306
+    second: mr raven edit1-Sheet_57
+  - first:
+      213: 3351308222734922428
+    second: mr raven edit1-Sheet_58
+  - first:
+      213: 930494894497954215
+    second: mr raven edit1-Sheet_59
+  - first:
+      213: 253491097610939494
+    second: mr raven edit1-Sheet_60
+  - first:
+      213: 4012855595025302264
+    second: mr raven edit1-Sheet_61
+  - first:
+      213: -4314456841671048352
+    second: mr raven edit1-Sheet_62
+  - first:
+      213: -6697587321350418923
+    second: mr raven edit1-Sheet_63
+  - first:
+      213: 6035168183918875118
+    second: mr raven edit1-Sheet_64
+  - first:
+      213: 6778872147741753617
+    second: mr raven edit1-Sheet_65
+  - first:
+      213: -1890493408195741806
+    second: mr raven edit1-Sheet_66
+  - first:
+      213: 1614800168549681718
+    second: mr raven edit1-Sheet_67
+  - first:
+      213: 407545035494378279
+    second: mr raven edit1-Sheet_68
+  - first:
+      213: 5615221509354405373
+    second: mr raven edit1-Sheet_69
+  - first:
+      213: 6707201232757696747
+    second: mr raven edit1-Sheet_70
+  - first:
+      213: -1898390319521321056
+    second: mr raven edit1-Sheet_71
+  - first:
+      213: 8406788327952363625
+    second: mr raven edit1-Sheet_72
+  - first:
+      213: 4102936468564846276
+    second: mr raven edit1-Sheet_73
+  - first:
+      213: 4228168399053890491
+    second: mr raven edit1-Sheet_74
+  - first:
+      213: -7161934739306609150
+    second: mr raven edit1-Sheet_75
+  - first:
+      213: 6839637665503914481
+    second: mr raven edit1-Sheet_76
+  - first:
+      213: -4756358316994322784
+    second: mr raven edit1-Sheet_77
+  - first:
+      213: 4546882174621986978
+    second: mr raven edit1-Sheet_78
+  - first:
+      213: 2998003536960210944
+    second: mr raven edit1-Sheet_79
+  - first:
+      213: 942446201541243138
+    second: mr raven edit1-Sheet_80
+  - first:
+      213: -8185251311076466662
+    second: mr raven edit1-Sheet_81
+  - first:
+      213: -8164550043165562858
+    second: mr raven edit1-Sheet_82
+  - first:
+      213: 2461201253743384793
+    second: mr raven edit1-Sheet_83
+  - first:
+      213: -8835607838972131633
+    second: mr raven edit1-Sheet_84
+  - first:
+      213: -2116248479824158183
+    second: mr raven edit1-Sheet_85
+  - first:
+      213: -7813642439443378277
+    second: mr raven edit1-Sheet_86
+  - first:
+      213: 4594609479034954515
+    second: mr raven edit1-Sheet_87
+  - first:
+      213: 930921488819847064
+    second: mr raven edit1-Sheet_88
+  - first:
+      213: 7504048544348705450
+    second: mr raven edit1-Sheet_89
+  - first:
+      213: 6121179156566853410
+    second: mr raven edit1-Sheet_90
+  - first:
+      213: 6995897067370856454
+    second: mr raven edit1-Sheet_91
+  - first:
+      213: 4850754977287032731
+    second: mr raven edit1-Sheet_92
+  - first:
+      213: -6432569908128447628
+    second: mr raven edit1-Sheet_93
+  - first:
+      213: 7725619301915632211
+    second: mr raven edit1-Sheet_94
+  - first:
+      213: -7402390249666153418
+    second: mr raven edit1-Sheet_95
+  - first:
+      213: 4420296969766027279
+    second: mr raven edit1-Sheet_96
+  - first:
+      213: -4779202078821702081
+    second: mr raven edit1-Sheet_97
+  - first:
+      213: -2309553235896280800
+    second: mr raven edit1-Sheet_98
+  - first:
+      213: -3171282580561890028
+    second: mr raven edit1-Sheet_99
+  - first:
+      213: 2502209545143786178
+    second: mr raven edit1-Sheet_100
+  - first:
+      213: -5165091014133165551
+    second: mr raven edit1-Sheet_101
+  - first:
+      213: 8334179130577389232
+    second: mr raven edit1-Sheet_102
+  - first:
+      213: 3709845557262386897
+    second: mr raven edit1-Sheet_103
+  - first:
+      213: -6115051433619136152
+    second: mr raven edit1-Sheet_104
+  - first:
+      213: -4489252979612344431
+    second: mr raven edit1-Sheet_105
+  - first:
+      213: 3132018843199253323
+    second: mr raven edit1-Sheet_106
+  - first:
+      213: 2282834785124806110
+    second: mr raven edit1-Sheet_107
+  - first:
+      213: 4738853364667714047
+    second: mr raven edit1-Sheet_108
+  - first:
+      213: -5412057744090280191
+    second: mr raven edit1-Sheet_109
+  - first:
+      213: 4370168197527416199
+    second: mr raven edit1-Sheet_110
+  - first:
+      213: 5892335827750579619
+    second: mr raven edit1-Sheet_111
+  - first:
+      213: 7162332507726751280
+    second: mr raven edit1-Sheet_112
+  - first:
+      213: -1677472415497766242
+    second: mr raven edit1-Sheet_113
+  - first:
+      213: 6649996192528097939
+    second: mr raven edit1-Sheet_114
+  - first:
+      213: 7462160450629016840
+    second: mr raven edit1-Sheet_115
+  - first:
+      213: 7327257368191716695
+    second: mr raven edit1-Sheet_116
+  - first:
+      213: -7050007378481955222
+    second: mr raven edit1-Sheet_117
+  - first:
+      213: 7665494819101721226
+    second: mr raven edit1-Sheet_118
+  - first:
+      213: 1548395664033449585
+    second: mr raven edit1-Sheet_119
+  - first:
+      213: -3068873599441728532
+    second: mr raven edit1-Sheet_120
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 670
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4996fdf10003660800000000000000
+      internalID: 7363385527642985719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 542
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b9f921d69eb40b0800000000000000
+      internalID: -5743240245107778744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 542
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a073b8e3f64e270800000000000000
+      internalID: 8278864329428109899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 542
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339da568bbee48e30800000000000000
+      internalID: 4504988016457734451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 542
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb35918101c44ca0800000000000000
+      internalID: -6033485388556452865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 414
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61761fe91a3fa74c0800000000000000
+      internalID: -4288847819635071210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 414
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6840734dcf39790800000000000000
+      internalID: -7524392564019657042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 414
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787cd29f4492cc6b0800000000000000
+      internalID: -5274795687342651513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 414
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e135d20750b873300800000000000000
+      internalID: 231806761305985822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 414
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6639d3ae6421ab0800000000000000
+      internalID: -5038887061204801825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 414
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121216de6fb034740800000000000000
+      internalID: 5134961155304923425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 317
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d0025c6d2ccb2a0800000000000000
+      internalID: -6720282316257620602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 322
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee020856da684fc90800000000000000
+      internalID: -7136931430185033490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 325
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3785f1201af4226e0800000000000000
+      internalID: -1863839742834026381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 306
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c819a592f03c5470800000000000000
+      internalID: 8384630424708126918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 311
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7508ab5e3270c9080800000000000000
+      internalID: -9179454089728458665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 313
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2267b63551a8d30d0800000000000000
+      internalID: -3441442716042693086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 315
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddb3e3103324a180800000000000000
+      internalID: -9105113857237205540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 309
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1586ff89b48921e50800000000000000
+      internalID: 6778647839602862161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 306
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732752887f8af2130800000000000000
+      internalID: 3544237212858413623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 283
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269395854da132ce0800000000000000
+      internalID: -1431270757256054430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 3245
+        y: 286
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd29ed94091f37a10800000000000000
+      internalID: 1906132669324759773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 3363
+        y: 286
+        width: 55
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb917c0b8dcf50840800000000000000
+      internalID: 5189832153223338427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 286
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9393a6aa82041f30800000000000000
+      internalID: 4545260718448153502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 286
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347a141402b99aa40800000000000000
+      internalID: 5380001792706848579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 286
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f74d7ca44afa3120800000000000000
+      internalID: 2394501324759451638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 286
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e91d6d6fd3fd5a0800000000000000
+      internalID: -6494404007269655023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 286
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858419695fb5a0710800000000000000
+      internalID: 1660240522990667864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 286
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f0a8a5a8b6469c0800000000000000
+      internalID: -3934901932446314622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 286
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d32084ac21e69710800000000000000
+      internalID: 1699793491233612755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 285
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b384ab91094b570800000000000000
+      internalID: 8481562438419364728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 298
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324e088d1a78bf2a0800000000000000
+      internalID: -6702614491219041245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 300
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff32c09df03f3380800000000000000
+      internalID: -8989412465594712069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 306
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c771d32ab6a543a0800000000000000
+      internalID: -6681751153739204672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 305
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f067fc1c7b4e94c0800000000000000
+      internalID: -4278899599521390350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 299
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8de38dbea8102d0800000000000000
+      internalID: -3314215105218029368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 286
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee46637327c1a8b50800000000000000
+      internalID: 6596115881115673838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 286
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ff275dce6072f60800000000000000
+      internalID: 8009378076564848413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 286
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02eeae322accfb970800000000000000
+      internalID: 8772955595900382752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 286
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c61a31969e98a130800000000000000
+      internalID: 3578284273464645315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 286
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23535c75508e5d770800000000000000
+      internalID: 8635062970197816626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 286
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c934460c23be0ca10800000000000000
+      internalID: 1927799243723260828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 286
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56c220123e901b60800000000000000
+      internalID: 7714840099541927519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 2885
+        y: 286
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e57c5d608167f790800000000000000
+      internalID: -7496415850516417052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 286
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952593a67d5ad35f0800000000000000
+      internalID: -775281216219164071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 286
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c70b19da7bfd5e30800000000000000
+      internalID: 4494024508232632258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 296
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45ad665f660ac320800000000000000
+      internalID: 2578880811884193102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 285
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbe917fde2154040800000000000000
+      internalID: 4631128605082643403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 279
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38067fabc82634ef0800000000000000
+      internalID: -125148008064524157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 278
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0215232e69f544420800000000000000
+      internalID: 2613318785426411808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 274
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f9a8dacf651e680800000000000000
+      internalID: -8727598959624020195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 275
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edae78cd36d8d8fc0800000000000000
+      internalID: -3490978676101092642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 272
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1119df0a25d182f50800000000000000
+      internalID: 6856762673397076241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 276
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a15e02833880680800000000000000
+      internalID: -8788630395720230290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 279
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d62541cd20328d0800000000000000
+      internalID: -2872448993075237556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 277
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c078a075d1d62530800000000000000
+      internalID: 3829979247773511878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 269
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7b3018a8b579370800000000000000
+      internalID: 8329226686273140648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 270
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23db488e3f98a1340800000000000000
+      internalID: 4835328830606720306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 269
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2f5f4921d328e20800000000000000
+      internalID: 3351308222734922428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 266
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a97dd33d28c9ec00800000000000000
+      internalID: 930494894497954215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 158
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ce2da6fc4948300800000000000000
+      internalID: 253491097610939494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 158
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f20c6417e680b730800000000000000
+      internalID: 4012855595025302264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 158
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06381798c58ff14c0800000000000000
+      internalID: -4314456841671048352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 158
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e8fba01d36d03a0800000000000000
+      internalID: -6697587321350418923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 158
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee15932dc7931c350800000000000000
+      internalID: 6035168183918875118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 158
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111cfe76d44631e50800000000000000
+      internalID: 6778872147741753617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 158
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2977642f24e93c5e0800000000000000
+      internalID: -1890493408195741806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 158
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a05ad923ce86610800000000000000
+      internalID: 1614800168549681718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 158
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bcd9eec04e7a500800000000000000
+      internalID: 407545035494378279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 158
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdb33846364ded40800000000000000
+      internalID: 5615221509354405373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 158
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8a5932cf3c41d50800000000000000
+      internalID: 6707201232757696747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 158
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af24efff0097a5e0800000000000000
+      internalID: -1898390319521321056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 158
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96030857179eaa470800000000000000
+      internalID: 8406788327952363625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 158
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6adc8dafe80f830800000000000000
+      internalID: 4102936468564846276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 158
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3a324d1c87daa30800000000000000
+      internalID: 4228168399053890491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 158
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2068917dc42bb9c90800000000000000
+      internalID: -7161934739306609150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 158
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f92eb408364bee50800000000000000
+      internalID: 6839637665503914481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 155
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae141b9f450efdb0800000000000000
+      internalID: -4756358316994322784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 154
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a036e55f35c91f30800000000000000
+      internalID: 4546882174621986978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 154
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008c0ef255c0b9920800000000000000
+      internalID: 2998003536960210944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 154
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20138c6b3dd341d00800000000000000
+      internalID: 942446201541243138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 154
+        width: 72
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10acf5cc45286e80800000000000000
+      internalID: -8185251311076466662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 154
+        width: 71
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618673e4ef0b1be80800000000000000
+      internalID: -8164550043165562858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 2994
+        y: 154
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8de121081f72220800000000000000
+      internalID: 2461201253743384793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 154
+        width: 69
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6c867cb7d916580800000000000000
+      internalID: -8835607838972131633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 154
+        width: 69
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912ee9f483391a2e0800000000000000
+      internalID: -2116248479824158183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 154
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f8f0b899d509390800000000000000
+      internalID: -7813642439443378277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 157
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31365875af453cf30800000000000000
+      internalID: 4594609479034954515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 3615
+        y: 164
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f72ee692c4bec00800000000000000
+      internalID: 930921488819847064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 152
+        width: 86
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa21137946cb32860800000000000000
+      internalID: 7504048544348705450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 3744
+        y: 152
+        width: 86
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22741b1f20cc2f450800000000000000
+      internalID: 6121179156566853410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 156
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60046d1215b661160800000000000000
+      internalID: 6995897067370856454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 4037
+        y: 158
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fc6a193f7515340800000000000000
+      internalID: 4850754977287032731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 158
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4730321ffbbeab6a0800000000000000
+      internalID: -6432569908128447628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 4293
+        y: 158
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3522590b2d9e63b60800000000000000
+      internalID: 7725619301915632211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 4421
+        y: 158
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63475d7994d654990800000000000000
+      internalID: -7402390249666153418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 4549
+        y: 158
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00c3ac9cac085d30800000000000000
+      internalID: 4420296969766027279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 4677
+        y: 158
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f362606d70ddcadb0800000000000000
+      internalID: -4779202078821702081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 30
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0295c888191d2ffd0800000000000000
+      internalID: -2309553235896280800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 30
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415793f8b475df3d0800000000000000
+      internalID: -3171282580561890028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 28
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca13e3f252a9b220800000000000000
+      internalID: 2502209545143786178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 38
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112d706a619e158b0800000000000000
+      internalID: -5165091014133165551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 32
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b60a8c43c3f8a370800000000000000
+      internalID: 8334179130577389232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 21
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d68f24f0e40c7330800000000000000
+      internalID: 3709845557262386897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 38
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86163ebbe19f22ba0800000000000000
+      internalID: -6115051433619136152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 19
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f975b3338f2b1c0800000000000000
+      internalID: -4489252979612344431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 16
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ba8b23b8a277b20800000000000000
+      internalID: 3132018843199253323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 7
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edde44064224eaf10800000000000000
+      internalID: 2282834785124806110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 16
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff90fa3170ac3c140800000000000000
+      internalID: 4738853364667714047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 40
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fc893f72284e4b0800000000000000
+      internalID: -5412057744090280191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 25
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78da45e42d4f5ac30800000000000000
+      internalID: 4370168197527416199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad61666738c5c150800000000000000
+      internalID: 5892335827750579619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 58
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0362946d777b56360800000000000000
+      internalID: 7162332507726751280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 34
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a3db9c9bb68b8e0800000000000000
+      internalID: -1677472415497766242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 19
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392665dcd48894c50800000000000000
+      internalID: 6649996192528097939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 30
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d16b4c46bee8760800000000000000
+      internalID: 7462160450629016840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 27
+        width: 22
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d4ee041c5afa560800000000000000
+      internalID: 7327257368191716695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 8
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e33bd44a7592e90800000000000000
+      internalID: -7050007378481955222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 7
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82c728acee416a60800000000000000
+      internalID: 7665494819101721226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 30
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176087617a10d7510800000000000000
+      internalID: 1548395664033449585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr raven edit1-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 6
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb83bc88bb2965d0800000000000000
+      internalID: -3068873599441728532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mr raven edit1-Sheet_0: 7363385527642985719
+      mr raven edit1-Sheet_1: -5743240245107778744
+      mr raven edit1-Sheet_10: 5134961155304923425
+      mr raven edit1-Sheet_100: 2502209545143786178
+      mr raven edit1-Sheet_101: -5165091014133165551
+      mr raven edit1-Sheet_102: 8334179130577389232
+      mr raven edit1-Sheet_103: 3709845557262386897
+      mr raven edit1-Sheet_104: -6115051433619136152
+      mr raven edit1-Sheet_105: -4489252979612344431
+      mr raven edit1-Sheet_106: 3132018843199253323
+      mr raven edit1-Sheet_107: 2282834785124806110
+      mr raven edit1-Sheet_108: 4738853364667714047
+      mr raven edit1-Sheet_109: -5412057744090280191
+      mr raven edit1-Sheet_11: -6720282316257620602
+      mr raven edit1-Sheet_110: 4370168197527416199
+      mr raven edit1-Sheet_111: 5892335827750579619
+      mr raven edit1-Sheet_112: 7162332507726751280
+      mr raven edit1-Sheet_113: -1677472415497766242
+      mr raven edit1-Sheet_114: 6649996192528097939
+      mr raven edit1-Sheet_115: 7462160450629016840
+      mr raven edit1-Sheet_116: 7327257368191716695
+      mr raven edit1-Sheet_117: -7050007378481955222
+      mr raven edit1-Sheet_118: 7665494819101721226
+      mr raven edit1-Sheet_119: 1548395664033449585
+      mr raven edit1-Sheet_12: -7136931430185033490
+      mr raven edit1-Sheet_120: -3068873599441728532
+      mr raven edit1-Sheet_13: -1863839742834026381
+      mr raven edit1-Sheet_14: 8384630424708126918
+      mr raven edit1-Sheet_15: -9179454089728458665
+      mr raven edit1-Sheet_16: -3441442716042693086
+      mr raven edit1-Sheet_17: -9105113857237205540
+      mr raven edit1-Sheet_18: 6778647839602862161
+      mr raven edit1-Sheet_19: 3544237212858413623
+      mr raven edit1-Sheet_2: 8278864329428109899
+      mr raven edit1-Sheet_20: -1431270757256054430
+      mr raven edit1-Sheet_21: 1906132669324759773
+      mr raven edit1-Sheet_22: 5189832153223338427
+      mr raven edit1-Sheet_23: 4545260718448153502
+      mr raven edit1-Sheet_24: 5380001792706848579
+      mr raven edit1-Sheet_25: 2394501324759451638
+      mr raven edit1-Sheet_26: -6494404007269655023
+      mr raven edit1-Sheet_27: 1660240522990667864
+      mr raven edit1-Sheet_28: -3934901932446314622
+      mr raven edit1-Sheet_29: 1699793491233612755
+      mr raven edit1-Sheet_3: 4504988016457734451
+      mr raven edit1-Sheet_30: 8481562438419364728
+      mr raven edit1-Sheet_31: -6702614491219041245
+      mr raven edit1-Sheet_32: -8989412465594712069
+      mr raven edit1-Sheet_33: -6681751153739204672
+      mr raven edit1-Sheet_34: -4278899599521390350
+      mr raven edit1-Sheet_35: -3314215105218029368
+      mr raven edit1-Sheet_36: 6596115881115673838
+      mr raven edit1-Sheet_37: 8009378076564848413
+      mr raven edit1-Sheet_38: 8772955595900382752
+      mr raven edit1-Sheet_39: 3578284273464645315
+      mr raven edit1-Sheet_4: -6033485388556452865
+      mr raven edit1-Sheet_40: 8635062970197816626
+      mr raven edit1-Sheet_41: 1927799243723260828
+      mr raven edit1-Sheet_42: 7714840099541927519
+      mr raven edit1-Sheet_43: -7496415850516417052
+      mr raven edit1-Sheet_44: -775281216219164071
+      mr raven edit1-Sheet_45: 4494024508232632258
+      mr raven edit1-Sheet_46: 2578880811884193102
+      mr raven edit1-Sheet_47: 4631128605082643403
+      mr raven edit1-Sheet_48: -125148008064524157
+      mr raven edit1-Sheet_49: 2613318785426411808
+      mr raven edit1-Sheet_5: -4288847819635071210
+      mr raven edit1-Sheet_50: -8727598959624020195
+      mr raven edit1-Sheet_51: -3490978676101092642
+      mr raven edit1-Sheet_52: 6856762673397076241
+      mr raven edit1-Sheet_53: -8788630395720230290
+      mr raven edit1-Sheet_54: -2872448993075237556
+      mr raven edit1-Sheet_55: 3829979247773511878
+      mr raven edit1-Sheet_56: 8329226686273140648
+      mr raven edit1-Sheet_57: 4835328830606720306
+      mr raven edit1-Sheet_58: 3351308222734922428
+      mr raven edit1-Sheet_59: 930494894497954215
+      mr raven edit1-Sheet_6: -7524392564019657042
+      mr raven edit1-Sheet_60: 253491097610939494
+      mr raven edit1-Sheet_61: 4012855595025302264
+      mr raven edit1-Sheet_62: -4314456841671048352
+      mr raven edit1-Sheet_63: -6697587321350418923
+      mr raven edit1-Sheet_64: 6035168183918875118
+      mr raven edit1-Sheet_65: 6778872147741753617
+      mr raven edit1-Sheet_66: -1890493408195741806
+      mr raven edit1-Sheet_67: 1614800168549681718
+      mr raven edit1-Sheet_68: 407545035494378279
+      mr raven edit1-Sheet_69: 5615221509354405373
+      mr raven edit1-Sheet_7: -5274795687342651513
+      mr raven edit1-Sheet_70: 6707201232757696747
+      mr raven edit1-Sheet_71: -1898390319521321056
+      mr raven edit1-Sheet_72: 8406788327952363625
+      mr raven edit1-Sheet_73: 4102936468564846276
+      mr raven edit1-Sheet_74: 4228168399053890491
+      mr raven edit1-Sheet_75: -7161934739306609150
+      mr raven edit1-Sheet_76: 6839637665503914481
+      mr raven edit1-Sheet_77: -4756358316994322784
+      mr raven edit1-Sheet_78: 4546882174621986978
+      mr raven edit1-Sheet_79: 2998003536960210944
+      mr raven edit1-Sheet_8: 231806761305985822
+      mr raven edit1-Sheet_80: 942446201541243138
+      mr raven edit1-Sheet_81: -8185251311076466662
+      mr raven edit1-Sheet_82: -8164550043165562858
+      mr raven edit1-Sheet_83: 2461201253743384793
+      mr raven edit1-Sheet_84: -8835607838972131633
+      mr raven edit1-Sheet_85: -2116248479824158183
+      mr raven edit1-Sheet_86: -7813642439443378277
+      mr raven edit1-Sheet_87: 4594609479034954515
+      mr raven edit1-Sheet_88: 930921488819847064
+      mr raven edit1-Sheet_89: 7504048544348705450
+      mr raven edit1-Sheet_9: -5038887061204801825
+      mr raven edit1-Sheet_90: 6121179156566853410
+      mr raven edit1-Sheet_91: 6995897067370856454
+      mr raven edit1-Sheet_92: 4850754977287032731
+      mr raven edit1-Sheet_93: -6432569908128447628
+      mr raven edit1-Sheet_94: 7725619301915632211
+      mr raven edit1-Sheet_95: -7402390249666153418
+      mr raven edit1-Sheet_96: 4420296969766027279
+      mr raven edit1-Sheet_97: -4779202078821702081
+      mr raven edit1-Sheet_98: -2309553235896280800
+      mr raven edit1-Sheet_99: -3171282580561890028
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
