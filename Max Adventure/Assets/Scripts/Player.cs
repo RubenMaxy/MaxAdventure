@@ -28,7 +28,7 @@ public class Player : MonoBehaviour
     bool estaEnSuelo()
     {
         //Esto emite una caja para comprobar si está colisionando o no. Se dice de donde sale la caja, la dimension, el ángulo, la dirección, la distancia que debe recorrer la caja y la mascara de la capa
-        RaycastHit2D raycastHit2D= Physics2D.BoxCast(bc.bounds.center, new Vector2(bc.size.x, bc.size.y), 0f, Vector2.down, 0.2f, suelo);
+        RaycastHit2D raycastHit2D= Physics2D.BoxCast(bc.bounds.center, new Vector2(bc.size.x, bc.size.y), 0f, Vector2.down, 0.59f, suelo);
         return raycastHit2D.collider != null;
     }
     //Método que hace saltar al personaje. Comprueba si se pulsa una tecla y aplica una fuerza de salto.

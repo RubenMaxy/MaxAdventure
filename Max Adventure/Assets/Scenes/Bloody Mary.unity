@@ -1223,6 +1223,10 @@ PrefabInstance:
       value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 7124120644105625461, guid: 4b1a85233c68afa43942f324d771c6ca, type: 3}
+      propertyPath: m_Mass
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7124120644105625461, guid: 4b1a85233c68afa43942f324d771c6ca, type: 3}
       propertyPath: m_Material
       value: 
       objectReference: {fileID: 6200000, guid: 1a747ad661286454dafbb8aa6fa48968, type: 2}
@@ -1234,6 +1238,10 @@ PrefabInstance:
       propertyPath: bc
       value: 
       objectReference: {fileID: 2141211015}
+    - target: {fileID: 7831038277339118087, guid: 4b1a85233c68afa43942f324d771c6ca, type: 3}
+      propertyPath: speed
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 7831038277339118087, guid: 4b1a85233c68afa43942f324d771c6ca, type: 3}
       propertyPath: fuerzaSalto
       value: 5
