@@ -129,6 +129,7 @@ GameObject:
   m_Component:
   - component: {fileID: 250630558}
   - component: {fileID: 250630557}
+  - component: {fileID: 250630559}
   m_Layer: 0
   m_Name: Layer_0010_1_0
   m_TagString: Untagged
@@ -159,7 +160,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: babde59587e22004d8b08ac618209ccd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -206,6 +207,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 881029420}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &250630559
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 250630556}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a02a1db5cd8c4fa4c98df84730dbacc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidadFondo: {x: 0.07, y: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -353,6 +367,7 @@ GameObject:
   m_Component:
   - component: {fileID: 532816180}
   - component: {fileID: 532816179}
+  - component: {fileID: 532816181}
   m_Layer: 0
   m_Name: Layer_0009_2_0
   m_TagString: Untagged
@@ -383,7 +398,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: babde59587e22004d8b08ac618209ccd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -430,6 +445,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 881029420}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &532816181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 532816178}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a02a1db5cd8c4fa4c98df84730dbacc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidadFondo: {x: 0.09, y: 0}
 --- !u!1 &559973579
 GameObject:
   m_ObjectHideFlags: 0
@@ -440,6 +468,7 @@ GameObject:
   m_Component:
   - component: {fileID: 559973581}
   - component: {fileID: 559973580}
+  - component: {fileID: 559973582}
   m_Layer: 0
   m_Name: Layer_0008_3_0
   m_TagString: Untagged
@@ -470,7 +499,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: babde59587e22004d8b08ac618209ccd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -517,6 +546,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 881029420}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &559973582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 559973579}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a02a1db5cd8c4fa4c98df84730dbacc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidadFondo: {x: 0.1, y: 0}
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
@@ -653,6 +695,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1089410754}
   - component: {fileID: 1089410753}
+  - component: {fileID: 1089410755}
   m_Layer: 0
   m_Name: Layer_0005_5_0
   m_TagString: Untagged
@@ -683,7 +726,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: babde59587e22004d8b08ac618209ccd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -730,6 +773,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 881029420}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1089410755
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1089410752}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a02a1db5cd8c4fa4c98df84730dbacc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidadFondo: {x: 0.18, y: 0}
 --- !u!1 &1113235680
 GameObject:
   m_ObjectHideFlags: 0
@@ -740,6 +796,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1113235682}
   - component: {fileID: 1113235681}
+  - component: {fileID: 1113235683}
   m_Layer: 0
   m_Name: Layer_0007_Lights_0
   m_TagString: Untagged
@@ -770,7 +827,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -790,7 +847,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -4
+  m_SortingOrder: -5
   m_Sprite: {fileID: -8197154666396543484, guid: a0464df2cd3cfe54f8b60659741fd5b0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -817,6 +874,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 881029420}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1113235683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1113235680}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a02a1db5cd8c4fa4c98df84730dbacc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidadFondo: {x: 0, y: 0}
 --- !u!1 &1311401350
 GameObject:
   m_ObjectHideFlags: 0
@@ -827,6 +897,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1311401352}
   - component: {fileID: 1311401351}
+  - component: {fileID: 1311401353}
   m_Layer: 0
   m_Name: Layer_0006_4_0
   m_TagString: Untagged
@@ -857,7 +928,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: babde59587e22004d8b08ac618209ccd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -877,7 +948,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -5
+  m_SortingOrder: -4
   m_Sprite: {fileID: -4913721107209408423, guid: 86ebbdf5d3bc52f4b8c98cb5f7fb98f1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -904,6 +975,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 881029420}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1311401353
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1311401350}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a02a1db5cd8c4fa4c98df84730dbacc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidadFondo: {x: 0.16, y: 0}
 --- !u!1 &1452740196
 GameObject:
   m_ObjectHideFlags: 0
@@ -914,6 +998,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1452740198}
   - component: {fileID: 1452740197}
+  - component: {fileID: 1452740199}
   m_Layer: 0
   m_Name: Layer_0000_9_0
   m_TagString: Untagged
@@ -944,7 +1029,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: babde59587e22004d8b08ac618209ccd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -991,6 +1076,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 881029420}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1452740199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1452740196}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a02a1db5cd8c4fa4c98df84730dbacc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidadFondo: {x: 0.25, y: 0}
 --- !u!1 &1463577245
 GameObject:
   m_ObjectHideFlags: 0
@@ -1002,6 +1100,7 @@ GameObject:
   - component: {fileID: 1463577247}
   - component: {fileID: 1463577246}
   - component: {fileID: 1463577248}
+  - component: {fileID: 1463577249}
   m_Layer: 3
   m_Name: Layer_0001_8_0
   m_TagString: Untagged
@@ -1032,7 +1131,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: babde59587e22004d8b08ac618209ccd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1125,6 +1224,19 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 9.28, y: 0.6}
   m_EdgeRadius: 0
+--- !u!114 &1463577249
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1463577245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a02a1db5cd8c4fa4c98df84730dbacc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidadFondo: {x: 0.25, y: 0}
 --- !u!1 &1703707850
 GameObject:
   m_ObjectHideFlags: 0
@@ -1135,6 +1247,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1703707852}
   - component: {fileID: 1703707851}
+  - component: {fileID: 1703707853}
   m_Layer: 0
   m_Name: Layer_0004_Lights_0
   m_TagString: Untagged
@@ -1165,7 +1278,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1212,6 +1325,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 881029420}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1703707853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1703707850}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a02a1db5cd8c4fa4c98df84730dbacc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidadFondo: {x: 0, y: 0}
 --- !u!1 &1868380320
 GameObject:
   m_ObjectHideFlags: 0
@@ -1222,6 +1348,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1868380322}
   - component: {fileID: 1868380321}
+  - component: {fileID: 1868380323}
   m_Layer: 0
   m_Name: Layer_0002_7_0
   m_TagString: Untagged
@@ -1252,7 +1379,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: babde59587e22004d8b08ac618209ccd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1299,6 +1426,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 881029420}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1868380323
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1868380320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a02a1db5cd8c4fa4c98df84730dbacc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidadFondo: {x: 0.2, y: 0}
 --- !u!1 &1997703550
 GameObject:
   m_ObjectHideFlags: 0
@@ -1309,6 +1449,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1997703552}
   - component: {fileID: 1997703551}
+  - component: {fileID: 1997703553}
   m_Layer: 0
   m_Name: Layer_0011_0_0
   m_TagString: Untagged
@@ -1339,7 +1480,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: babde59587e22004d8b08ac618209ccd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1386,6 +1527,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 881029420}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1997703553
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1997703550}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a02a1db5cd8c4fa4c98df84730dbacc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidadFondo: {x: 0.05, y: 0}
 --- !u!1001 &4651602776305681293
 PrefabInstance:
   m_ObjectHideFlags: 0
