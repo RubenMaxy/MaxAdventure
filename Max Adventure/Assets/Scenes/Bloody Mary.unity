@@ -129,6 +129,7 @@ GameObject:
   m_Component:
   - component: {fileID: 94607721}
   - component: {fileID: 94607722}
+  - component: {fileID: 94607723}
   m_Layer: 0
   m_Name: parallax-demon-woods-bg_0
   m_TagString: Untagged
@@ -174,7 +175,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: babde59587e22004d8b08ac618209ccd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -206,6 +207,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &94607723
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 94607720}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a02a1db5cd8c4fa4c98df84730dbacc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidadFondo: {x: 0.04, y: 0}
 --- !u!1 &96761500
 GameObject:
   m_ObjectHideFlags: 0
@@ -216,6 +230,7 @@ GameObject:
   m_Component:
   - component: {fileID: 96761502}
   - component: {fileID: 96761501}
+  - component: {fileID: 96761503}
   m_Layer: 0
   m_Name: Layer_0003_6_0
   m_TagString: Untagged
@@ -246,7 +261,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: babde59587e22004d8b08ac618209ccd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -293,6 +308,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 881029420}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &96761503
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 96761500}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a02a1db5cd8c4fa4c98df84730dbacc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidadFondo: {x: 0.17, y: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -440,6 +468,7 @@ GameObject:
   m_Component:
   - component: {fileID: 559973581}
   - component: {fileID: 559973580}
+  - component: {fileID: 559973582}
   m_Layer: 0
   m_Name: Layer_0008_3_0
   m_TagString: Untagged
@@ -470,7 +499,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: babde59587e22004d8b08ac618209ccd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -517,6 +546,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 881029420}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &559973582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 559973579}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a02a1db5cd8c4fa4c98df84730dbacc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidadFondo: {x: 0.07, y: 0}
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
@@ -611,6 +653,7 @@ GameObject:
   m_Component:
   - component: {fileID: 664700712}
   - component: {fileID: 664700711}
+  - component: {fileID: 664700713}
   m_Layer: 0
   m_Name: parallax-demon-woods-mid-trees_0
   m_TagString: Untagged
@@ -641,7 +684,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: babde59587e22004d8b08ac618209ccd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -688,6 +731,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 881029420}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &664700713
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 664700710}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a02a1db5cd8c4fa4c98df84730dbacc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidadFondo: {x: 0.04, y: 0}
 --- !u!1 &881029419
 GameObject:
   m_ObjectHideFlags: 0
@@ -738,6 +794,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1113235682}
   - component: {fileID: 1113235681}
+  - component: {fileID: 1113235683}
   m_Layer: 0
   m_Name: Layer_0007_Lights_0
   m_TagString: Untagged
@@ -768,7 +825,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: babde59587e22004d8b08ac618209ccd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -815,6 +872,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 881029420}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1113235683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1113235680}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a02a1db5cd8c4fa4c98df84730dbacc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidadFondo: {x: 0.15, y: 0}
 --- !u!1 &1452740196
 GameObject:
   m_ObjectHideFlags: 0
@@ -825,6 +895,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1452740198}
   - component: {fileID: 1452740197}
+  - component: {fileID: 1452740199}
   m_Layer: 0
   m_Name: Layer_0000_9_0
   m_TagString: Untagged
@@ -855,7 +926,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: babde59587e22004d8b08ac618209ccd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -902,6 +973,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 881029420}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1452740199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1452740196}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a02a1db5cd8c4fa4c98df84730dbacc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidadFondo: {x: 0.18, y: 0}
 --- !u!1 &1463577245
 GameObject:
   m_ObjectHideFlags: 0
@@ -913,6 +997,7 @@ GameObject:
   - component: {fileID: 1463577247}
   - component: {fileID: 1463577246}
   - component: {fileID: 1463577248}
+  - component: {fileID: 1463577249}
   m_Layer: 3
   m_Name: Layer_0001_8_0
   m_TagString: Untagged
@@ -943,7 +1028,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: babde59587e22004d8b08ac618209ccd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1036,6 +1121,19 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 9.3, y: 0.6}
   m_EdgeRadius: 0
+--- !u!114 &1463577249
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1463577245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a02a1db5cd8c4fa4c98df84730dbacc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidadFondo: {x: 0.18, y: 0}
 --- !u!1 &1703707850
 GameObject:
   m_ObjectHideFlags: 0
@@ -1046,6 +1144,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1703707852}
   - component: {fileID: 1703707851}
+  - component: {fileID: 1703707853}
   m_Layer: 0
   m_Name: Layer_0004_Lights_0
   m_TagString: Untagged
@@ -1076,7 +1175,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: babde59587e22004d8b08ac618209ccd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1123,6 +1222,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 881029420}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1703707853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1703707850}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a02a1db5cd8c4fa4c98df84730dbacc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidadFondo: {x: 0.15, y: 0}
 --- !u!1 &1868380320
 GameObject:
   m_ObjectHideFlags: 0
@@ -1133,6 +1245,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1868380322}
   - component: {fileID: 1868380321}
+  - component: {fileID: 1868380323}
   m_Layer: 0
   m_Name: Layer_0002_7_0
   m_TagString: Untagged
@@ -1163,7 +1276,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: babde59587e22004d8b08ac618209ccd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1210,6 +1323,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 881029420}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1868380323
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1868380320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a02a1db5cd8c4fa4c98df84730dbacc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidadFondo: {x: 0.18, y: 0}
 --- !u!1001 &2141211014
 PrefabInstance:
   m_ObjectHideFlags: 0
