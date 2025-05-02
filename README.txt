@@ -1,12 +1,9 @@
 Este documento incluye referencias a todos los assets usados en este proyecto. Sean creación propia o no, dando el crédito a quien corresponda.
 
 Escemarios:
-	Green Faery 
-		Creado por Eder Muniz  
-			https://edermunizz.itch.io/free-pixel-art-forest 
-	Bloody Mary:
-		Creado por Aethrall (se usan tambien capas del anterior)
-			https://aethrall.itch.io/demon-woods-parallax-background 
+	Green Faery y Bloody Mary:
+		BackGround creado con assets de Szadi art
+			https://szadiart.itch.io/pixel-platformer-world
 
 Personajes:
 	Protagonista:
