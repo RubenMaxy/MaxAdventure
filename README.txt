@@ -2,7 +2,10 @@ Este documento incluye referencias a todos los assets usados en este proyecto. S
 
 Escemarios:
 	Green Faery y Bloody Mary:
-		BackGround creado con assets de Szadi art
+		BackGround creado con assets de Eder Muniz y Aethrall
+			https://edermunizz.itch.io/free-pixel-art-forest
+			https://aethrall.itch.io/demon-woods-parallax-background
+		Suelo y plataformas creados con assets de Szadi Art.
 			https://szadiart.itch.io/pixel-platformer-world
 
 Personajes:
@@ -16,5 +19,14 @@ Personajes:
 Efectos:
 	Efecto Parallax:
 		Creado siguiendo la guia de, BravePixelG. Aun que no se usa casi nada, también me inspiré en el Parallax de Dani
+		El material que le aplica al fondo (las diferentes capas) es para poder usar el Offset del material, el por defecto bloquea esta propiedad.
+		Como los Sprites pueden tener particulas o efectos (se pueden ver partes que se cortan), se activa la propiedad sliced en el sprite renderer para eliminar cualquier efecto que le pueda afectar.
 			https://www.youtube.com/watch?v=7bJT6rf-Jvk   (BravePixelG)
 			https://www.youtube.com/watch?v=zit45k6CUMk   (Dani, está en ingles)
+
+Mecánicas:
+	Salto:
+		Salto creado siguiendo la guia de Rocket Jam.
+			https://www.youtube.com/watch?v=2wbrHTfgvbs
+	Movimiento del personaje y enemigos:
+		Creación propia a partir de lo aprendido en clase
