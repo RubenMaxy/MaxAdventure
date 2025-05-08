@@ -333,6 +333,7 @@ GameObject:
   - component: {fileID: 519420031}
   - component: {fileID: 519420029}
   - component: {fileID: 519420030}
+  - component: {fileID: 519420033}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -452,13 +453,27 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.6, y: 0.465, z: 0}
-  m_LocalScale: {x: 0.13173495, y: 0.14285713, z: 0}
+  m_LocalPosition: {x: -3.257553, y: 0.0621171, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 881029420}
-  m_Father: {fileID: 2141211019}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &519420033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 519420028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 031d4ac2e3ac0a44b8f3709baadb73f5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 2141211019}
+  offset: 5
 --- !u!1 &533570132
 GameObject:
   m_ObjectHideFlags: 0
@@ -1220,7 +1235,7 @@ BoxCollider2D:
     drawMode: 1
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 9.3, y: 0.6}
+  m_Size: {x: 9.3, y: 0.58}
   m_EdgeRadius: 0
 --- !u!114 &1463577249
 MonoBehaviour:
@@ -1479,11 +1494,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8506263723244524334, guid: 4b1a85233c68afa43942f324d771c6ca, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -7.8121533
+      value: -8.354523
       objectReference: {fileID: 0}
     - target: {fileID: 8506263723244524334, guid: 4b1a85233c68afa43942f324d771c6ca, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.1928833
+      value: -3.1478364
       objectReference: {fileID: 0}
     - target: {fileID: 8506263723244524334, guid: 4b1a85233c68afa43942f324d771c6ca, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1519,10 +1534,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects:
-    - targetCorrespondingSourceObject: {fileID: 8506263723244524334, guid: 4b1a85233c68afa43942f324d771c6ca, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 519420032}
+    m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4b1a85233c68afa43942f324d771c6ca, type: 3}
 --- !u!70 &2141211015 stripped
@@ -1539,6 +1551,7 @@ Transform:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+  - {fileID: 519420032}
   - {fileID: 619394802}
   - {fileID: 2141211014}
   - {fileID: 1452740198}
