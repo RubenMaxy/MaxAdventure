@@ -2,19 +2,41 @@ using UnityEngine;
 
 public class Parallax : MonoBehaviour
 {
-    [SerializeField] private Vector2 velocidadFondo;
-    private Vector2 offset;
-    private Material material;
+    [SerializeField] private Transform target; // Referencia a la cámara
+    [SerializeField] private ParallaxLayer[] layers; // Capas del fondo
 
-    private void Awake()
+    [System.Serializable]
+    public class ParallaxLayer
     {
-        material = GetComponent<SpriteRenderer>().material;
+        public SpriteRenderer layerSprite;
+        public float parallaxFactor;
+    }
+
+    private Vector2 previousTargetPosition;
+
+    private void Start()
+    {
+        if (target != null)
+        {
+            previousTargetPosition = target.position;
+        }
     }
 
     private void Update()
     {
-        offset = velocidadFondo * Time.deltaTime;
-        material.mainTextureOffset += offset;
+        if (target != null)
+        {
+            Vector2 deltaMovement = (Vector2)target.position - previousTargetPosition;
+
+            foreach (var layer in layers)
+            {
+                Material material = layer.layerSprite.material;
+                Vector2 targetOffset = deltaMovement * layer.parallaxFactor;
+                material.mainTextureOffset += targetOffset * Time.deltaTime;
+            }
+
+            previousTargetPosition = target.position;
+        }
     }
 
 }

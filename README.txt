@@ -1,5 +1,12 @@
 Este documento incluye referencias a todos los assets usados en este proyecto. Sean creación propia o no, dando el crédito a quien corresponda.
 
+Fuente de las letras:
+	Creadas por Nimble Beasts
+		https://nimblebeastscollective.itch.io/nb-pixel-font-bundle
+
+Menú principal:
+	Imagen generada con IA.
+
 Escenarios:
 	Green Faery y Bloody Mary:
 		BackGround creado con assets de Eder Muniz y Aethrall
