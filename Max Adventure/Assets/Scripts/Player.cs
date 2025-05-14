@@ -2,15 +2,19 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    public float speed = 20f; //Velocidad de movimiento, se modificará en el inspector
-    public Rigidbody2D rb; //Se inicia en el inspector
-    public CapsuleCollider2D bc;
-    public LayerMask suelo;
-
-    public float fuerzaSalto; //Fuerza que se aplica al salto del personaje. Se modificará desde el inspector.
+    [SerializeField] private float speed = 20f; //Velocidad de movimiento, se modificarï¿½ en el inspector
+    [SerializeField] private Transform firePoint; //Punto de salida del proyectil
+    [SerializeField] private float projectileSpeed = 10f; //Velocidad del proyectil
+    [SerializeField] private LayerMask suelo;
+    [SerializeField] private GameObject projectilePrefab; //Referencia al prefab del proyectil
+    [SerializeField] private float fuerzaSalto = 10f; //Fuerza que se aplica al salto del personaje. Se modificarï¿½ desde el inspector.
+    
     private float movement = 0f; //Se inicia en el inspector
     private Vector2 startPos; //Posicion inicial
 
+    public Rigidbody2D rb; //Se inicia en el inspector
+    public CapsuleCollider2D bc;
+   
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -21,27 +25,43 @@ public class Player : MonoBehaviour
     void Update()
     {
         movimiento();
-        salto();
+        Salto();
+        Disparo();
     }
 
-
-    bool estaEnSuelo()
+    private void Disparo()
     {
-        //Esto emite una caja para comprobar si está colisionando o no. Se dice de donde sale la caja, la dimension, el ángulo, la dirección, la distancia que debe recorrer la caja y la mascara de la capa
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            Vector2 shootDirection = EstaEnSuelo() ? firePoint.right : Vector2.down;
+
+            GameObject projectile = Instantiate(projectilePrefab, firePoint.position, Quaternion.identity);
+            Rigidbody2D rbProjectile = projectile.GetComponent<Rigidbody2D>();
+
+            if (rbProjectile != null)
+            {
+                rbProjectile.linearVelocity = shootDirection * projectileSpeed;
+            }
+        }
+    }
+
+    bool EstaEnSuelo()
+    {
+        //Esto emite una caja para comprobar si estï¿½ colisionando o no. Se dice de donde sale la caja, la dimension, el ï¿½ngulo, la direcciï¿½n, la distancia que debe recorrer la caja y la mascara de la capa
         RaycastHit2D raycastHit2D= Physics2D.BoxCast(bc.bounds.center, new Vector2(bc.size.x, bc.size.y), 0f, Vector2.down, 0.8f, suelo);
         return raycastHit2D.collider != null;
     }
-    //Método que hace saltar al personaje. Comprueba si se pulsa una tecla y aplica una fuerza de salto.
-    void salto()
+    //Mï¿½todo que hace saltar al personaje. Comprueba si se pulsa una tecla y aplica una fuerza de salto.
+    void Salto()
     {
-        if (Input.GetKeyDown(KeyCode.Space) && estaEnSuelo()) 
+        if (Input.GetKeyDown(KeyCode.UpArrow) && EstaEnSuelo()) 
         {
             //Aplica la fuerza al salto, el segundo argumento indica que tipo de fuerza es, en este caso un impulso.
             rb.AddForce(Vector2.up * fuerzaSalto, ForceMode2D.Impulse);
         }
     }
 
-    //Método que gestiona el movimiento a derecha o izquierda del personaje.
+    //Mï¿½todo que gestiona el movimiento a derecha o izquierda del personaje.
     void movimiento()
     {
         movement = Input.GetAxisRaw("Horizontal");
@@ -51,7 +71,7 @@ public class Player : MonoBehaviour
 
 
     /*
-     //Método que gestiona resetear al personaje en caso de morir. Aun no usado.
+     //Mï¿½todo que gestiona resetear al personaje en caso de morir. Aun no usado.
     public void Reset()
     {
         rb.linearVelocity = Vector2.zero;
