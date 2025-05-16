@@ -22,7 +22,7 @@ public class Parallax : MonoBehaviour
         }
     }
 
-    private void Update()
+    private void FixedUpdate()
     {
         if (target != null)
         {
@@ -32,11 +32,10 @@ public class Parallax : MonoBehaviour
             {
                 Material material = layer.layerSprite.material;
                 Vector2 targetOffset = deltaMovement * layer.parallaxFactor;
-                material.mainTextureOffset += targetOffset * Time.deltaTime;
+                material.mainTextureOffset += targetOffset * Time.fixedDeltaTime;
             }
 
             previousTargetPosition = target.position;
         }
     }
-
 }
