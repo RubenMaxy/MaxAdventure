@@ -1,3 +1,5 @@
+kanariandev
+	https://www.youtube.com/watch?v=lu-w7A8weVI
 Este documento incluye referencias a todos los assets usados en este proyecto. Sean creación propia o no, dando el crédito a quien corresponda.
 
 Fuente de las letras:
