@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Suelo
   - PosiconPJ
+  - Proyectil
+  - Enemigo
   layers:
   - Default
   - TransparentFX
