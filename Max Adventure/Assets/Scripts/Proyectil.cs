@@ -4,7 +4,7 @@ public class Proyectil : MonoBehaviour
 {
     [SerializeField] private float speed = 7f;
     [SerializeField] private float lifeTime = 3f;
-
+    private Vector2 shootDirection;
     private void Start()
     {
         Destroy(gameObject, lifeTime); // Autodestruir después de un tiempo
@@ -12,7 +12,7 @@ public class Proyectil : MonoBehaviour
 
     private void Update()
     {
-        transform.position += transform.right * speed * Time.deltaTime; // Mover hacia adelante
+        transform.position += (Vector3)shootDirection* speed * Time.deltaTime; // Mover
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -21,5 +21,10 @@ public class Proyectil : MonoBehaviour
         {
             Destroy(gameObject); // Destruir al impactar un enemigo
         }
+    }
+
+    public void SetDirection(Vector2 shootDirection)
+    {
+        this.shootDirection = shootDirection;
     }
 }

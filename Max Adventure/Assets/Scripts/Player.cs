@@ -8,10 +8,12 @@ public class Player : MonoBehaviour
     [SerializeField] private LayerMask ground;
     [SerializeField] private GameObject projectilePrefab; //Referencia al prefab del proyectil
     [SerializeField] private float jumpForce = 10f; //Fuerza que se aplica al salto del personaje. Se modificar� desde el inspector.
-    
+
     private float movement = 0f; //Se inicia en el inspector
     private Vector2 startPos; //Posicion inicial
 
+    private float orientation;
+    public Animator animator;
     public Rigidbody2D rb; //Se inicia en el inspector
     public BoxCollider2D bc;
    
@@ -25,22 +27,43 @@ public class Player : MonoBehaviour
     void Update()
     {
         Movement();
-        Jump();
+        animator.SetFloat("movement", movement* speed);
+        if (movement < 0)
+        {
+            transform.localScale= new Vector3(-7.591f,7,1);
+            orientation = -7.591f;
+        } else
+        {
+            transform.localScale = new Vector3(7.591f, 7, 1);
+            orientation = 7.591f;
+        }
+            Jump();
         Shot();
+
     }
 
     private void Shot()
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
+            // Determina dirección inicial
             Vector2 shootDirection = EstaEnSuelo() ? firePoint.right : Vector2.down;
 
+            // Si orientation es menor a 0, invertir la dirección
+            if (orientation < 0)
+            {
+                shootDirection = EstaEnSuelo() ? -firePoint.right : Vector2.down;
+            }
+
+            // Crea el proyectil y le asigna la dirección correcta en la que debe moverse
             GameObject projectile = Instantiate(projectilePrefab, firePoint.position, Quaternion.identity);
             Rigidbody2D rbProjectile = projectile.GetComponent<Rigidbody2D>();
+            Proyectil proyectilScript = projectile.GetComponent<Proyectil>();
 
+            // Aplica velocidad basada en la dirección del PJ
             if (rbProjectile != null)
             {
-                rbProjectile.linearVelocity = shootDirection * projectileSpeed;
+                proyectilScript.SetDirection(shootDirection);
             }
         }
     }
@@ -64,9 +87,9 @@ public class Player : MonoBehaviour
     //M�todo que gestiona el movimiento a derecha o izquierda del personaje.
     void Movement()
     {
-        movement = Input.GetAxisRaw("Horizontal");
+        movement = Input.GetAxisRaw("Horizontal") * speed;
 
-        rb.linearVelocityX = movement * speed;
+        rb.linearVelocityX = movement * Time.deltaTime;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

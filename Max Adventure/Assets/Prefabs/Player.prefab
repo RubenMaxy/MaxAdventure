@@ -44,6 +44,7 @@ GameObject:
   - component: {fileID: 7045471670173659607}
   - component: {fileID: 1624270132319806902}
   - component: {fileID: -3114848147095221109}
+  - component: {fileID: 7147793908641794050}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -111,7 +112,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -8216376316736139095, guid: b63b6332b3f2eb3468de60cc8a9b3ce2, type: 3}
+  m_Sprite: {fileID: -6489429569532182780, guid: 76aa0696c53133947a4d0fde917ad7c8, type: 3}
   m_Color: {r: 1, g: 0.9575472, b: 0.9575472, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -134,14 +135,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a69ce252910d0924b978bd63e5c46e91, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
+  speed: 800
   firePoint: {fileID: 217695092283879947}
   projectileSpeed: 10
   ground:
     serializedVersion: 2
     m_Bits: 8
   projectilePrefab: {fileID: 3171297999571978477, guid: 50475746c8a6112468b2a3d923aa4be0, type: 3}
-  jumpForce: 10
+  jumpForce: 8
+  animator: {fileID: 7147793908641794050}
   rb: {fileID: 1624270132319806902}
   bc: {fileID: -3114848147095221109}
 --- !u!50 &1624270132319806902
@@ -217,3 +219,25 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.056, y: 0.25}
   m_EdgeRadius: 0
+--- !u!95 &7147793908641794050
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6524602099627668268}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d7250429d0777b34aa0969f96f561725, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
