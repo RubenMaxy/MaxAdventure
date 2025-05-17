@@ -13,7 +13,7 @@ public class Player : MonoBehaviour
     private Vector2 startPos; //Posicion inicial
 
     public Rigidbody2D rb; //Se inicia en el inspector
-    public CapsuleCollider2D bc;
+    public BoxCollider2D bc;
    
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
