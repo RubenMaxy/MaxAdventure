@@ -1,0 +1,6071 @@
+fileFormatVersion: 2
+guid: e64ee05a0aad8db44a2eb2e04d165f63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6489429569532182780
+    second: bowmanred - sheet_0
+  - first:
+      213: -6622707055504433396
+    second: bowmanred - sheet_1
+  - first:
+      213: 8794500655834630108
+    second: bowmanred - sheet_2
+  - first:
+      213: -3633819369995154968
+    second: bowmanred - sheet_3
+  - first:
+      213: -5404488675093515592
+    second: bowmanred - sheet_4
+  - first:
+      213: -5828145646452715115
+    second: bowmanred - sheet_5
+  - first:
+      213: -145642030619273135
+    second: bowmanred - sheet_6
+  - first:
+      213: -1122478774920850116
+    second: bowmanred - sheet_7
+  - first:
+      213: 2665845321928249385
+    second: bowmanred - sheet_8
+  - first:
+      213: -3524659946271066917
+    second: bowmanred - sheet_9
+  - first:
+      213: -7603724706151576757
+    second: bowmanred - sheet_10
+  - first:
+      213: -9167432841792567019
+    second: bowmanred - sheet_11
+  - first:
+      213: 570722670655556709
+    second: bowmanred - sheet_12
+  - first:
+      213: 8360068328580968947
+    second: bowmanred - sheet_13
+  - first:
+      213: 3042367887263652607
+    second: bowmanred - sheet_14
+  - first:
+      213: 8823375175721856787
+    second: bowmanred - sheet_15
+  - first:
+      213: -4437022633279043127
+    second: bowmanred - sheet_16
+  - first:
+      213: -753632133016567624
+    second: bowmanred - sheet_17
+  - first:
+      213: -2750660263794178021
+    second: bowmanred - sheet_18
+  - first:
+      213: 1926473061705455961
+    second: bowmanred - sheet_19
+  - first:
+      213: -706058837586904921
+    second: bowmanred - sheet_20
+  - first:
+      213: -6824989246464807967
+    second: bowmanred - sheet_21
+  - first:
+      213: -5481989711062068086
+    second: bowmanred - sheet_22
+  - first:
+      213: 5605686618060830401
+    second: bowmanred - sheet_23
+  - first:
+      213: -1412668332375062392
+    second: bowmanred - sheet_24
+  - first:
+      213: -4218422553512376768
+    second: bowmanred - sheet_25
+  - first:
+      213: -5496078157468306913
+    second: bowmanred - sheet_26
+  - first:
+      213: -2797833409104519046
+    second: bowmanred - sheet_27
+  - first:
+      213: -8989429520607567856
+    second: bowmanred - sheet_28
+  - first:
+      213: -453643600988671903
+    second: bowmanred - sheet_29
+  - first:
+      213: 3744219406736372625
+    second: bowmanred - sheet_30
+  - first:
+      213: 3364085610757292328
+    second: bowmanred - sheet_31
+  - first:
+      213: -4870365610204758582
+    second: bowmanred - sheet_32
+  - first:
+      213: 6117555225045174685
+    second: bowmanred - sheet_33
+  - first:
+      213: -8086256351530483320
+    second: bowmanred - sheet_34
+  - first:
+      213: -6497975981570805484
+    second: bowmanred - sheet_35
+  - first:
+      213: -8293613568905850622
+    second: bowmanred - sheet_36
+  - first:
+      213: -2962617867239339173
+    second: bowmanred - sheet_37
+  - first:
+      213: 4436454877304014397
+    second: bowmanred - sheet_38
+  - first:
+      213: 8208853005028342179
+    second: bowmanred - sheet_39
+  - first:
+      213: 7323011349302369869
+    second: bowmanred - sheet_40
+  - first:
+      213: 549566011184045217
+    second: bowmanred - sheet_41
+  - first:
+      213: -5851824772887376750
+    second: bowmanred - sheet_42
+  - first:
+      213: 8824599400314424107
+    second: bowmanred - sheet_43
+  - first:
+      213: 8073571325079397098
+    second: bowmanred - sheet_44
+  - first:
+      213: -334259801668037848
+    second: bowmanred - sheet_45
+  - first:
+      213: -1045751262805551303
+    second: bowmanred - sheet_46
+  - first:
+      213: 2496863638180629366
+    second: bowmanred - sheet_47
+  - first:
+      213: 7364112162952509778
+    second: bowmanred - sheet_48
+  - first:
+      213: -1162241871881965649
+    second: bowmanred - sheet_49
+  - first:
+      213: -495081454608274913
+    second: bowmanred - sheet_50
+  - first:
+      213: -5515141930267668584
+    second: bowmanred - sheet_51
+  - first:
+      213: 1936474121714681009
+    second: bowmanred - sheet_52
+  - first:
+      213: -1535382472880461484
+    second: bowmanred - sheet_53
+  - first:
+      213: 2893818228736549327
+    second: bowmanred - sheet_54
+  - first:
+      213: -7539822170870239606
+    second: bowmanred - sheet_55
+  - first:
+      213: -1643098740710828672
+    second: bowmanred - sheet_56
+  - first:
+      213: 5078873924062882727
+    second: bowmanred - sheet_57
+  - first:
+      213: 2290187927226382050
+    second: bowmanred - sheet_58
+  - first:
+      213: -4545522758927387793
+    second: bowmanred - sheet_59
+  - first:
+      213: 2958028647742826103
+    second: bowmanred - sheet_60
+  - first:
+      213: 8329187434643859715
+    second: bowmanred - sheet_61
+  - first:
+      213: 18250616948619526
+    second: bowmanred - sheet_62
+  - first:
+      213: -2990507025678177644
+    second: bowmanred - sheet_63
+  - first:
+      213: 720490212809361599
+    second: bowmanred - sheet_64
+  - first:
+      213: -8420252615426676757
+    second: bowmanred - sheet_65
+  - first:
+      213: 5123921869597995018
+    second: bowmanred - sheet_66
+  - first:
+      213: 3882264472693072051
+    second: bowmanred - sheet_67
+  - first:
+      213: 3766174668105406323
+    second: bowmanred - sheet_68
+  - first:
+      213: -4329222131971431144
+    second: bowmanred - sheet_69
+  - first:
+      213: 8395221982793307340
+    second: bowmanred - sheet_70
+  - first:
+      213: -4747898430656107247
+    second: bowmanred - sheet_71
+  - first:
+      213: -5551376397217621719
+    second: bowmanred - sheet_72
+  - first:
+      213: -6347761292676165018
+    second: bowmanred - sheet_73
+  - first:
+      213: 5986024123753814294
+    second: bowmanred - sheet_74
+  - first:
+      213: -8335909052667349613
+    second: bowmanred - sheet_75
+  - first:
+      213: -3832140377184837759
+    second: bowmanred - sheet_76
+  - first:
+      213: 3398589343615874054
+    second: bowmanred - sheet_77
+  - first:
+      213: -1972708256084697743
+    second: bowmanred - sheet_78
+  - first:
+      213: 5924245578262142403
+    second: bowmanred - sheet_79
+  - first:
+      213: 1837995191546830624
+    second: bowmanred - sheet_80
+  - first:
+      213: 4826736210895253534
+    second: bowmanred - sheet_81
+  - first:
+      213: 784944422394641884
+    second: bowmanred - sheet_82
+  - first:
+      213: -8638070410851910050
+    second: bowmanred - sheet_83
+  - first:
+      213: 4921595183572318703
+    second: bowmanred - sheet_84
+  - first:
+      213: -1531852347309067557
+    second: bowmanred - sheet_85
+  - first:
+      213: 6305217403104575806
+    second: bowmanred - sheet_86
+  - first:
+      213: 5911844054818051126
+    second: bowmanred - sheet_87
+  - first:
+      213: -8722941421358365356
+    second: bowmanred - sheet_88
+  - first:
+      213: 8988784767588347583
+    second: bowmanred - sheet_89
+  - first:
+      213: -132679110036518343
+    second: bowmanred - sheet_90
+  - first:
+      213: 6703529288711265057
+    second: bowmanred - sheet_91
+  - first:
+      213: 8951182403325989580
+    second: bowmanred - sheet_92
+  - first:
+      213: 7285083819520018924
+    second: bowmanred - sheet_93
+  - first:
+      213: 5052830845002126550
+    second: bowmanred - sheet_94
+  - first:
+      213: -3029656375788492346
+    second: bowmanred - sheet_95
+  - first:
+      213: -8302053160078377649
+    second: bowmanred - sheet_96
+  - first:
+      213: 5206348009244139068
+    second: bowmanred - sheet_97
+  - first:
+      213: -2995304150095147117
+    second: bowmanred - sheet_98
+  - first:
+      213: -910290739128336985
+    second: bowmanred - sheet_99
+  - first:
+      213: 207820602404295751
+    second: bowmanred - sheet_100
+  - first:
+      213: -2513067534402286217
+    second: bowmanred - sheet_101
+  - first:
+      213: 2590208643368762254
+    second: bowmanred - sheet_102
+  - first:
+      213: 6416754934370244662
+    second: bowmanred - sheet_103
+  - first:
+      213: 2450350328014458912
+    second: bowmanred - sheet_104
+  - first:
+      213: 746549541182102924
+    second: bowmanred - sheet_105
+  - first:
+      213: -7561132993352452666
+    second: bowmanred - sheet_106
+  - first:
+      213: -7830184624716821591
+    second: bowmanred - sheet_107
+  - first:
+      213: 8556505660819584443
+    second: bowmanred - sheet_108
+  - first:
+      213: -8112039520376750944
+    second: bowmanred - sheet_109
+  - first:
+      213: 8674388042745423157
+    second: bowmanred - sheet_110
+  - first:
+      213: 6252556647148926808
+    second: bowmanred - sheet_111
+  - first:
+      213: 2204240153964445995
+    second: bowmanred - sheet_112
+  - first:
+      213: -7345955514149374479
+    second: bowmanred - sheet_113
+  - first:
+      213: -3446228114304067502
+    second: bowmanred - sheet_114
+  - first:
+      213: -5004446603004142517
+    second: bowmanred - sheet_115
+  - first:
+      213: 2459705211351196491
+    second: bowmanred - sheet_116
+  - first:
+      213: 2168969161613573461
+    second: bowmanred - sheet_117
+  - first:
+      213: 2078490355574506414
+    second: bowmanred - sheet_118
+  - first:
+      213: 5452376942691148820
+    second: bowmanred - sheet_119
+  - first:
+      213: 4120443253080430439
+    second: bowmanred - sheet_120
+  - first:
+      213: 1046364476950635168
+    second: bowmanred - sheet_121
+  - first:
+      213: -3950005017281950224
+    second: bowmanred - sheet_122
+  - first:
+      213: -4093151607218207987
+    second: bowmanred - sheet_123
+  - first:
+      213: 7089309179624227276
+    second: bowmanred - sheet_124
+  - first:
+      213: -7610693268768670206
+    second: bowmanred - sheet_125
+  - first:
+      213: -8700635270675007522
+    second: bowmanred - sheet_126
+  - first:
+      213: 1549687670173786113
+    second: bowmanred - sheet_127
+  - first:
+      213: -4590116260995984963
+    second: bowmanred - sheet_128
+  - first:
+      213: 1191344209260532632
+    second: bowmanred - sheet_129
+  - first:
+      213: -1716158251679447904
+    second: bowmanred - sheet_130
+  - first:
+      213: 4528393125804562910
+    second: bowmanred - sheet_131
+  - first:
+      213: 1912628592691672441
+    second: bowmanred - sheet_132
+  - first:
+      213: 156555004240543754
+    second: bowmanred - sheet_133
+  - first:
+      213: 5918637262815713647
+    second: bowmanred - sheet_134
+  - first:
+      213: 6816490244865759334
+    second: bowmanred - sheet_135
+  - first:
+      213: -6856248752763209947
+    second: bowmanred - sheet_136
+  - first:
+      213: -5124572294308186158
+    second: bowmanred - sheet_137
+  - first:
+      213: -3428023875038440827
+    second: bowmanred - sheet_138
+  - first:
+      213: 2392051030615982470
+    second: bowmanred - sheet_139
+  - first:
+      213: 4140685973225528052
+    second: bowmanred - sheet_140
+  - first:
+      213: -6978841861009934253
+    second: bowmanred - sheet_141
+  - first:
+      213: -7675985931267278527
+    second: bowmanred - sheet_142
+  - first:
+      213: 8354942780702134119
+    second: bowmanred - sheet_143
+  - first:
+      213: -8939020315448080681
+    second: bowmanred - sheet_144
+  - first:
+      213: 8785321265839542514
+    second: bowmanred - sheet_145
+  - first:
+      213: 8424174093636307263
+    second: bowmanred - sheet_146
+  - first:
+      213: 3446719691651294575
+    second: bowmanred - sheet_147
+  - first:
+      213: -2364159189248076211
+    second: bowmanred - sheet_148
+  - first:
+      213: 9211061127207378198
+    second: bowmanred - sheet_149
+  - first:
+      213: -427654484782527426
+    second: bowmanred - sheet_150
+  - first:
+      213: 4371271616305772895
+    second: bowmanred - sheet_151
+  - first:
+      213: -6915216098005341702
+    second: bowmanred - sheet_152
+  - first:
+      213: 7832911698483754398
+    second: bowmanred - sheet_153
+  - first:
+      213: 7064442276790122468
+    second: bowmanred - sheet_154
+  - first:
+      213: 3817748416717963664
+    second: bowmanred - sheet_155
+  - first:
+      213: 4306163366054609238
+    second: bowmanred - sheet_156
+  - first:
+      213: 6292785074496762085
+    second: bowmanred - sheet_157
+  - first:
+      213: -2026890918221740613
+    second: bowmanred - sheet_158
+  - first:
+      213: -8312449372095452313
+    second: bowmanred - sheet_159
+  - first:
+      213: 5980316199166902168
+    second: bowmanred - sheet_160
+  - first:
+      213: 6504149945166056401
+    second: bowmanred - sheet_161
+  - first:
+      213: -5788211101985016527
+    second: bowmanred - sheet_162
+  - first:
+      213: 6024205616463584038
+    second: bowmanred - sheet_163
+  - first:
+      213: -1766034163537246675
+    second: bowmanred - sheet_164
+  - first:
+      213: 1599225511193631064
+    second: bowmanred - sheet_165
+  - first:
+      213: -1809155932042398374
+    second: bowmanred - sheet_166
+  - first:
+      213: -4245361085236042352
+    second: bowmanred - sheet_167
+  - first:
+      213: -6792679570823548538
+    second: bowmanred - sheet_168
+  - first:
+      213: -180259567617711296
+    second: bowmanred - sheet_169
+  - first:
+      213: 2070400989364680668
+    second: bowmanred - sheet_170
+  - first:
+      213: -8450849550467474939
+    second: bowmanred - sheet_171
+  - first:
+      213: -5348526978535811489
+    second: bowmanred - sheet_172
+  - first:
+      213: -5166512608670693912
+    second: bowmanred - sheet_173
+  - first:
+      213: 2134872650900149044
+    second: bowmanred - sheet_174
+  - first:
+      213: -5060152978573972341
+    second: bowmanred - sheet_175
+  - first:
+      213: 611829061864477371
+    second: bowmanred - sheet_176
+  - first:
+      213: 5275806136520465774
+    second: bowmanred - sheet_177
+  - first:
+      213: 8024295006956701744
+    second: bowmanred - sheet_178
+  - first:
+      213: -793276638105179464
+    second: bowmanred - sheet_179
+  - first:
+      213: 2560177655070358777
+    second: bowmanred - sheet_180
+  - first:
+      213: -4115036683181530664
+    second: bowmanred - sheet_181
+  - first:
+      213: 5833132511825247756
+    second: bowmanred - sheet_182
+  - first:
+      213: -318411251586284092
+    second: bowmanred - sheet_183
+  - first:
+      213: 123811576682626499
+    second: bowmanred - sheet_184
+  - first:
+      213: 4160780035036559639
+    second: bowmanred - sheet_185
+  - first:
+      213: 1432930226808271639
+    second: bowmanred - sheet_186
+  - first:
+      213: -342407982886621475
+    second: bowmanred - sheet_187
+  - first:
+      213: 823403676356320387
+    second: bowmanred - sheet_188
+  - first:
+      213: -7834636854147575264
+    second: bowmanred - sheet_189
+  - first:
+      213: 5800461705958966666
+    second: bowmanred - sheet_190
+  - first:
+      213: -9201295199496596348
+    second: bowmanred - sheet_191
+  - first:
+      213: -445325297193804568
+    second: bowmanred - sheet_192
+  - first:
+      213: 3106179501485991836
+    second: bowmanred - sheet_193
+  - first:
+      213: -7357060475129398445
+    second: bowmanred - sheet_194
+  - first:
+      213: 6323016334724927834
+    second: bowmanred - sheet_195
+  - first:
+      213: 4087491343861636689
+    second: bowmanred - sheet_196
+  - first:
+      213: 1040351734006839111
+    second: bowmanred - sheet_197
+  - first:
+      213: 7248862245922969778
+    second: bowmanred - sheet_198
+  - first:
+      213: 3919811502327947573
+    second: bowmanred - sheet_199
+  - first:
+      213: 7290272121750183022
+    second: bowmanred - sheet_200
+  - first:
+      213: 9183071653482055351
+    second: bowmanred - sheet_201
+  - first:
+      213: 6993992052260544361
+    second: bowmanred - sheet_202
+  - first:
+      213: 3723964014984813225
+    second: bowmanred - sheet_203
+  - first:
+      213: 2293160062937607989
+    second: bowmanred - sheet_204
+  - first:
+      213: -578731655507614645
+    second: bowmanred - sheet_205
+  - first:
+      213: 8257501248140375585
+    second: bowmanred - sheet_206
+  - first:
+      213: -6792670242031352128
+    second: bowmanred - sheet_207
+  - first:
+      213: 6310978690140261923
+    second: bowmanred - sheet_208
+  - first:
+      213: 4906803705922762580
+    second: bowmanred - sheet_209
+  - first:
+      213: -8594189133674274885
+    second: bowmanred - sheet_210
+  - first:
+      213: 1518842773188611370
+    second: bowmanred - sheet_211
+  - first:
+      213: 4611888281373210445
+    second: bowmanred - sheet_212
+  - first:
+      213: -1795808582983829616
+    second: bowmanred - sheet_213
+  - first:
+      213: -8802128447742066035
+    second: bowmanred - sheet_214
+  - first:
+      213: -1980695684139421254
+    second: bowmanred - sheet_215
+  - first:
+      213: -4937356388276542922
+    second: bowmanred - sheet_216
+  - first:
+      213: -9104011439596934627
+    second: bowmanred - sheet_217
+  - first:
+      213: 2547453766021929522
+    second: bowmanred - sheet_218
+  - first:
+      213: -5103196269031288559
+    second: bowmanred - sheet_219
+  - first:
+      213: 2423032651626658836
+    second: bowmanred - sheet_220
+  - first:
+      213: 5451739805860683060
+    second: bowmanred - sheet_221
+  - first:
+      213: -1804534214920549601
+    second: bowmanred - sheet_222
+  - first:
+      213: 3428766722777659686
+    second: bowmanred - sheet_223
+  - first:
+      213: -3722251688622950971
+    second: bowmanred - sheet_224
+  - first:
+      213: -7996788151691578589
+    second: bowmanred - sheet_225
+  - first:
+      213: 2501662813202068247
+    second: bowmanred - sheet_226
+  - first:
+      213: 4575542749954644971
+    second: bowmanred - sheet_227
+  - first:
+      213: 4892960402015487898
+    second: bowmanred - sheet_228
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bowmanred - sheet_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 668
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f3e11603ae0f5a0800000000000000
+      internalID: -6489429569532182780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 668
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f5f29850b6714a0800000000000000
+      internalID: -6622707055504433396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 668
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd786ff40c75c0a70800000000000000
+      internalID: 8794500655834630108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_3
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 668
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e941892984129dc0800000000000000
+      internalID: -3633819369995154968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_4
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 668
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2fd682f266ff4b0800000000000000
+      internalID: -5404488675093515592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_5
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 540
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59152f3d9644e1fa0800000000000000
+      internalID: -5828145646452715115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_6
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 530
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158529448539afdf0800000000000000
+      internalID: -145642030619273135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_7
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 569
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c355de850872c60f0800000000000000
+      internalID: -1122478774920850116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_8
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 572
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9209baf223cfef420800000000000000
+      internalID: 2665845321928249385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 579
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4377c0474e51fc0800000000000000
+      internalID: -3524659946271066917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 581
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b49ff7aa42a7690800000000000000
+      internalID: -7603724706151576757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 579
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51944bac66cb6c080800000000000000
+      internalID: -9167432841792567019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 576
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ccfa1ce3d9be700800000000000000
+      internalID: 570722670655556709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 574
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1ff0fe9dde40470800000000000000
+      internalID: 8360068328580968947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 573
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffad76c6979a83a20800000000000000
+      internalID: 3042367887263652607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 572
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fa6ec59fce27a70800000000000000
+      internalID: 8823375175721856787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 571
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9c8036c678c62c0800000000000000
+      internalID: -4437022633279043127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 570
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b04a34619f8a85f0800000000000000
+      internalID: -753632133016567624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 569
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1804ce4011b3d9d0800000000000000
+      internalID: -2750660263794178021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 567
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9591050fa053cba10800000000000000
+      internalID: 1926473061705455961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 564
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a87b136a339336f0800000000000000
+      internalID: -706058837586904921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 561
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebaa90d074c841a0800000000000000
+      internalID: -6824989246464807967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 556
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a849cc1176f0ce3b0800000000000000
+      internalID: -5481989711062068086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_23
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 540
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c63da767466bcd40800000000000000
+      internalID: 5605686618060830401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_24
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 540
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8884757e2a1356ce0800000000000000
+      internalID: -1412668332375062392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_25
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 536
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0460669a9072575c0800000000000000
+      internalID: -4218422553512376768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 568
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12715609020ab3b0800000000000000
+      internalID: -5496078157468306913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 561
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70ea9586591c29d0800000000000000
+      internalID: -2797833409104519046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_28
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 536
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010a6c2aa712f3380800000000000000
+      internalID: -8989429520607567856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 552
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160f0746c8554b9f0800000000000000
+      internalID: -453643600988671903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_30
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 545
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19335a376b326f330800000000000000
+      internalID: 3744219406736372625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_31
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 536
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821013f0a02afae20800000000000000
+      internalID: 3364085610757292328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_32
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 533
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd7775284cf86cb0800000000000000
+      internalID: -4870365610204758582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_33
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 528
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9907a2a01ce5e450800000000000000
+      internalID: 6117555225045174685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_34
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 527
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881874ce0b8d7cf80800000000000000
+      internalID: -8086256351530483320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_35
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 527
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411b373c54d82d5a0800000000000000
+      internalID: -6497975981570805484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_36
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 539
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201d109866a27ec80800000000000000
+      internalID: -8293613568905850622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_37
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 538
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b49f11fbaa2e6d0800000000000000
+      internalID: -2962617867239339173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_38
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 536
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3641cf9434719d30800000000000000
+      internalID: 4436454877304014397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_39
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 537
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9bc12d054bbe170800000000000000
+      internalID: 8208853005028342179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_40
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 539
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e5251f50090a560800000000000000
+      internalID: 7323011349302369869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_41
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 534
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acd04d106370a700800000000000000
+      internalID: 549566011184045217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_42
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 412
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c87349f542acea0800000000000000
+      internalID: -5851824772887376750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_43
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 412
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bcddc5666477a70800000000000000
+      internalID: 8824599400314424107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_44
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 412
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2232438561b0070800000000000000
+      internalID: 8073571325079397098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_45
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 412
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82352ea3b787c5bf0800000000000000
+      internalID: -334259801668037848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_46
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 412
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9371f0164cebc71f0800000000000000
+      internalID: -1045751262805551303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_47
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 412
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b885eff34a6a220800000000000000
+      internalID: 2496863638180629366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_48
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 412
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259fae6def4923660800000000000000
+      internalID: 7364112162952509778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_49
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 412
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafe363ec23eedfe0800000000000000
+      internalID: -1162241871881965649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_50
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 284
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1aa0334a0e1129f0800000000000000
+      internalID: -495081454608274913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_51
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 284
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f888882a74673b0800000000000000
+      internalID: -5515141930267668584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_52
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 329
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b44a8d24fcbfda10800000000000000
+      internalID: 1936474121714681009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_53
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 329
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459699596c931bae0800000000000000
+      internalID: -1535382472880461484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 329
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc16460d858e82820800000000000000
+      internalID: 2893818228736549327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 330
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e2aabeeab2d5790800000000000000
+      internalID: -7539822170870239606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 332
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0851a0d966a8239e0800000000000000
+      internalID: -1643098740710828672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 332
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab23c6cce8cb7640800000000000000
+      internalID: 5078873924062882727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 332
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6773f29c168cf10800000000000000
+      internalID: 2290187927226382050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 332
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63fdab422f0be0c0800000000000000
+      internalID: -4545522758927387793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 332
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776e32002670d0920800000000000000
+      internalID: 2958028647742826103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 332
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309289587d7379370800000000000000
+      internalID: 8329187434643859715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_62
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 332
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6097724e6d6d04000800000000000000
+      internalID: 18250616948619526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_63
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 332
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a642c54b59f76d0800000000000000
+      internalID: -2990507025678177644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_64
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 332
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8c5aef702bff900800000000000000
+      internalID: 720490212809361599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_65
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 332
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be76072dbd0452b80800000000000000
+      internalID: -8420252615426676757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_66
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 332
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a007e3eeac3db1740800000000000000
+      internalID: 5123921869597995018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_67
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 332
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b06df208f290e530800000000000000
+      internalID: 3882264472693072051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_68
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 332
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3775f7618e3244430800000000000000
+      internalID: 3766174668105406323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_69
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 332
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815651e78638be3c0800000000000000
+      internalID: -4329222131971431144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_70
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 332
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc412fed9e1d18470800000000000000
+      internalID: 8395221982793307340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_71
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 269
+        width: 770
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dab1368831c1eb0800000000000000
+      internalID: -4747898430656107247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_72
+      rect:
+        serializedVersion: 2
+        x: 3997
+        y: 284
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9291b55449c85f2b0800000000000000
+      internalID: -5551376397217621719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_73
+      rect:
+        serializedVersion: 2
+        x: 4125
+        y: 284
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66210177cb838e7a0800000000000000
+      internalID: -6347761292676165018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_74
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 332
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619d349a931a21350800000000000000
+      internalID: 5986024123753814294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_75
+      rect:
+        serializedVersion: 2
+        x: 4268
+        y: 332
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395bcc3d1e6e05c80800000000000000
+      internalID: -8335909052667349613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_76
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 333
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f577861a081dac0800000000000000
+      internalID: -3832140377184837759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_77
+      rect:
+        serializedVersion: 2
+        x: 4528
+        y: 333
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604f6a360073a2f20800000000000000
+      internalID: 3398589343615874054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_78
+      rect:
+        serializedVersion: 2
+        x: 5533
+        y: 269
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d579efa488f94e0800000000000000
+      internalID: -1972708256084697743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_79
+      rect:
+        serializedVersion: 2
+        x: 5657
+        y: 263
+        width: 104
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd5e7627f5273250800000000000000
+      internalID: 5924245578262142403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_80
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 284
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f560b73eed18910800000000000000
+      internalID: 1837995191546830624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_81
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 284
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e103deab2030cf240800000000000000
+      internalID: 4826736210895253534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_82
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 284
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddb1491bcea4ea00800000000000000
+      internalID: 784944422394641884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_83
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 284
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5efb505ab86f1880800000000000000
+      internalID: -8638070410851910050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_84
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 284
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9f9156eb40d4440800000000000000
+      internalID: 4921595183572318703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_85
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 284
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd27b4ef764cdbae0800000000000000
+      internalID: -1531852347309067557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 284
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31c8a752d1a08750800000000000000
+      internalID: 6305217403104575806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_87
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 284
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6345fe678d61b0250800000000000000
+      internalID: 5911844054818051126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_88
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 284
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455c46f4ef2e1f680800000000000000
+      internalID: -8722941421358365356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_89
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 284
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbeab8a1f149ebc70800000000000000
+      internalID: 8988784767588347583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_90
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 284
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a88296d01a82ef0800000000000000
+      internalID: -132679110036518343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_91
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 284
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bdf0b0f58b70d50800000000000000
+      internalID: 6703529288711265057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_92
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 284
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc219fd68fcf83c70800000000000000
+      internalID: 8951182403325989580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_93
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 284
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9cf65c221d91560800000000000000
+      internalID: 7285083819520018924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_94
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 284
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d41d7ae1e24f1640800000000000000
+      internalID: 5052830845002126550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_95
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 284
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c921a9f39f74f5d0800000000000000
+      internalID: -3029656375788492346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_96
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 284
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d7e1713ae29cc80800000000000000
+      internalID: -8302053160078377649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_97
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 284
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e1f041ee9a04840800000000000000
+      internalID: 5206348009244139068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_98
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 284
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f435bceba8e66d0800000000000000
+      internalID: -2995304150095147117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_99
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 284
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad7deb456ffd53f0800000000000000
+      internalID: -910290739128336985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_100
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 284
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744d05f9cb352e200800000000000000
+      internalID: 207820602404295751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_101
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 284
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d826b646acf1dd0800000000000000
+      internalID: -2513067534402286217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_102
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 284
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b3422a90542f320800000000000000
+      internalID: 2590208643368762254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_103
+      rect:
+        serializedVersion: 2
+        x: 4253
+        y: 284
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6389fd98d94ec0950800000000000000
+      internalID: 6416754934370244662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_104
+      rect:
+        serializedVersion: 2
+        x: 4381
+        y: 284
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020509c04a4610220800000000000000
+      internalID: 2450350328014458912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_105
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 284
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8dd3613ad64c5a00800000000000000
+      internalID: 746549541182102924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_106
+      rect:
+        serializedVersion: 2
+        x: 4637
+        y: 284
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5bdb76a95711790800000000000000
+      internalID: -7561132993352452666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_107
+      rect:
+        serializedVersion: 2
+        x: 4765
+        y: 284
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab4706e198955390800000000000000
+      internalID: -7830184624716821591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_108
+      rect:
+        serializedVersion: 2
+        x: 4885
+        y: 284
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb535cf6090deb670800000000000000
+      internalID: 8556505660819584443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_109
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 284
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac7300290f3c6f80800000000000000
+      internalID: -8112039520376750944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_110
+      rect:
+        serializedVersion: 2
+        x: 5135
+        y: 284
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535acbb47fd916870800000000000000
+      internalID: 8674388042745423157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_111
+      rect:
+        serializedVersion: 2
+        x: 5277
+        y: 284
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857b153a42b85c650800000000000000
+      internalID: 6252556647148926808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_112
+      rect:
+        serializedVersion: 2
+        x: 5298
+        y: 300
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2104b0ddb8079e10800000000000000
+      internalID: 2204240153964445995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_113
+      rect:
+        serializedVersion: 2
+        x: 5309
+        y: 306
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5fd43616ced0a90800000000000000
+      internalID: -7345955514149374479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_114
+      rect:
+        serializedVersion: 2
+        x: 5319
+        y: 294
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25811f7f9c98c20d0800000000000000
+      internalID: -3446228114304067502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_115
+      rect:
+        serializedVersion: 2
+        x: 5322
+        y: 288
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c178a4452ac8ab0800000000000000
+      internalID: -5004446603004142517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_116
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 284
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43e3ce8bd0a22220800000000000000
+      internalID: 2459705211351196491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_117
+      rect:
+        serializedVersion: 2
+        x: 5422
+        y: 308
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55df0c6f5f9b91e10800000000000000
+      internalID: 2168969161613573461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_118
+      rect:
+        serializedVersion: 2
+        x: 5438
+        y: 300
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3081157f748dc10800000000000000
+      internalID: 2078490355574506414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_119
+      rect:
+        serializedVersion: 2
+        x: 5459
+        y: 289
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414e2a201fbbaab40800000000000000
+      internalID: 5452376942691148820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_120
+      rect:
+        serializedVersion: 2
+        x: 5602
+        y: 293
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7679301ce41ce2930800000000000000
+      internalID: 4120443253080430439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_121
+      rect:
+        serializedVersion: 2
+        x: 5789
+        y: 284
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2ea3aa2fe658e00800000000000000
+      internalID: 1046364476950635168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_122
+      rect:
+        serializedVersion: 2
+        x: 5303
+        y: 280
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd06e36d53ce29c0800000000000000
+      internalID: -3950005017281950224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_123
+      rect:
+        serializedVersion: 2
+        x: 5311
+        y: 282
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0380f7bc443237c0800000000000000
+      internalID: -4093151607218207987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_124
+      rect:
+        serializedVersion: 2
+        x: 5317
+        y: 285
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc10b6a5329426260800000000000000
+      internalID: 7089309179624227276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_125
+      rect:
+        serializedVersion: 2
+        x: 5441
+        y: 279
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e36949bc2616690800000000000000
+      internalID: -7610693268768670206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_126
+      rect:
+        serializedVersion: 2
+        x: 5427
+        y: 277
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed77e2bb152214780800000000000000
+      internalID: -8700635270675007522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_127
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 156
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100e285b9b8918510800000000000000
+      internalID: 1549687670173786113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_128
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 156
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db117918491ac40c0800000000000000
+      internalID: -4590116260995984963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_129
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 156
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893513e0f31888010800000000000000
+      internalID: 1191344209260532632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_130
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 156
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a48a46a92bfe28e0800000000000000
+      internalID: -1716158251679447904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_131
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 156
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9d6e23e8518de30800000000000000
+      internalID: 4528393125804562910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_132
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 156
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97574ae42950b8a10800000000000000
+      internalID: 1912628592691672441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_133
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 156
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00419762f13c2200800000000000000
+      internalID: 156555004240543754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_134
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 163
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6955847b39332250800000000000000
+      internalID: 5918637262815713647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_135
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 156
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668932c23c9099e50800000000000000
+      internalID: 6816490244865759334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_136
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 156
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52775d7d516b9d0a0800000000000000
+      internalID: -6856248752763209947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_137
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 156
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7b3f346acd1e8b0800000000000000
+      internalID: -5124572294308186158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_138
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 156
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58296c6b2763d60d0800000000000000
+      internalID: -3428023875038440827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_139
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 156
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681097c1db5423120800000000000000
+      internalID: 2392051030615982470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_140
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 156
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fadc8054fba67930800000000000000
+      internalID: 4140685973225528052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_141
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 156
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35870ea8d4c262f90800000000000000
+      internalID: -6978841861009934253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_142
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 156
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149fae1f67b697590800000000000000
+      internalID: -7675985931267278527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_143
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 156
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f07725138b2f370800000000000000
+      internalID: 8354942780702134119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_144
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 156
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d687b1526832f380800000000000000
+      internalID: -8939020315448080681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_145
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 156
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f01d08052bbbe970800000000000000
+      internalID: 8785321265839542514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_146
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 156
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f398d3974bda8e470800000000000000
+      internalID: 8424174093636307263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_147
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 156
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65283d4c4535df20800000000000000
+      internalID: 3446719691651294575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_148
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 156
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4694644eb1d03fd0800000000000000
+      internalID: -2364159189248076211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_149
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 156
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dda9bfa4344df70800000000000000
+      internalID: 9211061127207378198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_150
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 156
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c4feb038aa01af0800000000000000
+      internalID: -427654484782527426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_151
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 126
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5937a20060e9ac30800000000000000
+      internalID: 4371271616305772895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_152
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 156
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af92455e8973800a0800000000000000
+      internalID: -6915216098005341702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_153
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 156
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95302170b714bc60800000000000000
+      internalID: 7832911698483754398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_154
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 168
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7b35c52d0f90260800000000000000
+      internalID: 7064442276790122468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_155
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 149
+        width: 88
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091c84c25fd5bf430800000000000000
+      internalID: 3817748416717963664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_156
+      rect:
+        serializedVersion: 2
+        x: 3485
+        y: 156
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6514c7234c092cb30800000000000000
+      internalID: 4306163366054609238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_157
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 156
+        width: 68
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e072454fa6745750800000000000000
+      internalID: 6292785074496762085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_158
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 113
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb58de4e2790fd3e0800000000000000
+      internalID: -2026890918221740613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_159
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 120
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76be4da565f34ac80800000000000000
+      internalID: -8312449372095452313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_160
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 113
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f7bd7e5e95ef250800000000000000
+      internalID: 5980316199166902168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_161
+      rect:
+        serializedVersion: 2
+        x: 4343
+        y: 120
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbcf772ae1634a50800000000000000
+      internalID: 6504149945166056401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_162
+      rect:
+        serializedVersion: 2
+        x: 5619
+        y: 115
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135f5358ba42cafa0800000000000000
+      internalID: -5788211101985016527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_163
+      rect:
+        serializedVersion: 2
+        x: 5752
+        y: 120
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b993f27174a9350800000000000000
+      internalID: 6024205616463584038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_164
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 100
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26882df849cd77e0800000000000000
+      internalID: -1766034163537246675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_165
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 100
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859507e1127913610800000000000000
+      internalID: 1599225511193631064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_166
+      rect:
+        serializedVersion: 2
+        x: 5477
+        y: 100
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55725fd34694e6e0800000000000000
+      internalID: -1809155932042398374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_167
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 63
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0952d3bf5927515c0800000000000000
+      internalID: -4245361085236042352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_168
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 78
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68172046bed8bb1a0800000000000000
+      internalID: -6792679570823548538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_169
+      rect:
+        serializedVersion: 2
+        x: 3775
+        y: 63
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043e7c8d0e69f7df0800000000000000
+      internalID: -180259567617711296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_170
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 78
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7f2b9faba8bbc10800000000000000
+      internalID: 2070400989364680668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_171
+      rect:
+        serializedVersion: 2
+        x: 5183
+        y: 63
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50add1ebb1d88ba80800000000000000
+      internalID: -8450849550467474939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_172
+      rect:
+        serializedVersion: 2
+        x: 5326
+        y: 78
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5697ccfc0736c5b0800000000000000
+      internalID: -5348526978535811489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_173
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 28
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e54b90e72cdc48b0800000000000000
+      internalID: -5166512608670693912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_174
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 28
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433999d6d5790ad10800000000000000
+      internalID: 2134872650900149044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_175
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 28
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ca6f20da9b6c9b0800000000000000
+      internalID: -5060152978573972341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_176
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 28
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb251b74a47ad7800800000000000000
+      internalID: 611829061864477371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_177
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 28
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6dd02f8abd673940800000000000000
+      internalID: 5275806136520465774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_178
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 28
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03848965bc50c5f60800000000000000
+      internalID: 8024295006956701744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_179
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 28
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8baef11c917bdf4f0800000000000000
+      internalID: -793276638105179464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_180
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 28
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc7c5c4304978320800000000000000
+      internalID: 2560177655070358777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_181
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 28
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1634560f374e6c0800000000000000
+      internalID: -4115036683181530664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_182
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e302f3d1373f050800000000000000
+      internalID: 5833132511825247756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_183
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 28
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c546b857a6c49bf0800000000000000
+      internalID: -318411251586284092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_184
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdbf3719fdd7b100800000000000000
+      internalID: 123811576682626499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_185
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71934e8a56f0eb930800000000000000
+      internalID: 4160780035036559639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_186
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 28
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713b3d4037ac2e310800000000000000
+      internalID: 1432930226808271639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_187
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddee8c3f0c58f3bf0800000000000000
+      internalID: -342407982886621475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_188
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 50
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c18f3f7415d6b00800000000000000
+      internalID: 823403676356320387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_189
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02299547a47c54390800000000000000
+      internalID: -7834636854147575264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_190
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 55
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85c0fc70316f7050800000000000000
+      internalID: 5800461705958966666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_191
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4849f7044ce6e4080800000000000000
+      internalID: -9201295199496596348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_192
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 55
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec944b6003e1d9f0800000000000000
+      internalID: -445325297193804568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_193
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c972ca2accd5b1b20800000000000000
+      internalID: 3106179501485991836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_194
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b78dc2a7876e990800000000000000
+      internalID: -7357060475129398445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_195
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 28
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51954c0bdddfb750800000000000000
+      internalID: 6323016334724927834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_196
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e5b5588bfa9b830800000000000000
+      internalID: 4087491343861636689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_197
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74770fad362107e00800000000000000
+      internalID: 1040351734006839111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_198
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 28
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b89af97ec1299460800000000000000
+      internalID: 7248862245922969778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_199
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5316fb61bc7f56630800000000000000
+      internalID: 3919811502327947573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_200
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c5ad48edf3c2560800000000000000
+      internalID: 7290272121750183022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_201
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 28
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6c1ccc303d07f70800000000000000
+      internalID: 9183071653482055351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_202
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f15ec37b6af0160800000000000000
+      internalID: 6993992052260544361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_203
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 50
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aad18d8a8d2ea330800000000000000
+      internalID: 3723964014984813225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_204
+      rect:
+        serializedVersion: 2
+        x: 3485
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f22847de0f2df10800000000000000
+      internalID: 2293160062937607989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_205
+      rect:
+        serializedVersion: 2
+        x: 3509
+        y: 55
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44e13520aee7f7f0800000000000000
+      internalID: -578731655507614645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_206
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12670c392a9889270800000000000000
+      internalID: 8257501248140375585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_207
+      rect:
+        serializedVersion: 2
+        x: 3637
+        y: 55
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6ca5b67669bb1a0800000000000000
+      internalID: -6792670242031352128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_208
+      rect:
+        serializedVersion: 2
+        x: 3741
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32eced28ea9159750800000000000000
+      internalID: 6310978690140261923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_209
+      rect:
+        serializedVersion: 2
+        x: 3869
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457b81229f7781440800000000000000
+      internalID: 4906803705922762580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_210
+      rect:
+        serializedVersion: 2
+        x: 3995
+        y: 28
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf92d2548e4bb880800000000000000
+      internalID: -8594189133674274885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_211
+      rect:
+        serializedVersion: 2
+        x: 4125
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d839d7473041510800000000000000
+      internalID: 1518842773188611370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_212
+      rect:
+        serializedVersion: 2
+        x: 4253
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47790305f7b00040800000000000000
+      internalID: 4611888281373210445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_213
+      rect:
+        serializedVersion: 2
+        x: 4381
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097b6aebb910417e0800000000000000
+      internalID: -1795808582983829616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_214
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8249fcffce88d580800000000000000
+      internalID: -8802128447742066035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_215
+      rect:
+        serializedVersion: 2
+        x: 4637
+        y: 28
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab178baf4c72384e0800000000000000
+      internalID: -1980695684139421254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_216
+      rect:
+        serializedVersion: 2
+        x: 4765
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632654b268cfa7bb0800000000000000
+      internalID: -4937356388276542922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_217
+      rect:
+        serializedVersion: 2
+        x: 4784
+        y: 50
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a6bbfa4dd08a180800000000000000
+      internalID: -9104011439596934627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_218
+      rect:
+        serializedVersion: 2
+        x: 4893
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ad77504bf5a5320800000000000000
+      internalID: 2547453766021929522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_219
+      rect:
+        serializedVersion: 2
+        x: 4917
+        y: 55
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1119a4df70ecd29b0800000000000000
+      internalID: -5103196269031288559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_220
+      rect:
+        serializedVersion: 2
+        x: 5021
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c316fdb5750a120800000000000000
+      internalID: 2423032651626658836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_221
+      rect:
+        serializedVersion: 2
+        x: 5045
+        y: 55
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dde28087878ab40800000000000000
+      internalID: 5451739805860683060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_222
+      rect:
+        serializedVersion: 2
+        x: 5149
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b4f9e31b105f6e0800000000000000
+      internalID: -1804534214920549601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_223
+      rect:
+        serializedVersion: 2
+        x: 5277
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629b7d00b2d659f20800000000000000
+      internalID: 3428766722777659686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_224
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5f70f7fc7e75cc0800000000000000
+      internalID: -3722251688622950971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_225
+      rect:
+        serializedVersion: 2
+        x: 5533
+        y: 28
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323fe5a7b83b50190800000000000000
+      internalID: -7996788151691578589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_226
+      rect:
+        serializedVersion: 2
+        x: 5661
+        y: 28
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713b6b00311b7b220800000000000000
+      internalID: 2501662813202068247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_227
+      rect:
+        serializedVersion: 2
+        x: 5789
+        y: 28
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb19a983e79f7f30800000000000000
+      internalID: 4575542749954644971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowmanred - sheet_228
+      rect:
+        serializedVersion: 2
+        x: 5914
+        y: 28
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a978f26cf8947e340800000000000000
+      internalID: 4892960402015487898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bowmanred - sheet_0: -6489429569532182780
+      bowmanred - sheet_1: -6622707055504433396
+      bowmanred - sheet_10: -7603724706151576757
+      bowmanred - sheet_100: 207820602404295751
+      bowmanred - sheet_101: -2513067534402286217
+      bowmanred - sheet_102: 2590208643368762254
+      bowmanred - sheet_103: 6416754934370244662
+      bowmanred - sheet_104: 2450350328014458912
+      bowmanred - sheet_105: 746549541182102924
+      bowmanred - sheet_106: -7561132993352452666
+      bowmanred - sheet_107: -7830184624716821591
+      bowmanred - sheet_108: 8556505660819584443
+      bowmanred - sheet_109: -8112039520376750944
+      bowmanred - sheet_11: -9167432841792567019
+      bowmanred - sheet_110: 8674388042745423157
+      bowmanred - sheet_111: 6252556647148926808
+      bowmanred - sheet_112: 2204240153964445995
+      bowmanred - sheet_113: -7345955514149374479
+      bowmanred - sheet_114: -3446228114304067502
+      bowmanred - sheet_115: -5004446603004142517
+      bowmanred - sheet_116: 2459705211351196491
+      bowmanred - sheet_117: 2168969161613573461
+      bowmanred - sheet_118: 2078490355574506414
+      bowmanred - sheet_119: 5452376942691148820
+      bowmanred - sheet_12: 570722670655556709
+      bowmanred - sheet_120: 4120443253080430439
+      bowmanred - sheet_121: 1046364476950635168
+      bowmanred - sheet_122: -3950005017281950224
+      bowmanred - sheet_123: -4093151607218207987
+      bowmanred - sheet_124: 7089309179624227276
+      bowmanred - sheet_125: -7610693268768670206
+      bowmanred - sheet_126: -8700635270675007522
+      bowmanred - sheet_127: 1549687670173786113
+      bowmanred - sheet_128: -4590116260995984963
+      bowmanred - sheet_129: 1191344209260532632
+      bowmanred - sheet_13: 8360068328580968947
+      bowmanred - sheet_130: -1716158251679447904
+      bowmanred - sheet_131: 4528393125804562910
+      bowmanred - sheet_132: 1912628592691672441
+      bowmanred - sheet_133: 156555004240543754
+      bowmanred - sheet_134: 5918637262815713647
+      bowmanred - sheet_135: 6816490244865759334
+      bowmanred - sheet_136: -6856248752763209947
+      bowmanred - sheet_137: -5124572294308186158
+      bowmanred - sheet_138: -3428023875038440827
+      bowmanred - sheet_139: 2392051030615982470
+      bowmanred - sheet_14: 3042367887263652607
+      bowmanred - sheet_140: 4140685973225528052
+      bowmanred - sheet_141: -6978841861009934253
+      bowmanred - sheet_142: -7675985931267278527
+      bowmanred - sheet_143: 8354942780702134119
+      bowmanred - sheet_144: -8939020315448080681
+      bowmanred - sheet_145: 8785321265839542514
+      bowmanred - sheet_146: 8424174093636307263
+      bowmanred - sheet_147: 3446719691651294575
+      bowmanred - sheet_148: -2364159189248076211
+      bowmanred - sheet_149: 9211061127207378198
+      bowmanred - sheet_15: 8823375175721856787
+      bowmanred - sheet_150: -427654484782527426
+      bowmanred - sheet_151: 4371271616305772895
+      bowmanred - sheet_152: -6915216098005341702
+      bowmanred - sheet_153: 7832911698483754398
+      bowmanred - sheet_154: 7064442276790122468
+      bowmanred - sheet_155: 3817748416717963664
+      bowmanred - sheet_156: 4306163366054609238
+      bowmanred - sheet_157: 6292785074496762085
+      bowmanred - sheet_158: -2026890918221740613
+      bowmanred - sheet_159: -8312449372095452313
+      bowmanred - sheet_16: -4437022633279043127
+      bowmanred - sheet_160: 5980316199166902168
+      bowmanred - sheet_161: 6504149945166056401
+      bowmanred - sheet_162: -5788211101985016527
+      bowmanred - sheet_163: 6024205616463584038
+      bowmanred - sheet_164: -1766034163537246675
+      bowmanred - sheet_165: 1599225511193631064
+      bowmanred - sheet_166: -1809155932042398374
+      bowmanred - sheet_167: -4245361085236042352
+      bowmanred - sheet_168: -6792679570823548538
+      bowmanred - sheet_169: -180259567617711296
+      bowmanred - sheet_17: -753632133016567624
+      bowmanred - sheet_170: 2070400989364680668
+      bowmanred - sheet_171: -8450849550467474939
+      bowmanred - sheet_172: -5348526978535811489
+      bowmanred - sheet_173: -5166512608670693912
+      bowmanred - sheet_174: 2134872650900149044
+      bowmanred - sheet_175: -5060152978573972341
+      bowmanred - sheet_176: 611829061864477371
+      bowmanred - sheet_177: 5275806136520465774
+      bowmanred - sheet_178: 8024295006956701744
+      bowmanred - sheet_179: -793276638105179464
+      bowmanred - sheet_18: -2750660263794178021
+      bowmanred - sheet_180: 2560177655070358777
+      bowmanred - sheet_181: -4115036683181530664
+      bowmanred - sheet_182: 5833132511825247756
+      bowmanred - sheet_183: -318411251586284092
+      bowmanred - sheet_184: 123811576682626499
+      bowmanred - sheet_185: 4160780035036559639
+      bowmanred - sheet_186: 1432930226808271639
+      bowmanred - sheet_187: -342407982886621475
+      bowmanred - sheet_188: 823403676356320387
+      bowmanred - sheet_189: -7834636854147575264
+      bowmanred - sheet_19: 1926473061705455961
+      bowmanred - sheet_190: 5800461705958966666
+      bowmanred - sheet_191: -9201295199496596348
+      bowmanred - sheet_192: -445325297193804568
+      bowmanred - sheet_193: 3106179501485991836
+      bowmanred - sheet_194: -7357060475129398445
+      bowmanred - sheet_195: 6323016334724927834
+      bowmanred - sheet_196: 4087491343861636689
+      bowmanred - sheet_197: 1040351734006839111
+      bowmanred - sheet_198: 7248862245922969778
+      bowmanred - sheet_199: 3919811502327947573
+      bowmanred - sheet_2: 8794500655834630108
+      bowmanred - sheet_20: -706058837586904921
+      bowmanred - sheet_200: 7290272121750183022
+      bowmanred - sheet_201: 9183071653482055351
+      bowmanred - sheet_202: 6993992052260544361
+      bowmanred - sheet_203: 3723964014984813225
+      bowmanred - sheet_204: 2293160062937607989
+      bowmanred - sheet_205: -578731655507614645
+      bowmanred - sheet_206: 8257501248140375585
+      bowmanred - sheet_207: -6792670242031352128
+      bowmanred - sheet_208: 6310978690140261923
+      bowmanred - sheet_209: 4906803705922762580
+      bowmanred - sheet_21: -6824989246464807967
+      bowmanred - sheet_210: -8594189133674274885
+      bowmanred - sheet_211: 1518842773188611370
+      bowmanred - sheet_212: 4611888281373210445
+      bowmanred - sheet_213: -1795808582983829616
+      bowmanred - sheet_214: -8802128447742066035
+      bowmanred - sheet_215: -1980695684139421254
+      bowmanred - sheet_216: -4937356388276542922
+      bowmanred - sheet_217: -9104011439596934627
+      bowmanred - sheet_218: 2547453766021929522
+      bowmanred - sheet_219: -5103196269031288559
+      bowmanred - sheet_22: -5481989711062068086
+      bowmanred - sheet_220: 2423032651626658836
+      bowmanred - sheet_221: 5451739805860683060
+      bowmanred - sheet_222: -1804534214920549601
+      bowmanred - sheet_223: 3428766722777659686
+      bowmanred - sheet_224: -3722251688622950971
+      bowmanred - sheet_225: -7996788151691578589
+      bowmanred - sheet_226: 2501662813202068247
+      bowmanred - sheet_227: 4575542749954644971
+      bowmanred - sheet_228: 4892960402015487898
+      bowmanred - sheet_23: 5605686618060830401
+      bowmanred - sheet_24: -1412668332375062392
+      bowmanred - sheet_25: -4218422553512376768
+      bowmanred - sheet_26: -5496078157468306913
+      bowmanred - sheet_27: -2797833409104519046
+      bowmanred - sheet_28: -8989429520607567856
+      bowmanred - sheet_29: -453643600988671903
+      bowmanred - sheet_3: -3633819369995154968
+      bowmanred - sheet_30: 3744219406736372625
+      bowmanred - sheet_31: 3364085610757292328
+      bowmanred - sheet_32: -4870365610204758582
+      bowmanred - sheet_33: 6117555225045174685
+      bowmanred - sheet_34: -8086256351530483320
+      bowmanred - sheet_35: -6497975981570805484
+      bowmanred - sheet_36: -8293613568905850622
+      bowmanred - sheet_37: -2962617867239339173
+      bowmanred - sheet_38: 4436454877304014397
+      bowmanred - sheet_39: 8208853005028342179
+      bowmanred - sheet_4: -5404488675093515592
+      bowmanred - sheet_40: 7323011349302369869
+      bowmanred - sheet_41: 549566011184045217
+      bowmanred - sheet_42: -5851824772887376750
+      bowmanred - sheet_43: 8824599400314424107
+      bowmanred - sheet_44: 8073571325079397098
+      bowmanred - sheet_45: -334259801668037848
+      bowmanred - sheet_46: -1045751262805551303
+      bowmanred - sheet_47: 2496863638180629366
+      bowmanred - sheet_48: 7364112162952509778
+      bowmanred - sheet_49: -1162241871881965649
+      bowmanred - sheet_5: -5828145646452715115
+      bowmanred - sheet_50: -495081454608274913
+      bowmanred - sheet_51: -5515141930267668584
+      bowmanred - sheet_52: 1936474121714681009
+      bowmanred - sheet_53: -1535382472880461484
+      bowmanred - sheet_54: 2893818228736549327
+      bowmanred - sheet_55: -7539822170870239606
+      bowmanred - sheet_56: -1643098740710828672
+      bowmanred - sheet_57: 5078873924062882727
+      bowmanred - sheet_58: 2290187927226382050
+      bowmanred - sheet_59: -4545522758927387793
+      bowmanred - sheet_6: -145642030619273135
+      bowmanred - sheet_60: 2958028647742826103
+      bowmanred - sheet_61: 8329187434643859715
+      bowmanred - sheet_62: 18250616948619526
+      bowmanred - sheet_63: -2990507025678177644
+      bowmanred - sheet_64: 720490212809361599
+      bowmanred - sheet_65: -8420252615426676757
+      bowmanred - sheet_66: 5123921869597995018
+      bowmanred - sheet_67: 3882264472693072051
+      bowmanred - sheet_68: 3766174668105406323
+      bowmanred - sheet_69: -4329222131971431144
+      bowmanred - sheet_7: -1122478774920850116
+      bowmanred - sheet_70: 8395221982793307340
+      bowmanred - sheet_71: -4747898430656107247
+      bowmanred - sheet_72: -5551376397217621719
+      bowmanred - sheet_73: -6347761292676165018
+      bowmanred - sheet_74: 5986024123753814294
+      bowmanred - sheet_75: -8335909052667349613
+      bowmanred - sheet_76: -3832140377184837759
+      bowmanred - sheet_77: 3398589343615874054
+      bowmanred - sheet_78: -1972708256084697743
+      bowmanred - sheet_79: 5924245578262142403
+      bowmanred - sheet_8: 2665845321928249385
+      bowmanred - sheet_80: 1837995191546830624
+      bowmanred - sheet_81: 4826736210895253534
+      bowmanred - sheet_82: 784944422394641884
+      bowmanred - sheet_83: -8638070410851910050
+      bowmanred - sheet_84: 4921595183572318703
+      bowmanred - sheet_85: -1531852347309067557
+      bowmanred - sheet_86: 6305217403104575806
+      bowmanred - sheet_87: 5911844054818051126
+      bowmanred - sheet_88: -8722941421358365356
+      bowmanred - sheet_89: 8988784767588347583
+      bowmanred - sheet_9: -3524659946271066917
+      bowmanred - sheet_90: -132679110036518343
+      bowmanred - sheet_91: 6703529288711265057
+      bowmanred - sheet_92: 8951182403325989580
+      bowmanred - sheet_93: 7285083819520018924
+      bowmanred - sheet_94: 5052830845002126550
+      bowmanred - sheet_95: -3029656375788492346
+      bowmanred - sheet_96: -8302053160078377649
+      bowmanred - sheet_97: 5206348009244139068
+      bowmanred - sheet_98: -2995304150095147117
+      bowmanred - sheet_99: -910290739128336985
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

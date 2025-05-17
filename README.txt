@@ -1,5 +1,3 @@
-kanariandev
-	https://www.youtube.com/watch?v=lu-w7A8weVI
 Este documento incluye referencias a todos los assets usados en este proyecto. Sean creación propia o no, dando el crédito a quien corresponda.
 
 Fuente de las letras:
@@ -8,6 +6,7 @@ Fuente de las letras:
 
 Menú principal:
 	Imagen generada con IA.
+	Botones creados usando lo visto en clase como base.
 
 Escenarios:
 	Green Faery y Bloody Mary:
@@ -43,3 +42,8 @@ Mecánicas:
 			https://www.youtube.com/watch?v=2wbrHTfgvbs
 	Movimiento del personaje y enemigos:
 		Creación propia a partir de lo aprendido en clase
+
+Animaciones:
+	Movimiento de PJ y enemigos:
+		Se hizo siguiendo los videos de kanariandev
+			https://www.youtube.com/watch?v=lu-w7A8weVI (este es el de uso de animator, visité su canal para ver varios)
