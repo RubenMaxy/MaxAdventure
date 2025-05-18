@@ -47,3 +47,7 @@ Animaciones:
 	Movimiento de PJ y enemigos:
 		Se hizo siguiendo los videos de kanariandev
 			https://www.youtube.com/watch?v=lu-w7A8weVI (este es el de uso de animator, visité su canal para ver varios)
+UI:
+	Icono de tener o no casco:
+		Hecho por Line Across
+			https://lineacross.itch.io/2d-items-megapack-free
