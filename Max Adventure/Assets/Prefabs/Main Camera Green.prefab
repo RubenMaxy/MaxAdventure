@@ -674,7 +674,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 0}
-  offset: 5
+  offset: 6.1
 --- !u!1 &6088155226378551963
 GameObject:
   m_ObjectHideFlags: 0

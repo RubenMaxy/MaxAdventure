@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class Player : MonoBehaviour
@@ -37,9 +38,8 @@ public class Player : MonoBehaviour
             transform.localScale = new Vector3(7.591f, 7, 1);
             orientation = 7.591f;
         }
-            Jump();
+        Jump();
         Shot();
-
     }
 
     private void Shot()
@@ -77,14 +77,29 @@ public class Player : MonoBehaviour
     //M�todo que hace saltar al personaje. Comprueba si se pulsa una tecla y aplica una fuerza de salto.
     void Jump()
     {
+        animator.SetBool("estaEnSuelo", EstaEnSuelo());
         if (Input.GetKeyDown(KeyCode.UpArrow) && EstaEnSuelo()) 
         {
+            Debug.Log("Salto activado");
             //Aplica la fuerza al salto, el segundo argumento indica que tipo de fuerza es, en este caso un impulso.
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            animator.CrossFade("jump", 0.1f);
+            Debug.Log("Valor de 'jump' en el Animator: " + animator.GetBool("jump"));
+            StartCoroutine(ResetJumpAnimation());
         }
     }
 
-    //M�todo que gestiona el movimiento a derecha o izquierda del personaje.
+    IEnumerator ResetJumpAnimation()
+    {
+        while (!EstaEnSuelo()) // Espera hasta que el personaje esté en el suelo
+        {
+            yield return null; // Espera un frame antes de volver a comprobar
+        }
+
+        animator.SetBool("jump", false);
+    }
+
+    //Método que gestiona el movimiento a derecha o izquierda del personaje.
     void Movement()
     {
         movement = Input.GetAxisRaw("Horizontal") * speed;
