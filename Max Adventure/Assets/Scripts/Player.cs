@@ -5,7 +5,6 @@ public class Player : MonoBehaviour
 {
     [SerializeField] private float speed = 20f; //Velocidad de movimiento, se modificar� en el inspector
     [SerializeField] private Transform firePoint; //Punto de salida del proyectil
-    [SerializeField] private float projectileSpeed = 10f; //Velocidad del proyectil
     [SerializeField] private LayerMask ground;
     [SerializeField] private GameObject projectilePrefab; //Referencia al prefab del proyectil
     [SerializeField] private float jumpForce = 10f; //Fuerza que se aplica al salto del personaje. Se modificar� desde el inspector.
@@ -126,17 +125,9 @@ public class Player : MonoBehaviour
             GameManager.instance.GameOver();
         }
 
-        if (collision.CompareTag("Finish"))
+        if ((collision.CompareTag("Finish") && GameManager.instance.CurrentScene()== "Bloody Mary"))
         {
-            GameManager.instance.LoadLevel("Bloody Mary");
-        }
-    }
-
-    private void OnTriggerStay2D(Collider2D collision)
-    {
-        if (collision.CompareTag("Caida"))
-        {
-            GameManager.instance.GameOver();
+            GameManager.instance.LoadLevel("Win");
         }
 
         if (collision.CompareTag("Finish"))

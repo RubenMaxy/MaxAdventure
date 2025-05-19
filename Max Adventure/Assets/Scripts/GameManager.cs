@@ -57,4 +57,10 @@ public class GameManager : MonoBehaviour
     {
         SceneManager.LoadScene("MainMenu"); // Carga el menú principal
     }
+
+    public string CurrentScene()
+    {
+        string currentScene = SceneManager.GetActiveScene().name;
+        return currentScene;
+    }
 }
