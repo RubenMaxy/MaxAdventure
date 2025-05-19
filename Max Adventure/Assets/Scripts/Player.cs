@@ -12,10 +12,12 @@ public class Player : MonoBehaviour
     private float movement = 0f; //Se inicia en el inspector
     private Vector2 startPos; //Posicion inicial
     private float coyoteTimer;
-
+    private bool enTrigger = false;
 
     private float orientation;
 
+    public int maxProyectiles = 5; // Número máximo de proyectiles
+    private int proyectilesRestantes;
     public float coyoteTime = 0.2f;
     public Animator animator;
     public Rigidbody2D rb; //Se inicia en el inspector
@@ -25,13 +27,16 @@ public class Player : MonoBehaviour
     void Start()
     {
         startPos = transform.position;
+        proyectilesRestantes = maxProyectiles;
     }
 
     // Update is called once per frame
     void Update()
     {
         Movement();
+
         animator.SetFloat("movement", movement* speed);
+
         if (movement < 0)
         {
             transform.localScale= new Vector3(-7.591f,7,1);
@@ -41,15 +46,26 @@ public class Player : MonoBehaviour
             transform.localScale = new Vector3(7.591f, 7, 1);
             orientation = 7.591f;
         }
-        Jump();
+
+        if (enTrigger)
+        {
+            Subir();
+        }
+        else
+        {
+            Jump();
+        }
+            
         Shot();
     }
 
     private void Shot()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Space) && proyectilesRestantes > 0)
         {
-            // Determina dirección inicial
+            proyectilesRestantes--;
+
+            // Determina dirección inicial de la flecha
             Vector2 shootDirection = EstaEnSuelo() ? firePoint.right : Vector2.down;
 
             // Si orientation es menor a 0, invertir la dirección
@@ -77,17 +93,17 @@ public class Player : MonoBehaviour
         RaycastHit2D raycastHit2D= Physics2D.BoxCast(bc.bounds.center, new Vector2(bc.size.x, bc.size.y), 0f, Vector2.down, 0.8f, ground);
         return raycastHit2D.collider != null;
     }
-    //M�todo que hace saltar al personaje. Comprueba si se pulsa una tecla y aplica una fuerza de salto.
+    //Metodo que hace saltar al personaje. Comprueba si se pulsa una tecla y aplica una fuerza de salto.
     void Jump()
     {
         animator.SetBool("estaEnSuelo", EstaEnSuelo() );
-        if (Input.GetKeyDown(KeyCode.UpArrow) && coyoteTimer > 0) 
+        if (Input.GetKeyDown(KeyCode.UpArrow) && coyoteTimer > 0 && !enTrigger) 
         {
-            Debug.Log("Salto activado");
+            
             //Aplica la fuerza al salto, el segundo argumento indica que tipo de fuerza es, en este caso un impulso.
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
             animator.CrossFade("jump", 0.1f);
-            Debug.Log("Valor de 'jump' en el Animator: " + animator.GetBool("jump"));
+            
             StartCoroutine(ResetJumpAnimation());
         } else if (EstaEnSuelo())
         {
@@ -114,9 +130,13 @@ public class Player : MonoBehaviour
     {
         movement = Input.GetAxisRaw("Horizontal") * speed;
 
-        rb.linearVelocityX = movement * Time.deltaTime;
+        rb.linearVelocityX = movement;
     }
 
+    public void RecibirMunicion()
+    {
+        proyectilesRestantes++; // Suma 1 proyectil
+    }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -134,5 +154,23 @@ public class Player : MonoBehaviour
         {
             GameManager.instance.LoadLevel("Bloody Mary");
         }
+        if (collision.CompareTag("Subir"))
+            enTrigger = true;
+    }
+
+    private void Subir()
+    {
+        if (Input.GetKeyDown(KeyCode.UpArrow))
+        {
+            movement = Input.GetAxisRaw("Vertival") * speed;
+
+            rb.linearVelocityY = movement;
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Subir"))
+            enTrigger = false;
     }
 }

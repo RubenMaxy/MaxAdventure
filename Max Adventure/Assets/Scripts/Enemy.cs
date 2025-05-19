@@ -8,12 +8,16 @@ public class Enemy : MonoBehaviour
     public Transform groundCheck; // Objeto que verifica el suelo
     public LayerMask groundLayer; // Capa del suelo
     public float coyoteTime = 0.3f;
+    public Animator animator;
+    public GameObject itemMunicion;
 
     private float coyoteTimer;
+    private bool quieto = false;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        animator.SetBool("muerto", false);
         rb = this.GetComponent<Rigidbody2D>();
         groundCheck = transform.Find("GroundCheck");
     }
@@ -24,9 +28,11 @@ public class Enemy : MonoBehaviour
         //Darle movimiento
         if (rb != null)
         {
-            rb.linearVelocity = new Vector2(-speed, rb.linearVelocity.y);
+            if (!quieto)
+            {
+                rb.linearVelocity = new Vector2(-speed, rb.linearVelocity.y);
+            }
             Jump();
-
         }
     }
 
@@ -41,8 +47,18 @@ public class Enemy : MonoBehaviour
         // Si colisiona con un proyectil, se desactiva
         if (collision.gameObject.CompareTag("Proyectil"))
         {
-            gameObject.SetActive(false);
+            quieto = true;
+            animator.SetBool("muerto", true);
         }
+    }
+
+    public void Muerto()
+    {
+        animator.SetBool("muerto", false);
+        quieto = false;
+        // Instanciar la munición en la posición del enemigo
+        Instantiate(itemMunicion, transform.position, Quaternion.identity);
+        gameObject.SetActive(false);
     }
 
     private bool EstaEnSuelo()

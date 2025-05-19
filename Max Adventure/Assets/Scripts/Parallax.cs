@@ -32,7 +32,7 @@ public class Parallax : MonoBehaviour
             {
                 Material material = layer.layerSprite.material;
                 Vector2 targetOffset = deltaMovement * layer.parallaxFactor;
-                material.mainTextureOffset += targetOffset * Time.fixedDeltaTime;
+                material.mainTextureOffset += targetOffset;
             }
 
             previousTargetPosition = target.position;
