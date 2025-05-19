@@ -13,4 +13,9 @@ public class MenuManager : MonoBehaviour
         GameManager.instance.LoadLevel("Green Faery");
     }
 
+    public void ExitGame()
+    {
+        Application.Quit();
+    }
+
 }
