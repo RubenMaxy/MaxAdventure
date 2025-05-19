@@ -34,7 +34,7 @@ public class EnemyPool : MonoBehaviour
 
         if (hit.collider != null) // Hay suelo
         {
-            spawnPosition.y = hit.point.y; // Ajusta la posici�n al suelo detectado
+            spawnPosition.y = hit.point.y+1; // Ajusta la posicion al suelo detectado
 
             foreach (GameObject enemy in enemyPool)
             {
@@ -50,6 +50,5 @@ public class EnemyPool : MonoBehaviour
             enemyPool.Add(newEnemy);
         }
     }
-    //Crear un script para el enemigo con las colisiones y el movimiento
    
 }

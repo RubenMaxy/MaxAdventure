@@ -12,8 +12,12 @@ public class Player : MonoBehaviour
 
     private float movement = 0f; //Se inicia en el inspector
     private Vector2 startPos; //Posicion inicial
+    private float coyoteTimer;
+
 
     private float orientation;
+
+    public float coyoteTime = 0.2f;
     public Animator animator;
     public Rigidbody2D rb; //Se inicia en el inspector
     public BoxCollider2D bc;
@@ -77,8 +81,8 @@ public class Player : MonoBehaviour
     //M�todo que hace saltar al personaje. Comprueba si se pulsa una tecla y aplica una fuerza de salto.
     void Jump()
     {
-        animator.SetBool("estaEnSuelo", EstaEnSuelo());
-        if (Input.GetKeyDown(KeyCode.UpArrow) && EstaEnSuelo()) 
+        animator.SetBool("estaEnSuelo", EstaEnSuelo() );
+        if (Input.GetKeyDown(KeyCode.UpArrow) && coyoteTimer > 0) 
         {
             Debug.Log("Salto activado");
             //Aplica la fuerza al salto, el segundo argumento indica que tipo de fuerza es, en este caso un impulso.
@@ -86,6 +90,13 @@ public class Player : MonoBehaviour
             animator.CrossFade("jump", 0.1f);
             Debug.Log("Valor de 'jump' en el Animator: " + animator.GetBool("jump"));
             StartCoroutine(ResetJumpAnimation());
+        } else if (EstaEnSuelo())
+        {
+            coyoteTimer = coyoteTime; // reinicia el tiempo si está en el suelo
+        }
+        else
+        {
+            coyoteTimer -= Time.deltaTime;
         }
     }
 
@@ -109,9 +120,14 @@ public class Player : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Enemigo") || collision.CompareTag("Proyectil"))
+        if (collision.CompareTag("Caida"))
         {
-            GameManager.instance.PlayerHit();
+            GameManager.instance.GameOver();
+        }
+
+        if (collision.CompareTag("Finish"))
+        {
+            GameManager.instance.LoadLevel("Bloody Mary");
         }
     }
 }

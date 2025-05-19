@@ -26,11 +26,20 @@ public class Enemy : MonoBehaviour
         // Si colisiona con el jugador, le quita una vida
         if (collision.gameObject.CompareTag("Player"))
         {
-            GameManager.instance.PlayerHit(); // M�todo para reducir vidas del jugador
+            GameManager.instance.PlayerHit(); // Método para reducir vidas del jugador
         }
 
         // Si colisiona con un proyectil, se desactiva
         if (collision.gameObject.CompareTag("Proyectil"))
+        {
+            gameObject.SetActive(false);
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        // Si entra al trigger de la caida, se desactiva
+        if (collision.gameObject.CompareTag("Caida"))
         {
             gameObject.SetActive(false);
         }

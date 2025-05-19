@@ -8,6 +8,8 @@ TagManager:
   - PosiconPJ
   - Proyectil
   - Enemigo
+  - Pared
+  - Caida
   layers:
   - Default
   - TransparentFX
