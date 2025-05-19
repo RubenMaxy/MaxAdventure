@@ -118,7 +118,21 @@ public class Player : MonoBehaviour
         rb.linearVelocityX = movement * Time.deltaTime;
     }
 
+
     private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Caida"))
+        {
+            GameManager.instance.GameOver();
+        }
+
+        if (collision.CompareTag("Finish"))
+        {
+            GameManager.instance.LoadLevel("Bloody Mary");
+        }
+    }
+
+    private void OnTriggerStay2D(Collider2D collision)
     {
         if (collision.CompareTag("Caida"))
         {
