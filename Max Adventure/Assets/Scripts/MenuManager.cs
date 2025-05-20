@@ -22,4 +22,14 @@ public class MenuManager : MonoBehaviour
     {
         GameManager.instance.LoadLevel("Green Faery");
     }
+
+    public void History()
+    {
+        GameManager.instance.LoadLevel("Historia");
+    }
+
+    public void Credits()
+    {
+        GameManager.instance.LoadLevel("Creditos");
+    }
 }

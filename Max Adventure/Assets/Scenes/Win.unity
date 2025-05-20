@@ -309,7 +309,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: VOLVER A MENU
+  m_text: VOLVER AL MENU
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0f5c1d9d7b857a9419c83309ffd33b7f, type: 2}
   m_sharedMaterial: {fileID: -9187402481473109166, guid: 0f5c1d9d7b857a9419c83309ffd33b7f, type: 2}
@@ -318,8 +318,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4290969855
-  m_fontColor: {r: 1, g: 0, b: 0.76640606, a: 1}
+    rgba: 4294902272
+  m_fontColor: {r: 0, g: 0.009376049, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -344,9 +344,9 @@ MonoBehaviour:
   m_fontSizeMax: 72
   m_fontStyle: 32
   m_HorizontalAlignment: 2
-  m_VerticalAlignment: 512
+  m_VerticalAlignment: 4096
   m_textAlignment: 65535
-  m_characterSpacing: 0
+  m_characterSpacing: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
