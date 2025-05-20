@@ -1769,8 +1769,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50aee25369e17f143babdc3141a938ee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerLives: 1
   hasArmor: 0
+  proyectilesRestantes: 0
+  maxProyectiles: 5
 --- !u!4 &2012312534
 Transform:
   m_ObjectHideFlags: 0

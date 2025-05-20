@@ -1,18 +1,19 @@
+using TMPro;
 using UnityEngine;
 
 public class BajarSubirTexto : MonoBehaviour
 {
-    public float speed = 2.0f;
-    public Camera mainCamera;
+    public TextMeshProUGUI textMeshPro;
+    public float speed = 150f;
 
     public void MoveUp()
     {
-        mainCamera.transform.position += Vector3.up * speed;
+        textMeshPro.rectTransform.anchoredPosition += Vector2.down * speed;
     }
 
     public void MoveDown()
     {
-        mainCamera.transform.position += Vector3.down * speed;
+        textMeshPro.rectTransform.anchoredPosition += Vector2.up * speed;
     }
 
     public void Back()

@@ -10,6 +10,7 @@ public class Enemy : MonoBehaviour
     public float coyoteTime = 0.3f;
     public Animator animator;
     public GameObject itemMunicion;
+    public GameObject armorItemPrefab; // Prefab del ítem de armadura
 
     private float coyoteTimer;
     private bool quieto = false;
@@ -54,10 +55,18 @@ public class Enemy : MonoBehaviour
 
     public void Muerto()
     {
+        float dropChance = Random.Range(0f, 1f);
         animator.SetBool("muerto", false);
         quieto = false;
+
         // Instanciar la munición en la posición del enemigo
         Instantiate(itemMunicion, transform.position, Quaternion.identity);
+
+        //10% de posibilidad de conseguir una armadura
+        if (dropChance <= 0.1f)
+        {
+            Instantiate(armorItemPrefab, transform.position, Quaternion.identity);
+        }
         gameObject.SetActive(false);
     }
 

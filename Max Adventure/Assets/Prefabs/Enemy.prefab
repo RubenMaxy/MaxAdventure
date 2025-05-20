@@ -171,6 +171,7 @@ MonoBehaviour:
   coyoteTime: 0.3
   animator: {fileID: 3883735183156448987}
   itemMunicion: {fileID: 1867526319852776416, guid: fa1a3801103597e408437623b1d4e96b, type: 3}
+  armorItemPrefab: {fileID: 2204481203135511739, guid: c0103d6eb18fca64ab1c2a5ab29626b5, type: 3}
 --- !u!61 &7392275514568428525
 BoxCollider2D:
   m_ObjectHideFlags: 0

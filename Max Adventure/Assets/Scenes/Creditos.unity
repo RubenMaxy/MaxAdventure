@@ -329,8 +329,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ef3399bc2ad13949a8414ffe9cb8533, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2
-  mainCamera: {fileID: 1613712638}
+  textMeshPro: {fileID: 1801799947}
+  speed: 100
 --- !u!1 &1316153209
 GameObject:
   m_ObjectHideFlags: 0

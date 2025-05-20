@@ -16,18 +16,17 @@ public class Player : MonoBehaviour
 
     private float orientation;
 
-    public int maxProyectiles = 5; // Número máximo de proyectiles
     private int proyectilesRestantes;
     public float coyoteTime = 0.2f;
     public Animator animator;
     public Rigidbody2D rb; //Se inicia en el inspector
     public BoxCollider2D bc;
-   
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         startPos = transform.position;
-        proyectilesRestantes = maxProyectiles;
+        proyectilesRestantes = GameManager.instance.proyectilesRestantes;
     }
 
     // Update is called once per frame
@@ -64,6 +63,8 @@ public class Player : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space) && proyectilesRestantes > 0)
         {
             proyectilesRestantes--;
+
+            GameManager.instance.UpdateArrowCount(proyectilesRestantes); // Envía el nuevo conteo
 
             // Determina dirección inicial de la flecha
             Vector2 shootDirection = EstaEnSuelo() ? firePoint.right : Vector2.down;
@@ -136,6 +137,7 @@ public class Player : MonoBehaviour
     public void RecibirMunicion()
     {
         proyectilesRestantes++; // Suma 1 proyectil
+        GameManager.instance.UpdateArrowCount(proyectilesRestantes); // Envía el nuevo conteo
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

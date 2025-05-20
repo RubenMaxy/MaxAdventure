@@ -4,28 +4,35 @@ using UnityEngine.SceneManagement;
 public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
+    public static event System.Action<bool> OnArmorChanged;  //Evento que avisa a la UI de que debe activar o no el icono de armadura.
+    public static event System.Action<int> OnArrowCountChanged; //Evento que avisa a la UI de que debe activar o no el icono de la flecha y la cantidad que hay
 
-    public int playerLives = 1; // Vida base
     public bool hasArmor = false; // Indica si el jugador tiene armadura
+    public int proyectilesRestantes;
+    public int maxProyectiles = 5; // Número máximo de proyectiles
 
     private void Awake()
     {
-        if (instance == null)
+
+        if (instance != null)
         {
-            instance = this;
-            DontDestroyOnLoad(gameObject);
+            Destroy(instance.gameObject); // Destruye la instancia anterior si existe
         }
-        else
-        {
-            Destroy(gameObject);
-        }
+        instance = this;
+        DontDestroyOnLoad(gameObject);
+        proyectilesRestantes = maxProyectiles;
     }
 
     public void EquipArmor()
     {
         hasArmor = true;
-        playerLives = 2;
-        Debug.Log("¡Has conseguido una armadura! Vidas: " + playerLives);
+        OnArmorChanged?.Invoke(hasArmor); // Notifica a la UI
+    }
+
+    public void UpdateArrowCount(int proyectilesRestantes)
+    {
+        this.proyectilesRestantes = proyectilesRestantes;
+        OnArrowCountChanged?.Invoke(proyectilesRestantes); // Notifica a la UI
     }
 
     public void GameOver()
@@ -39,8 +46,7 @@ public class GameManager : MonoBehaviour
         if (hasArmor)
         {
             hasArmor = false;
-            playerLives = 1;
-            Debug.Log("Perdiste la armadura, ahora tienes " + playerLives + " vida.");
+            OnArmorChanged?.Invoke(hasArmor); // Notifica a la UI
         }
         else
         {
