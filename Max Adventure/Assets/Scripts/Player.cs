@@ -164,9 +164,9 @@ public class Player : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.UpArrow))
         {
-            movement = Input.GetAxisRaw("Vertival") * speed;
+            //movement = Input.GetAxisRaw("Horizontal") * speed;
 
-            rb.linearVelocityY = movement;
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, speed);
         }
     }
 
