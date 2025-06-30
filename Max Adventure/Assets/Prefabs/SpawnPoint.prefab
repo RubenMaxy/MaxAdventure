@@ -44,9 +44,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 447e8c286732c584895876dc26f0d8c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyPrefab: {fileID: 9087646508608746026, guid: 62fbea2ff7ab52242a87724a2c9cab8c, type: 3}
+  enemyPrefab: {fileID: 7668707026937567260, guid: 086f48ecb924d1d4e993fd18caf4f107, type: 3}
   poolSize: 5
-  spawnInterval: 3
+  spawnInterval: 5
   spawnPoint: {fileID: 1268537123881796097}
   maxGroundCheckDistance: 10
   groundLayer:

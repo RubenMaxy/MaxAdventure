@@ -5,7 +5,6 @@ public class Parallax : MonoBehaviour
     [SerializeField] private Transform target; // Referencia a la cámara
     [SerializeField] private ParallaxLayer[] layers; // Capas del fondo
 
-    [System.Serializable]
     public class ParallaxLayer
     {
         public SpriteRenderer layerSprite;

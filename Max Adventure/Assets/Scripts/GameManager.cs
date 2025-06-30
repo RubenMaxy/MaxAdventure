@@ -23,6 +23,8 @@ public class GameManager : MonoBehaviour
         proyectilesRestantes = maxProyectiles;
     }
 
+
+
     public void EquipArmor()
     {
         hasArmor = true;

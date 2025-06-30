@@ -59,13 +59,15 @@ public class Enemy : MonoBehaviour
         animator.SetBool("muerto", false);
         quieto = false;
 
+        Vector3 offSet = new Vector3(-0.3f, 0f, 0f);
+
         // Instanciar la munición en la posición del enemigo
-        Instantiate(itemMunicion, transform.position, Quaternion.identity);
+        Instantiate(itemMunicion, transform.position + offSet, Quaternion.identity);
 
         //10% de posibilidad de conseguir una armadura
         if (dropChance <= 0.1f)
         {
-            Instantiate(armorItemPrefab, transform.position, Quaternion.identity);
+            Instantiate(armorItemPrefab, transform.position - offSet, Quaternion.identity);
         }
         gameObject.SetActive(false);
     }

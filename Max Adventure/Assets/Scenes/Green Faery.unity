@@ -1614,7 +1614,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5010067539991273349, guid: 60f55152a0bea4348809d34b68e50770, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 23.972
+      value: 23.964
       objectReference: {fileID: 0}
     - target: {fileID: 5010067539991273349, guid: 60f55152a0bea4348809d34b68e50770, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3216,8 +3216,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 3927563139052458147}
     - target: {fileID: 2517161229943192341, guid: 6a77bcbd359eae747b66f3d13ec61fa4, type: 3}
+      propertyPath: layers.Array.data[1].layerSprite
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2517161229943192341, guid: 6a77bcbd359eae747b66f3d13ec61fa4, type: 3}
       propertyPath: layers.Array.data[0].parallaxFactor
-      value: 0.1
+      value: 0.0001
       objectReference: {fileID: 0}
     - target: {fileID: 2517161229943192341, guid: 6a77bcbd359eae747b66f3d13ec61fa4, type: 3}
       propertyPath: layers.Array.data[1].parallaxFactor
@@ -3307,8 +3311,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: Main Camera
       objectReference: {fileID: 0}
+    - target: {fileID: 7489917025924933282, guid: 6a77bcbd359eae747b66f3d13ec61fa4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -10.63
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 3145007595267150278, guid: 6a77bcbd359eae747b66f3d13ec61fa4, type: 3}
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 2776019769108489983, guid: 6a77bcbd359eae747b66f3d13ec61fa4, type: 3}
       insertIndex: -1

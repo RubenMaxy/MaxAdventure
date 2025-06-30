@@ -12,8 +12,12 @@ public class Proyectil : MonoBehaviour
 
     private void Update()
     {
-        transform.position += (Vector3)shootDirection* speed * Time.deltaTime; // Mover
+        transform.position += (Vector3)shootDirection * speed * Time.deltaTime; //Mover
+
+        float angle = Mathf.Atan2(shootDirection.y, shootDirection.x) * Mathf.Rad2Deg;
+        transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
     }
+
 
     private void OnCollisionEnter2D(Collision2D collision)
     {

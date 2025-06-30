@@ -8,6 +8,7 @@ public class Player : MonoBehaviour
     [SerializeField] private LayerMask ground;
     [SerializeField] private GameObject projectilePrefab; //Referencia al prefab del proyectil
     [SerializeField] private float jumpForce = 10f; //Fuerza que se aplica al salto del personaje. Se modificar� desde el inspector.
+    private bool esperandoRecarga = false;
 
     private float movement = 0f; //Se inicia en el inspector
     private Vector2 startPos; //Posicion inicial
@@ -67,13 +68,8 @@ public class Player : MonoBehaviour
             GameManager.instance.UpdateArrowCount(proyectilesRestantes); // Envía el nuevo conteo
 
             // Determina dirección inicial de la flecha
-            Vector2 shootDirection = EstaEnSuelo() ? firePoint.right : Vector2.down;
+            Vector2 shootDirection = EstaEnSuelo() ? new Vector2(orientation < 0 ? -1f : 1f, -0.07f).normalized : new Vector2(orientation < 0 ? -0.7f : 0.7f, -1f).normalized;
 
-            // Si orientation es menor a 0, invertir la dirección
-            if (orientation < 0)
-            {
-                shootDirection = EstaEnSuelo() ? -firePoint.right : Vector2.down;
-            }
 
             // Crea el proyectil y le asigna la dirección correcta en la que debe moverse
             GameObject projectile = Instantiate(projectilePrefab, firePoint.position, Quaternion.identity);
@@ -86,6 +82,12 @@ public class Player : MonoBehaviour
                 proyectilScript.SetDirection(shootDirection);
             }
         }
+
+        if (proyectilesRestantes == 0)
+        {
+            VerificarRecarga();
+        }
+
     }
 
     bool EstaEnSuelo()
@@ -164,8 +166,6 @@ public class Player : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.UpArrow))
         {
-            //movement = Input.GetAxisRaw("Horizontal") * speed;
-
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, speed);
         }
     }
@@ -174,5 +174,24 @@ public class Player : MonoBehaviour
     {
         if (collision.CompareTag("Subir"))
             enTrigger = false;
+    }
+
+    private void VerificarRecarga()
+    {
+        if (proyectilesRestantes == 0 && !esperandoRecarga)
+        {
+            StartCoroutine(RecargarFlecha());
+        }
+    }
+
+    private IEnumerator RecargarFlecha()
+    {
+        esperandoRecarga = true;
+        yield return new WaitForSeconds(2f);
+
+        proyectilesRestantes++;
+        GameManager.instance.UpdateArrowCount(proyectilesRestantes); // Actualiza UI
+
+        esperandoRecarga = false;
     }
 }
