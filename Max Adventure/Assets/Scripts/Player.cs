@@ -23,6 +23,11 @@ public class Player : MonoBehaviour
     public Rigidbody2D rb; //Se inicia en el inspector
     public BoxCollider2D bc;
 
+    [SerializeField] private Vector2 tamañoNormal = new Vector2(1f, 2f);
+    [SerializeField] private Vector2 tamañoSalto = new Vector2(1f, 1.5f);
+    [SerializeField] private Vector2 offsetNormal = new Vector2(0f, 0f);
+    [SerializeField] private Vector2 offsetSalto = new Vector2(0f, -0.25f);
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -57,6 +62,7 @@ public class Player : MonoBehaviour
         }
             
         Shot();
+
     }
 
     private void Shot()
@@ -106,7 +112,7 @@ public class Player : MonoBehaviour
             //Aplica la fuerza al salto, el segundo argumento indica que tipo de fuerza es, en este caso un impulso.
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
             animator.CrossFade("jump", 0.1f);
-            
+
             StartCoroutine(ResetJumpAnimation());
         } else if (EstaEnSuelo())
         {
@@ -126,6 +132,7 @@ public class Player : MonoBehaviour
         }
 
         animator.SetBool("jump", false);
+
     }
 
     //Método que gestiona el movimiento a derecha o izquierda del personaje.
