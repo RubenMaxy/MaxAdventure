@@ -3276,19 +3276,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2517161229943192341, guid: 6a77bcbd359eae747b66f3d13ec61fa4, type: 3}
       propertyPath: layers.Array.data[2].parallaxFactor
-      value: 0.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2517161229943192341, guid: 6a77bcbd359eae747b66f3d13ec61fa4, type: 3}
-      propertyPath: layers.Array.data[3].parallaxFactor
       value: 0.03
       objectReference: {fileID: 0}
     - target: {fileID: 2517161229943192341, guid: 6a77bcbd359eae747b66f3d13ec61fa4, type: 3}
-      propertyPath: layers.Array.data[4].parallaxFactor
+      propertyPath: layers.Array.data[3].parallaxFactor
       value: 0.01
       objectReference: {fileID: 0}
     - target: {fileID: 2517161229943192341, guid: 6a77bcbd359eae747b66f3d13ec61fa4, type: 3}
-      propertyPath: layers.Array.data[5].parallaxFactor
+      propertyPath: layers.Array.data[4].parallaxFactor
       value: 0.07
+      objectReference: {fileID: 0}
+    - target: {fileID: 2517161229943192341, guid: 6a77bcbd359eae747b66f3d13ec61fa4, type: 3}
+      propertyPath: layers.Array.data[5].parallaxFactor
+      value: 0.03
       objectReference: {fileID: 0}
     - target: {fileID: 2517161229943192341, guid: 6a77bcbd359eae747b66f3d13ec61fa4, type: 3}
       propertyPath: layers.Array.data[6].parallaxFactor
@@ -3296,7 +3296,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2517161229943192341, guid: 6a77bcbd359eae747b66f3d13ec61fa4, type: 3}
       propertyPath: layers.Array.data[7].parallaxFactor
-      value: 0.03
+      value: 0.02
       objectReference: {fileID: 0}
     - target: {fileID: 2517161229943192341, guid: 6a77bcbd359eae747b66f3d13ec61fa4, type: 3}
       propertyPath: layers.Array.data[8].parallaxFactor
@@ -3304,7 +3304,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2517161229943192341, guid: 6a77bcbd359eae747b66f3d13ec61fa4, type: 3}
       propertyPath: layers.Array.data[9].parallaxFactor
-      value: 0.02
+      value: 0.01
       objectReference: {fileID: 0}
     - target: {fileID: 2517161229943192341, guid: 6a77bcbd359eae747b66f3d13ec61fa4, type: 3}
       propertyPath: layers.Array.data[10].parallaxFactor
@@ -3601,7 +3601,7 @@ PrefabInstance:
       objectReference: {fileID: 7668707026937567260, guid: 086f48ecb924d1d4e993fd18caf4f107, type: 3}
     - target: {fileID: 2749269012604004788, guid: bef61469cac3ae04c8b7391bf2dafb08, type: 3}
       propertyPath: spawnInterval
-      value: 3
+      value: 5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

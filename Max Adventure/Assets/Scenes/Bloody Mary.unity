@@ -181,7 +181,7 @@ PrefabInstance:
       objectReference: {fileID: 7668707026937567260, guid: 086f48ecb924d1d4e993fd18caf4f107, type: 3}
     - target: {fileID: 2749269012604004788, guid: bef61469cac3ae04c8b7391bf2dafb08, type: 3}
       propertyPath: spawnInterval
-      value: 2.3
+      value: 3.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3882,7 +3882,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5051495430167582477, guid: 37a4c17741c06dd4db559988f77e8c4b, type: 3}
       propertyPath: layers.Array.data[2].parallaxFactor
-      value: 0.03
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 5051495430167582477, guid: 37a4c17741c06dd4db559988f77e8c4b, type: 3}
       propertyPath: layers.Array.data[3].parallaxFactor
