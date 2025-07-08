@@ -156,7 +156,7 @@ public class Player : MonoBehaviour
             GameManager.instance.GameOver();
         }
 
-        if ((collision.CompareTag("Finish") && GameManager.instance.CurrentScene()== "Bloody Mary"))
+        if (collision.CompareTag("End"))
         {
             GameManager.instance.LoadLevel("Win");
         }

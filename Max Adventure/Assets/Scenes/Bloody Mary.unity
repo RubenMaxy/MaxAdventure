@@ -578,7 +578,7 @@ GameObject:
   - component: {fileID: 317067973}
   m_Layer: 0
   m_Name: FinNivel
-  m_TagString: Finish
+  m_TagString: End
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
